@@ -27,18 +27,52 @@
 **Age**: 35
 **Background**: Former Boston Police Department detective, now private investigator
 **Physical**: Asian-American, 5'6", athletic build, dark hair usually in practical ponytail
-**Personality**: Analytical, methodical, empathetic but guarded
-**Skills**: Excellent investigative instincts, psychology background, observant
-**Flaws**: Suppressed trauma makes her vulnerable to manipulation, financial stress clouds judgment
+**Personality**: Analytical, methodical, empathetic but guarded, naturally organized, intuitive
+**Skills**: Excellent investigative instincts, deep psychological insight, runs on intuition (usually correct), over-prepares extensively
+**Flaws**: Suppressed trauma makes her vulnerable to manipulation, financial stress clouds judgment, haunted by past investigative failure
 **Hidden Truth**: Spent childhood summers on the island, best friends with Sarah, witnessed traumatic event
 **Character Arc**: From confident investigator → confused victim → empowered survivor
 
 **Background Details**:
-- Parents were therapists who worked with the Blackwood family
+- Born and raised in Columbia, South Carolina - parents were therapists who worked with the Blackwood family
 - Suffered "breakdown" at age 8, underwent therapy that suppressed island memories
-- Left police force after similar case triggered panic attacks she couldn't explain
+- Left police force 5 years ago after wrongly identifying a killer in a family murder case - led to another death and triggered panic attacks
 - Struggling financially, making her vulnerable to suspicious high-paying cases
-- Lives alone in small Boston apartment, few close relationships
+- Lives alone in small, meticulously organized Boston apartment (except messy refrigerator), survives on takeout
+- Distant, distrustful relationship with parents - avoids contact, believes they're embarrassed by her PI career
+
+**Speech Patterns & Voice**:
+- Southern drawl emerges when stressed, excited, or close to solving cases
+- Professional mode: Crisp, direct, to the point ("Mr. Blackwood, I appreciate you taking the time..." "Can you be more specific?")
+- When threatened/defensive: Goes very quiet, minimal verbal response ("Is that so." "Mm-hmm." "I see."), uses deliberate pauses and controlled movements
+- Memory fragments: Speaks details aloud, very descriptive
+- Stressed internal voice: Heavy Southern drawl with expressions like "Lord have mercy," "what in the Sam Hill," "sure as I'm standin' here," "my foot," "worth a damn," "might could," "wrong as rain," "what in tarnation," "fixin' to," "cocky as all get-out"
+- Southern expressions: "Y'all," "Bless your heart," "Howdy," "Fit as a fiddle," "Full as a tick," "Hankering," "Might could," "I don't have a dog in this fight," "Over yonder," "Knee high to a grasshopper," "You can't make a silk purse out of a sow's ear," "Pretty as a peach"
+
+**Dialogue Examples**:
+- Professional interview: "I need to ask directly - when was the last time you spoke with Sarah? What did y'all discuss?" (slight Southern inflection when engaging investigative instincts)
+- Defensive mode: Becomes extremely quiet, uses flat statements rather than questions, deliberate pauses, controlled movements, subtle steel underneath: "Thank you for your time, Dr. Blackwood... I'll be in touch."
+- Stressed internal monologue: "Lord have mercy, what in the Sam Hill is wrong with me? My hands are shakin' like a leaf in a thunderstorm... That family downstairs is lyin' through their teeth about somethin'... I was wrong as rain... What in tarnation was that?"
+
+**Physical Habits & Quirks**:
+- Taps right index finger when thinking hard or stressed
+- Religiously carries and checks cell phone constantly
+- Naturally organized living space (everything in its place) except refrigerator which is always messy
+- Lives on takeout despite orderly nature
+- Laughs at over-the-top ridiculous situations
+
+**Professional Style**:
+- Signature technique: Deep intuitive insight combined with methodical over-preparation
+- Able to tease out correct answers with minimal information
+- Runs on intuition which is usually accurate
+- Over-prepares compulsively due to past failure trauma
+
+**Psychological Profile**:
+- Greatest fear: Failing those she's trying to help (rooted in past failure)
+- Sleepless nights consumed by current cases and self-criticism about past performance
+- Past failure: 5 years ago wrongly identified killer in family murder case, leading to another death
+- This failure caused panic attacks and departure from police force
+- Creates perfect psychological parallel for Blackwood family investigation
 
 ### Sarah Blackwood (Victim)
 **Age**: 33 (at time of death)
@@ -64,11 +98,18 @@
 **Methods**: Gaslighting, inappropriate medications, false diagnoses, isolation tactics
 
 **Background Details**:
+- Born and raised in Chicago - retains Midwestern directness and Chicago mannerisms
 - Graduated medical school 1980, specialized in psychiatry initially
 - Took over as family doctor when Sarah was child
 - Has been systematically medicating and manipulating family members
 - Covers up childhood incident that traumatized Maya and Sarah
 - Views himself as maintaining family stability and reputation
+
+**Speech Patterns & Voice**:
+- Chicago background: Direct, no-nonsense speaking style with Midwestern practicality
+- Uses Chicago expressions and mannerisms when relaxed or angry
+- Professional medical authority voice overlaying Chicago roots
+- Becomes more blunt and Chicago-direct when challenged or threatened
 
 ### Eleanor Blackwood (Family Matriarch)
 **Age**: 70
@@ -94,11 +135,18 @@
 **Hidden Truth**: Suspects family involvement in Sarah's death but too afraid to act
 
 **Background Details**:
+- Born and raised in New York - retains New York directness and mannerisms
 - Never married Sarah's mother (who died in childbirth)
 - Raised Sarah as single father under Eleanor's guidance
 - Works in family investment firm but has little real authority
 - Has been medicated by Richard for "anxiety" for years
 - Genuinely wants truth about Sarah's death but fears family consequences
+
+**Speech Patterns & Voice**:
+- New York background: Fast-talking, direct communication style with New York expressions
+- Nervous rambling with New York cadence when stressed or emotional
+- Uses New York mannerisms and phrases when agitated or passionate
+- Speech becomes more clipped and New York-direct when defending Sarah's memory
 
 ### Detective Lisa Park (Ally)
 **Age**: 42
@@ -109,11 +157,19 @@
 **Hidden Truth**: Always suspected murder but lacked evidence to prove it
 
 **Background Details**:
+- Born and raised in Atlanta, Georgia - shares Southern background with Maya
 - 15 years on force, transferred from larger city seeking quieter life
 - Thorough investigation limited by family influence and pressure from superiors
 - Keeps detailed personal notes about case inconsistencies
 - Lives on mainland but knows island families well
 - Becomes crucial ally when Maya needs law enforcement support
+
+**Speech Patterns & Voice**:
+- Atlanta Southern background: Shares similar Southern expressions and drawl with Maya
+- Professional law enforcement voice with underlying Southern warmth
+- Southern drawl emerges when frustrated or passionate about justice
+- Common ground with Maya through shared Southern expressions and mannerisms
+- Uses Southern phrases when building rapport or expressing frustration with case limitations
 
 ## Minor Characters
 
