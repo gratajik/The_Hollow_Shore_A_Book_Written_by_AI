@@ -4,25 +4,28 @@ This document tracks the current state of your book project. It should be update
 
 ## Current Work Focus
 
-**Primary Focus**: Chapter 1 complete - preparing for Chapter 2 "The House of Secrets"
+**Primary Focus**: Chapter 3 complete - preparing for Chapter 4 "Morning Confrontations"
 
 **Secondary Tasks**: 
-- Continue developing Maya's voice with enhanced Southern drawl patterns
-- Deepen investigation into Sarah's death and family dynamics
-- Build on established atmospheric tension and memory fragments
+- Escalate Dr. Richard's attempts to medicate/control Maya
+- Develop Maya's strategy for protecting herself while continuing investigation
+- Explore contact with outside world (Detective Park) for support
+- Deepen basement evidence and what it reveals about pattern of abuse
 
 **Blocked Items**: None currently
 
-**Time Frame**: Chapter 1 completed June 26, 2025; Chapter 2 to begin immediately
+**Time Frame**: Chapter 3 completed June 26, 2025; Chapter 4 to begin immediately
 
 ## Recent Changes
 
 **Latest Updates**:
-- Completed Chapter 1 "The Ferry to Blackwood Island" (June 26, 2025)
-- Enhanced Maya Chen's character with detailed Southern background and speech patterns
-- Added regional backgrounds for Dr. Richard (Chicago), James (New York), and Detective Park (Atlanta)
-- Established Maya's physical habits (finger tapping, phone checking) and past trauma (Marcus Williams case)
-- Successfully introduced false commission mystery hook and atmospheric island setting
+- Completed Chapter 3 "First Night Revelations" (June 26, 2025)
+- Maya discovers childhood photos proving her presence on island as child
+- Found her own medical file documenting memory suppression therapy by Dr. Richard
+- Major memory fragment surfaces: witnessing childhood cover-up with Dr. Richard disposing evidence
+- Family dinner reveals contradictions about "the accident" - systematic manipulation exposed
+- Dr. Richard escalates psychological pressure, offers sedatives to "help" Maya's memories
+- Maya realizes she's trapped with family that covered up one death and will cover up another
 
 **Decisions Made**:
 - Maya's Southern drawl emerges naturally under stress ("Lord have mercy," "knee-high to a grasshopper")

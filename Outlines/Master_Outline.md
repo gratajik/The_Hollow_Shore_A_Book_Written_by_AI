@@ -112,9 +112,12 @@
 
 ## Chapter Structure Overview
 
-**Chapters 1-3**: Maya's arrival and initial investigation setup
-**Chapters 4-6**: Discovery of murder, meeting the family, storm arrives
-**Chapters 7-9**: First family secrets emerge, Maya's memory flashes begin
+**Chapters 1-3**: Maya's arrival, discovery of murder, initial family dynamics established
+- Chapter 1: Maya arrives on island, meets Eleanor and James, discovers Sarah was murdered
+- Chapter 2: Dr. Richard introduced, Maya investigates Sarah's room, storm traps her on island
+- Chapter 3: Family dinner reveals contradictions, Maya finds childhood photos and medical files, major memory fragment surfaces
+**Chapters 4-6**: Maya's defensive strategies, deeper investigation, escalating family pressure
+**Chapters 7-9**: First family secrets emerge, Maya's memory flashes intensify
 **Chapters 10-12**: Sarah's recent past revealed through investigation
 **Chapters 13-15**: Family manipulation tactics exposed, Maya realizes she's been deceived
 **Chapters 16-18**: Maya's childhood connection to island becomes clear
