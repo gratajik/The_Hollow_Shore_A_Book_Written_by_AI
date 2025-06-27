@@ -104,12 +104,17 @@
 - Has been systematically medicating and manipulating family members
 - Covers up childhood incident that traumatized Maya and Sarah
 - Views himself as maintaining family stability and reputation
+- Recognizes Maya from childhood but pretends not to know her
+- Suspicious of Maya's psychology background and mental health history
+- Offers medical assistance (sleeping pills) as subtle control tactic
 
 **Speech Patterns & Voice**:
 - Chicago background: Direct, no-nonsense speaking style with Midwestern practicality
 - Uses Chicago expressions and mannerisms when relaxed or angry
 - Professional medical authority voice overlaying Chicago roots
 - Becomes more blunt and Chicago-direct when challenged or threatened
+- Key phrases: "Let's cut to the chase here," "You seem familiar. Have we met?"
+- Veiled threats disguised as medical concern: "Memory is such a fragile thing"
 
 ### Eleanor Blackwood (Family Matriarch)
 **Age**: 70

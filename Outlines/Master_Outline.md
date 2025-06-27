@@ -116,7 +116,9 @@
 - Chapter 1: Maya arrives on island, meets Eleanor and James, discovers Sarah was murdered
 - Chapter 2: Dr. Richard introduced, Maya investigates Sarah's room, storm traps her on island
 - Chapter 3: Family dinner reveals contradictions, Maya finds childhood photos and medical files, major memory fragment surfaces
-**Chapters 4-6**: Maya's defensive strategies, deeper investigation, escalating family pressure
+**Chapters 4-6**: Maya's strategic confrontation, physical danger, family's final assault
+- Chapter 4: Maya's morning strategy, family breakfast warfare, Dr. Richard's forced medication attempt, physical confrontation and escape
+- Chapters 5-6: Hidden passages assault, Maya's final stand, family's desperate measures
 **Chapters 7-9**: First family secrets emerge, Maya's memory flashes intensify
 **Chapters 10-12**: Sarah's recent past revealed through investigation
 **Chapters 13-15**: Family manipulation tactics exposed, Maya realizes she's been deceived
