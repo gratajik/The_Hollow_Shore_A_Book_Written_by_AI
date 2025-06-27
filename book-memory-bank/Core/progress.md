@@ -4,13 +4,13 @@ This document tracks the overall progress of your book project. It serves as a d
 
 ## Current Status
 
-**Project Phase**: Pre-Drafting (Planning Complete, Ready to Begin Writing)
+**Project Phase**: Active Drafting (Chapter 1 Complete)
 
-**Completion Percentage**: 5% (Planning and structure complete, no chapters written yet)
+**Completion Percentage**: 8% (1 of 28 chapters complete, approximately 2,800 of 90,000 words)
 
 **Deadline Status**: On track (6-month timeline for first draft)
 
-**Current Milestone**: Begin writing Chapter 1 "The Ferry to Blackwood Island"
+**Current Milestone**: Chapter 1 complete; beginning Chapter 2 "The House of Secrets"
 
 ## What Works
 
@@ -39,14 +39,14 @@ This document tracks the overall progress of your book project. It serves as a d
 ## What's Left to Build
 
 **Incomplete Sections**:
-- All 28 chapters require drafting
-- Complete manuscript (90,000 words)
-- Character dialogue and voice development through writing process
-- Atmospheric descriptions bringing island and mansion to life
+- Chapters 2-28 require drafting
+- Remaining manuscript (approximately 87,200 words)
+- Continue developing character voices through dialogue
+- Deepen atmospheric descriptions of island and mansion
 
 **Drafting Needed**:
-- Chapter 1: Maya's atmospheric arrival and false commission revelation
-- Chapters 2-9: Establishing mystery, family dynamics, memory fragments
+- Chapter 2: Maya's decision to stay, meeting Dr. Richard, investigating Sarah's room
+- Chapters 3-9: Establishing mystery, family dynamics, memory fragments
 - Chapters 10-19: Investigation deepening, secrets revealed, personal connection discovered
 - Chapters 20-28: Major twist, childhood trauma revealed, confrontation and resolution
 
