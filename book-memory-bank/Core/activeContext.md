@@ -4,7 +4,7 @@ This document tracks the current state of your book project. It should be update
 
 ## Current Work Focus
 
-**Primary Focus**: Chapter 6 complete - preparing for Chapter 7 "Aftermath"
+**Primary Focus**: Chapter 15 complete - Dr. Richard's interrogation reveals his full ideology, preparing for Chapter 16
 
 **Secondary Tasks**: 
 - Escalate Dr. Richard's attempts to medicate/control Maya
@@ -19,15 +19,13 @@ This document tracks the current state of your book project. It should be update
 ## Recent Changes
 
 **Latest Updates**:
-- Completed Chapter 6 "The Choice" (June 26, 2025)
-- Maya's rescue of current victim while facing Dr. Richard's ultimatum
-- Detective Park's intervention and arrival with police backup
-- Final confrontation: Maya defending herself and child against Dr. Richard's lethal attack
-- James's full redemption through choosing truth over family loyalty, protecting Maya
-- Dr. Richard and Eleanor arrested for decades of abuse, murder, and conspiracy
-- Current victim rescued and receiving medical attention
-- Maya's complete empowerment and breaking of childhood trauma cycle
-- Justice beginning for Sarah, Tommy Morrison, and all victims
+- Completed Chapter 15 "The Devil's Logic" (June 27, 2025) - Dr. Richard's interrogation.
+- Maya confronts Dr. Richard directly, using her own memories as a weapon.
+- Richard reveals his full "Doctrine of Preservation," framing his crimes as a noble act of saving children from the "disease" of adulthood.
+- He confirms the "Collectors' Circle" is a network of wealthy patrons who buy his "art" - the preserved consciousnesses of children.
+- He reveals Sarah was to be his "masterpiece."
+- When cornered, he psychologically attacks Maya, implying her parents had a darker reason for wanting her memories erased.
+- The interrogation provides critical intelligence but leaves Maya with new, poisonous doubts.
 
 **Decisions Made**:
 - Maya's Southern drawl emerges naturally under stress ("Lord have mercy," "knee-high to a grasshopper")

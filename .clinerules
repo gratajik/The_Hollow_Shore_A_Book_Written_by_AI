@@ -88,11 +88,16 @@ I will automatically maintain the memory bank using the following protocol:
    - Plot changes → Update master_outline.md AND activeContext.md AND relevant character sections
    - Theme/narrative development → Update story_structure.md AND activeContext.md
 
-3. For character updates:
-   - New characters: Add complete profile to world_and_characters.md
-   - Existing characters: Update traits, relationships, goals, and arc progression
+3. For character updates (CRITICAL - world_and_characters.md MUST be updated):
+   - New characters: Add complete profile to world_and_characters.md with full background, role, and function
+   - Existing characters: Update traits, relationships, goals, and arc progression in their character profiles
+   - Character development sections: Add "Chapter X Developments" sections to existing character profiles
    - Character connections: Update ALL related characters' relationship sections
+   - Speech patterns: Update dialogue examples and voice notes as characters evolve
+   - Physical descriptions: Add any new physical details or mannerisms revealed
+   - Psychological profiles: Update motivations, fears, and internal conflicts as they develop
    - Track character locations and timeline position in activeContext.md
+   - Historical timeline: Update with new character backstory information revealed
 
 4. For world building updates:
    - New locations/settings: Add to Core/world_and_characters.md with full details

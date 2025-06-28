@@ -119,10 +119,14 @@
 **Chapters 4-6**: Maya's strategic confrontation, physical danger, family's final assault
 - Chapter 4: Maya's morning strategy, family breakfast warfare, Dr. Richard's forced medication attempt, physical confrontation and escape
 - Chapters 5-6: Hidden passages assault, Maya's final stand, family's desperate measures
-**Chapters 7-9**: First family secrets emerge, Maya's memory flashes intensify
-**Chapters 10-12**: Sarah's recent past revealed through investigation
-**Chapters 13-15**: Family manipulation tactics exposed, Maya realizes she's been deceived
-**Chapters 16-18**: Maya's childhood connection to island becomes clear
+**Chapters 7-9**: Morrison family revealed as true client, FBI investigation begins, Maya discovers she was manipulated into case
+**Chapter 10**: Maya's nightmares reveal cave memories, therapy begins, discovers parents' connection
+**Chapter 11**: Return to island with FBI team, cave entrance found, Dr. Richard's records discovered
+**Chapter 12**: Integration Suite horror revealed, 18 living victims found, Dr. Richard at large
+**Chapter 13**: Complex rescue while pursuing perpetrators, both Dr. Richard and Eleanor captured
+**Chapter 14**: Interrogations begin, Maya cracks Eleanor's composure, confronts her parents about her past.
+**Chapter 15**: Maya interrogates Dr. Richard, a battle of psychological wills where she extracts key information about his ideology and the "Collectors' Circle."
+**Chapters 16-18**: The investigation into the "Collectors' Circle" deepens, Maya processes the revelations about her parents, and the first international arrests are made based on her intelligence.
 **Chapters 19-21**: Major flashback - the original childhood trauma revealed
 **Chapters 22-24**: Confrontation with Dr. Blackwood, truth about Sarah's death
 **Chapters 25-27**: True client revealed, justice and resolution
