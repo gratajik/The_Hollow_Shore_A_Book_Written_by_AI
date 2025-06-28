@@ -4,13 +4,13 @@ This document tracks the overall progress of your book project. It serves as a d
 
 ## Current Status
 
-**Project Phase**: Active Drafting (Chapter 18 Complete - Fairchild's Fortress Breached)
+**Project Phase**: Active Drafting (Chapter 22 Complete - The Hunt for Ethan Renault is Underway)
 
-**Completion Percentage**: 100% (18 of 28 chapters complete, approximately 64,400 of 90,000 words)
+**Completion Percentage**: 78% (22 of 28 chapters complete, approximately 79,200 of 90,000 words)
 
 **Deadline Status**: On track (6-month timeline for first draft)
 
-**Current Milestone**: Chapter 18 complete; Fairchild's weakness identified, raid imminent; preparing Chapter 19
+**Current Milestone**: Chapter 22 complete; The investigation has moved to Nova Scotia to trace Ethan's past.
 
 ## What Works
 
@@ -39,10 +39,9 @@ This document tracks the overall progress of your book project. It serves as a d
 ## What's Left to Build
 
 **Incomplete Sections**:
-- Chapters 2-28 require drafting
-- Remaining manuscript (approximately 87,200 words)
-- Continue developing character voices through dialogue
-- Deepen atmospheric descriptions of island and mansion
+- Chapters 23-28 require drafting.
+- Remaining manuscript (approximately 10,800 words).
+- The final confrontation with Ethan and the resolution of the story.
 
 **Drafting Needed**:
 - Chapters 4-9: Escalating family manipulation, Maya's defensive strategies, deeper investigation
@@ -89,47 +88,11 @@ This document tracks the overall progress of your book project. It serves as a d
 ## Activity Log
 
 **Recent Activity**:
-- June 16, 2025: Completed full project planning and memory bank setup
-- June 26, 2025: Completed Chapters 1-9 with outlines and full drafts
-- Chapter 1: Maya's arrival on island, meeting family, discovering Sarah's murder
-- Chapter 2: Dr. Richard's introduction, Maya's investigation, storm arrival
-- Chapter 3: Memory fragments surfacing, basement discovery, childhood photos found
-- Chapter 4: Maya's strategic morning, family psychological warfare, physical confrontation with Dr. Richard
-- Chapter 5: Hidden passages discovery, complete memory recovery, James's transformation, current victim found
-- Chapter 6: Maya's rescue of current victim, Detective Park's intervention, Dr. Richard and Eleanor arrested
-- Chapter 7: Morrison family revealed as true client, Maya's healing begins, FBI consulting position offered
-- Chapter 8: Maya's first day as FBI consultant, 23 potential victims revealed, Hendricks family contact established
-- Chapter 9: Pattern emerges with "hollow shore" references, Maya discovers she was manipulated into case, childhood photo with Sarah found
-- Act 1 Complete: Maya accepts dual role as investigator and victim
-- Chapter 10: Maya's nightmares reveal cave memories, EMDR therapy begins, discovers parents' Blackwood Foundation connection
-- Act 2 Begins: Maya actively pursuing suppressed memories while preparing return to island
-- Chapter 11: Return to Blackwood Island with FBI team, cave entrance discovered, Dr. Richard's records found
-- Cave exploration reveals "classroom" chamber, all 23 victims documented, voices heard from depths
-- Chapter 12: Deeper cave exploration reveals 18 living victims in various states
-- Maya's full memory recovery: witnessed Tommy Morrison's murder trying to save others
-- Dr. Richard's "consciousness preservation project" exposed, Eleanor complicit in escape plan
-- Chapter 13: Complex rescue operation while pursuing fleeing perpetrators
-- Eleanor arrested burning evidence, reveals international "Collectors' Circle"
-- Maya's memories guide pursuit to private airfield, Dr. Richard captured
-- Both perpetrators in custody, broader network exposed
-- Chapter 14: Interrogations begin, Maya's memory of "Project Nightingale" cracks Eleanor's composure.
-- Maya visits rescued children, sees early signs of healing.
-- Confronts parents, who confess they sent her to Dr. Webb out of fear to erase her "bad dreams."
-- Chapter 15: Maya directly interrogates Dr. Richard in a battle of psychological wills.
-- Richard reveals his "Doctrine of Preservation," framing his crimes as saving children from adulthood.
-- He confirms the "Collectors' Circle" is a network of patrons for his "art" and that Sarah was to be his "masterpiece."
-- He psychologically attacks Maya by casting doubt on her parents' true motives for her therapy.
-- Chapter 16: The investigation goes global with raids in Romania, Brazil, and Thailand based on Maya's intelligence.
-- Maya processes the psychological fallout with her therapist, reframing her trauma as an investigative "superpower."
-- Agent Kim's team cracks Richard's financial ledger, revealing the "Nightingale Fund" and a new, unknown mastermind.
-- Chapter 17: The FBI investigation merges with the Morrison family's private files.
-- A 25-year-old donation provides the cryptographic key to unmask the mastermind.
-- Arthur Fairchild is revealed as the architect of the entire conspiracy, motivated by the death of his own son.
-- Chapter 18: The team confronts the challenge of prosecuting the "untouchable" Arthur Fairchild.
-- Maya's analysis of Fairchild's grief rituals identifies his weakness.
-- Fairchild initiates a "digital purge," forcing the FBI's hand.
-- Maya identifies the physical DNA "anchors" as the one piece of non-digital evidence, securing the warrant for a raid.
-- Updated all memory bank files with Chapter 18 completion
+- June 27, 2025: Completed Chapter 22, "The Ghost in the Machine."
+- The official hunt for Ethan Renault has begun, with the investigation moving to Nova Scotia.
+- Maya's role as a psychological profiler for the FBI is solidified.
+- The first concrete lead on Ethan's trail has been established through the carved bird and a corresponding financial record.
+- All memory bank files updated to reflect the current state of the narrative.
 
 **Productivity Patterns**: Strong progress with 9 chapters (Act 1) completed in writing session
 

@@ -149,6 +149,35 @@
 - Identifies the one piece of physical evidence that can't be erased: the cryogenically stored DNA "anchors" from each victim, which Richard's journal confirms were sent to Fairchild.
 - This discovery provides the legal justification for a warrant to raid Fairchild's estate.
 
+**Chapter 19 Developments**:
+- Participates in the raid on Fairchild's Wyoming estate.
+- Guides the tactical team to a hidden sub-level "sanctuary" based on her psychological profile of Fairchild.
+- Comes face-to-face with the shrine to Fairchild's dead son, surrounded by the cryogenic "anchors" of the 23 victims.
+- Witnesses Fairchild's final breakdown as his life's work is dismantled.
+- Receives the final clue from Fairchild himself: that another victim, one who "remembered everything," was the one who orchestrated the entire investigation. This sets up the central mystery for Act 3.
+
+**Chapter 20 Developments**:
+- The full memory of the summer 25 years ago is revealed.
+- The friendship with Sarah, the leadership of Tommy, and the presence of the quiet older boy, Ethan, are shown from her 8-year-old perspective.
+- The chapter details the children's escape attempt, Tommy's murder by Dr. Richard, and Ethan's unseen escape.
+- Ethan is shown giving Maya a small carved bird and whispering "Remember," establishing him as the true first mover of the plot.
+- The direct, passive complicity of her own parents is witnessed as they allow her memory to be erased.
+
+**Chapter 21 Developments**:
+- After processing the initial, raw trauma of the full memory, Maya pivots to a focused, professional hunt for Ethan.
+- She uses the carved wooden bird as a key piece of physical evidence.
+- Forensic analysis of the bird identifies a unique carving style from Nova Scotia and a maker's mark, "R".
+- This, combined with Agent Kim's data mining of families who abruptly left the island, allows the team to identify the ghost: **Ethan Renault**.
+
+**Chapter 22 Developments**:
+- The official hunt for Ethan Renault begins at the FBI's Portland field office.
+- Ethan is established as a "digital ghost," having erased his online presence for 25 years.
+- Maya provides the key psychological insight that the team should look for patterns of observation, not existence.
+- The carved bird is confirmed to be from a defunct artisan collective in Nova Scotia.
+- A financial breadcrumb is discovered, linking the Nightingale Fund to a donation in the same Nova Scotian village, confirming Ethan was leaving a deliberate trail for Maya to follow.
+- Maya's role as a psychological profiler and her unique value to the investigation are solidified.
+- The chapter ends with the FBI dispatching a team to Nova Scotia, and Maya embracing her role in the "conversation" with Ethan.
+
 **Background Details**:
 - Born and raised in Columbia, South Carolina - parents were therapists who worked with the Blackwood family
 - Suffered "breakdown" at age 8, underwent therapy that suppressed island memories

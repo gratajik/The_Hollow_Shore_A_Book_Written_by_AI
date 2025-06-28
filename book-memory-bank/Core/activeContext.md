@@ -4,13 +4,12 @@ This document tracks the current state of your book project. It should be update
 
 ## Current Work Focus
 
-**Primary Focus**: Chapter 18 complete - Fairchild's fortress breached, preparing for Chapter 19 raid
+**Primary Focus**: Chapter 22, "The Ghost in the Machine," is complete. The investigation has now officially pivoted to finding Ethan Renault.
 
 **Secondary Tasks**: 
-- Escalate Dr. Richard's attempts to medicate/control Maya
-- Develop Maya's strategy for protecting herself while continuing investigation
-- Explore contact with outside world (Detective Park) for support
-- Deepen basement evidence and what it reveals about pattern of abuse
+- Develop the investigative thread in Nova Scotia.
+- Build the character of Ethan Renault through the discoveries made about his past.
+- Maintain the psychological tension of Maya "conversing" with a ghost.
 
 **Blocked Items**: None currently
 
@@ -19,12 +18,12 @@ This document tracks the current state of your book project. It should be update
 ## Recent Changes
 
 **Latest Updates**:
-- Completed Chapter 18 "The Architect's Shadow" (June 27, 2025) - The case against Fairchild solidifies.
-- The FBI establishes that Fairchild is a "digital ghost," protected by layers of wealth and legal firewalls.
-- Maya's intuitive analysis of Fairchild's grief rituals, combined with the Morrison family's historical data, reveals a recurring annual payment to a Swiss data vault.
-- Fairchild initiates a "digital purge," attempting to destroy all electronic evidence of his network.
-- Maya identifies the one piece of physical evidence Fairchild cannot erase: the cryogenically stored biological "anchors" from each victim, mentioned in Richard's journal.
-- This discovery provides the crucial physical link needed to secure a warrant for Fairchild's estate.
+- Completed Chapter 22 "The Ghost in the Machine" (June 27, 2025).
+- The hunt for Ethan Renault is officially launched at the FBI field office.
+- Ethan is established as a "digital ghost," having erased his existence for 25 years.
+- Maya provides the key psychological insight: to look for patterns of observation, not existence.
+- The carved bird provides the first concrete lead, pointing to an artisan collective in Nova Scotia.
+- Agent Kim discovers a financial breadcrumb left by Ethan, connecting the Nightingale Fund to the Nova Scotia location, confirming Maya's theory that Ethan was testing his rescuers.
 
 **Decisions Made**:
 - Maya's Southern drawl emerges naturally under stress ("Lord have mercy," "knee-high to a grasshopper")
@@ -46,11 +45,9 @@ This document tracks the current state of your book project. It should be update
 ## Next Steps
 
 **Immediate Plans**:
-- Write Chapter 7 "Aftermath" - Maya's detailed statement to police and evidence compilation
-- Explore discovery of additional victims and broader scope of investigation
-- Develop James's full cooperation and testimony against family
-- Show Maya's beginning psychological healing and integration
-- Reveal who really hired Maya and their connection to the case
+- Create the outline for Chapter 23, which will follow the FBI team's investigation in Nova Scotia.
+- Write Chapter 23, focusing on what the team discovers about Ethan's life after he fled the island.
+- Develop the next "breadcrumb" on Ethan's trail.
 
 **Coming Challenges**:
 - Balancing three distinct author styles without losing cohesive voice

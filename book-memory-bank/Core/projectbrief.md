@@ -60,7 +60,7 @@ This document serves as the foundation for your book project. It defines the cor
 
 **Creation Date**: June 16, 2025
 
-**Current Version**: Active drafting phase - Chapter 18 complete, Fairchild's fortress breached (June 27, 2025)
+**Current Version**: Active drafting phase - Chapter 21 complete, the hunt for Ethan Renault begins (June 27, 2025)
 
 **Previous Work**: N/A - First novel in this potential universe
 

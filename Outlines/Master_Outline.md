@@ -129,9 +129,10 @@
 **Chapter 16**: The investigation goes global with international raids. Maya processes the fallout with her therapist and learns of a new mastermind behind the "Nightingale Fund."
 **Chapter 17**: The investigation merges with the Morrison family's private files, leading to the identification of mastermind Arthur Fairchild and his motive.
 **Chapter 18**: The team builds its case against the "untouchable" Fairchild. As he begins a digital purge, Maya identifies the physical DNA "anchors" as the one piece of evidence he can't erase, securing the warrant for a raid.
-**Chapter 19**: The FBI raids Fairchild's high-tech Wyoming estate. This chapter marks the end of Act 2.
-**Chapters 20-21**: Major flashback - the original childhood trauma revealed in full detail.
-**Chapters 22-24**: Confrontation with Dr. Blackwood, truth about Sarah's death
+**Chapter 19**: The FBI raids Fairchild's high-tech Wyoming estate, recovering the physical DNA "anchors" and arresting Fairchild. He delivers a final, cryptic clue about another survivor. This chapter marks the end of Act 2.
+**Chapter 20**: A full flashback reveals the original trauma: the children's escape attempt, Tommy Morrison's murder, and the escape of the "other survivor," Ethan.
+**Chapter 21**: Returning to the present, Maya processes the raw memory and her parents' betrayal. The hunt for the "last ghost" begins, and using the carved bird, the team identifies him as **Ethan Renault**.
+**Chapters 22-24**: The search for Ethan Renault intensifies, leading the team to trace his 25-year history of hiding and planning. This culminates in discovering his current location and identity.
 **Chapters 25-27**: True client revealed, justice and resolution
 **Chapter 28**: Epilogue - Maya's new understanding and moving forward
 
