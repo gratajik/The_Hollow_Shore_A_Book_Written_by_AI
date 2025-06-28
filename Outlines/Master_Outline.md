@@ -126,8 +126,11 @@
 **Chapter 13**: Complex rescue while pursuing perpetrators, both Dr. Richard and Eleanor captured
 **Chapter 14**: Interrogations begin, Maya cracks Eleanor's composure, confronts her parents about her past.
 **Chapter 15**: Maya interrogates Dr. Richard, a battle of psychological wills where she extracts key information about his ideology and the "Collectors' Circle."
-**Chapters 16-18**: The investigation into the "Collectors' Circle" deepens, Maya processes the revelations about her parents, and the first international arrests are made based on her intelligence.
-**Chapters 19-21**: Major flashback - the original childhood trauma revealed
+**Chapter 16**: The investigation goes global with international raids. Maya processes the fallout with her therapist and learns of a new mastermind behind the "Nightingale Fund."
+**Chapter 17**: The investigation merges with the Morrison family's private files, leading to the identification of mastermind Arthur Fairchild and his motive.
+**Chapter 18**: The team builds its case against the "untouchable" Fairchild. As he begins a digital purge, Maya identifies the physical DNA "anchors" as the one piece of evidence he can't erase, securing the warrant for a raid.
+**Chapter 19**: The FBI raids Fairchild's high-tech Wyoming estate. This chapter marks the end of Act 2.
+**Chapters 20-21**: Major flashback - the original childhood trauma revealed in full detail.
 **Chapters 22-24**: Confrontation with Dr. Blackwood, truth about Sarah's death
 **Chapters 25-27**: True client revealed, justice and resolution
 **Chapter 28**: Epilogue - Maya's new understanding and moving forward

@@ -4,7 +4,7 @@ This document tracks the current state of your book project. It should be update
 
 ## Current Work Focus
 
-**Primary Focus**: Chapter 15 complete - Dr. Richard's interrogation reveals his full ideology, preparing for Chapter 16
+**Primary Focus**: Chapter 18 complete - Fairchild's fortress breached, preparing for Chapter 19 raid
 
 **Secondary Tasks**: 
 - Escalate Dr. Richard's attempts to medicate/control Maya
@@ -19,13 +19,12 @@ This document tracks the current state of your book project. It should be update
 ## Recent Changes
 
 **Latest Updates**:
-- Completed Chapter 15 "The Devil's Logic" (June 27, 2025) - Dr. Richard's interrogation.
-- Maya confronts Dr. Richard directly, using her own memories as a weapon.
-- Richard reveals his full "Doctrine of Preservation," framing his crimes as a noble act of saving children from the "disease" of adulthood.
-- He confirms the "Collectors' Circle" is a network of wealthy patrons who buy his "art" - the preserved consciousnesses of children.
-- He reveals Sarah was to be his "masterpiece."
-- When cornered, he psychologically attacks Maya, implying her parents had a darker reason for wanting her memories erased.
-- The interrogation provides critical intelligence but leaves Maya with new, poisonous doubts.
+- Completed Chapter 18 "The Architect's Shadow" (June 27, 2025) - The case against Fairchild solidifies.
+- The FBI establishes that Fairchild is a "digital ghost," protected by layers of wealth and legal firewalls.
+- Maya's intuitive analysis of Fairchild's grief rituals, combined with the Morrison family's historical data, reveals a recurring annual payment to a Swiss data vault.
+- Fairchild initiates a "digital purge," attempting to destroy all electronic evidence of his network.
+- Maya identifies the one piece of physical evidence Fairchild cannot erase: the cryogenically stored biological "anchors" from each victim, mentioned in Richard's journal.
+- This discovery provides the crucial physical link needed to secure a warrant for Fairchild's estate.
 
 **Decisions Made**:
 - Maya's Southern drawl emerges naturally under stress ("Lord have mercy," "knee-high to a grasshopper")
