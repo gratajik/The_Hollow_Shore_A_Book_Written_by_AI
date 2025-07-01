@@ -1,14 +1,14 @@
 # Chapter 1: The Ferry to Blackwood Island
 
-The ferry's engine thrummed beneath Maya Chen's feet, a steady pulse that should have been soothing but instead set her teeth on edge. She stood at the rail, watching Blackwood Island emerge from the October mist like something half-remembered from a dream. The sight of it—dark pines crowding down to granite shores, the suggestion of a roofline through the trees—stirred something in her chest that felt dangerously close to recognition.
+The ferry's engine thrummed beneath Maya Chen's feet, a steady, low pulse that vibrated up through the soles of her boots. She stood at the rail, hands shoved deep into the pockets of her jacket, and watched Blackwood Island emerge from the October mist like a half-forgotten dream. The sight of it—dark pines crowding down to granite shores, the suggestion of a roofline through the trees—stirred something in her chest that felt dangerously close to recognition.
 
-*Impossible*, she told herself, checking her phone for the dozenth time since leaving the mainland. No signal. Of course. She'd never been this far up the Maine coast, had never set foot on any of these private islands that dotted the waters like scattered secrets. Her life had been Boston and Columbia before that, with nothing in between but the careful, methodical building of a career that had collapsed five years ago with one wrong identification.
+*Impossible*, she told herself, her gaze dropping to the churning gray water. She'd never been this far up the Maine coast, had never set foot on any of these private islands that dotted the sound like scattered secrets. Her life was Boston, had been for fifteen years. Before that, it was Columbia, South Carolina, a place she tried not to think about. There was nothing in between but the careful, methodical building of a career that had collapsed five years ago with one wrong identification.
 
-Maya tapped her right index finger against the case file balanced on the ferry's salt-stained rail. The commission letter crinkled under her touch, its elegant script promising fifty thousand dollars for what should have been a straightforward investigation. *Should have been*. In her experience, nothing that paid this well was ever straightforward.
+Maya’s finger tapped against the case file in her pocket. The commission letter inside promised fifty thousand dollars for what should have been a straightforward consultation. *Should have been*. In her experience, nothing that paid this well was ever straightforward.
 
 "Hell of a day to be heading out to Blackwood."
 
-The ferry captain had materialized beside her, his weathered face turned toward the island with an expression Maya couldn't quite read. Captain Murphy, according to the faded nameplate on his jacket. She'd tried to engage him in conversation when she'd first boarded, but he'd been taciturn then, focused on navigating the channel. Now, with the island looming larger, he seemed inclined to talk.
+The ferry captain had materialized beside her, his weathered face turned toward the island with an expression Maya couldn't quite read. Captain Murphy, according to the faded nameplate on his jacket. She'd tried to engage him when she'd first boarded, but he'd been taciturn, focused on navigating the channel. Now, with the island looming larger, he seemed inclined to talk.
 
 "Why's that?" Maya kept her voice professionally neutral, though something in his tone had sharpened her attention.
 
@@ -24,13 +24,13 @@ Maya had read the police report three times on the drive up from Boston. Sarah B
 
 Murphy was quiet for a long moment, watching the island grow larger. When he spoke, his Maine accent thickened. "Some places, they hold onto things. Memories, maybe. Ghosts, if you're inclined to believe such foolishness. That island..." He shook his head. "Let's just say I wasn't surprised to hear something tragic had happened there again."
 
-*Again*. Maya filed that away, her finger tapping faster against the folder. "There've been other tragedies?"
+*Again*. Maya filed that away, her finger tapping faster against the file. "There've been other tragedies?"
 
 But Murphy was already moving away, muttering something about preparing to dock. Maya watched him go, then turned back to the island. The mist was lifting now, revealing more details—a wooden dock stretching into the dark water, a boathouse that had seen better days, and beyond that, a winding path disappearing into the pines. At the island's highest point, she could just make out the peaked roofs and elaborate gables of what had to be the Blackwood house.
 
 Something twisted in her stomach, a sensation she couldn't name. The house seemed to watch her approach, its windows catching the late afternoon light like eyes. She'd seen plenty of old mansions in her work, had investigated crimes in buildings far more imposing than this Victorian relic. But something about this place...
 
-*Lord have mercy*, she thought, then caught herself. The South had been creeping back into her internal voice lately, despite fifteen years in Boston. Stress did that—made her feel like that uncertain girl from Columbia who'd thought a psychology degree and a badge could fix the world. Before Marcus Williams. Before she'd learned that being wrong could cost lives.
+*Lord have mercy*, she thought, then caught herself. The South had been creeping back into her internal voice lately, despite fifteen years in Boston. Stress did that—made her feel like that uncertain girl from Columbia who'd though a psychology degree and a badge could fix the world. Before Marcus Williams. Before she'd learned that being wrong could cost lives.
 
 The ferry's engine changed pitch, and Maya automatically braced herself as they approached the dock. She gathered her things—overnight bag, laptop case, the file folder that had brought her here—and tried to shake off the strange mood. She had a job to do. A family had hired her to find the truth about their daughter's death. The fact that they were paying enough to cover three months of her struggling agency's expenses was irrelevant to the work itself.
 
