@@ -146,7 +146,7 @@ This document tracks the chronological sequence of events and major plot points 
     *   James Blackwood gives a full confession, detailing the history of abuse on the island.
     *   Maya meets with the Morrison family and begins her own healing process by providing them with the truth about Tommy.
     *   She begins therapy with Dr. Sarah Chen to process her recovered memories.
-    *   Patricia Valdez, on behalf of the Morrison family and now the FBI, offers Maya a consulting position on the broader investigation.
+    *   Patricia Valdez, on behalf of the Morrison family  now the FBI, offers Maya a consulting position on the broader investigation.
     *   Maya accepts, with conditions focused on victim care.
 *   **Plot Points Introduced:**
     *   The official transition from the isolated island mystery to a broader, national FBI case.

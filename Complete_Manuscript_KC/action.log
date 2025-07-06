@@ -1,0 +1,13 @@
+[Tue Jul 01 02:23:56 UTC 2025][INFO] [Action] EE NewBook
+[Tue Jul 01 02:24:12 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Tue Jul 01 02:24:29 UTC 2025][INFO] [Action] E ApplySemantics - (r,832,902),chapter_subtitle
+[Tue Jul 01 02:24:45 UTC 2025][INFO] [Action] E ItemChanged - -1,241561
+[Tue Jul 01 02:24:49 UTC 2025][INFO] [Action] E ItemChanged - -1,832
+[Tue Jul 01 02:24:50 UTC 2025][INFO] [Action] E ItemChanged - -1,33
+[Tue Jul 01 02:24:51 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Tue Jul 01 02:25:00 UTC 2025][INFO] [Action] E SaveBook - Save
+[Tue Jul 01 02:25:10 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Tue Jul 01 02:25:32 UTC 2025][INFO] [Action] EE ExportAction
+[Tue Jul 01 02:34:33 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Tue Jul 01 02:35:01 UTC 2025][INFO] [Action] EE ExportAction
+[Sat Jul 05 08:35:26 UTC 2025][INFO] [Action] E SaveBook - Save
