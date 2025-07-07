@@ -5,7 +5,7 @@ This document serves as the foundation for your book project. It defines the cor
 
 ## Project Definition
 
-**Title**: The Hollow Shore
+**Title**: The Hollow Shore 
 
 **Working Title**: N/A
 
