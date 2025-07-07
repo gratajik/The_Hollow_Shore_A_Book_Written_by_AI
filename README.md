@@ -2,7 +2,7 @@
 
 **A 350-page psychological thriller demonstrating systematic AI-assisted novel writing**
 
-[![Book Status](https://img.shields.io/badge/Status-Complete%20First%20Draft-brightgreen)](./Complete_Manuscript.md)
+[![Book Status](https://img.shields.io/badge/Status-Complete%20Book-brightgreen)](./Complete_Manuscript.md)
 [![Word Count](https://img.shields.io/badge/Word%20Count-100%2C800%2B-blue)](./Complete_Manuscript.md)
 [![Chapters](https://img.shields.io/badge/Chapters-28-orange)](./Chapters/)
 [![Memory Bank](https://img.shields.io/badge/Memory%20Bank-Active-purple)](./book-memory-bank/)
