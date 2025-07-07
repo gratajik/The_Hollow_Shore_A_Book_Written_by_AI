@@ -4,15 +4,14 @@
 
 ---
 
-**Copyright © 2025 Greg Ratajik**
+Copyright © 2025 Greg Ratajik
+R1
 
-All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+All rights reserved.
 
----
+This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author's imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. No identification with actual persons, places, buildings, and products is intended or should be inferred.
 
-*For all the ghosts who find their way home.*
-
----
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 
 <div style='page-break-before: always;'></div>
@@ -1089,11 +1088,13 @@ The room seemed to tilt. Maya gripped the edge of the table. "Tommy's nephew?"
 
 Maya stared at Detective Park. "They hired me. The Morrison family hired me."
 
-"Through a lawyer, yes. They knew that if anyone could uncover the truth about what happened on that island, it would be someone who had been there. Someone who might remember."
+"That's what it appears," Detective Park said carefully. "Through a lawyer, yes. They knew that if anyone could uncover the truth about what happened on that island, it would be someone who had been there. Someone who might remember."
 
 Maya felt a strange mix of emotions—anger at being manipulated, but also understanding. "They used me."
 
 "They gave you a chance to find justice. For Tommy, for Sarah, for yourself." Detective Park leaned forward. "Maya, you chose to fight back. You chose to save that child. That's not being a victim—that's being a hero."
+
+But even as Detective Park spoke, something nagged at Maya. The sophistication of the manipulation, the precise timing, the way everything had fallen into place so perfectly—it felt almost too orchestrated for a grieving family acting alone.
 
 Before Maya could respond, there was a knock on the door. A young officer entered. "Detective Park? James Blackwood is ready to give his statement."
 
@@ -1127,7 +1128,17 @@ Maya looked at the folder, seeing photocopies of documents she didn't remember c
 
 "Two years," Mark said. "We knew we needed someone on the inside, someone who could investigate without raising suspicion. When we learned you'd become a private investigator, it seemed like fate."
 
-"We're sorry we deceived you," Linda said. "But we were desperate. Tommy was just ten years old when he died. The same age as Danny is now."
+Maya studied the folder, something bothering her. "How did you get access to Dr. Richard's therapy records? Those should have been sealed, protected by doctor-patient privilege."
+
+Mark and Linda exchanged a glance. "Our lawyer... Patricia has connections. She said she had sources who could help."
+
+"Sources?" Maya pressed.
+
+"We didn't ask too many questions," Linda said quickly. "We were just grateful for the help. Sometimes you don't look a gift horse in the mouth when you're desperate for answers."
+
+But Maya's investigative instincts were prickling. The level of access, the sophisticated planning, the way everything had been orchestrated—it suggested resources and knowledge far beyond what a grieving family could typically muster.
+
+"We're sorry we deceived you," Linda continued. "But we were desperate. Tommy was just ten years old when he died. The same age as Danny is now."
 
 Maya looked at Danny, who was listening with wide eyes. "Your uncle Tommy was very brave. He tried to protect other children, and that's why Dr. Blackwood hurt him."
 
@@ -1177,11 +1188,13 @@ Maya stood on the harbor pier, watching the ferry that ran to the outer islands.
 
 She thought about the scared eight-year-old girl who had hidden in those passages, making promises she was too young to understand. That little girl had grown up to be a woman who could fight back, who could save other children, who could turn trauma into purpose.
 
+But even as she felt this sense of resolution, questions lingered. The Morrison family's explanation felt incomplete, like a puzzle with missing pieces. Someone with extraordinary resources and knowledge had orchestrated her arrival on that island with surgical precision. The timing, the access to sealed records, the way everything had unfolded—it suggested a mastermind operating from the shadows.
+
 Maya Chen had come to that island as a confused, desperate woman running from her past. She was leaving as someone who had finally faced it—and won.
 
-But more than that, she was leaving as someone with a mission: to find the other children, the other survivors, and help them remember that they were not alone.
+But more than that, she was leaving as someone with a mission: to find the other children, the other survivors, and help them remember that they were not alone. And perhaps, in the process, she would uncover the identity of the puppet master who had set everything in motion.
 
-The ferry horn sounded in the distance, but this time it wasn't calling her away from her past. It was calling her toward her future.
+The ferry horn sounded in the distance, but this time it wasn't calling her away from her past. It was calling her toward her future—and toward answers that still waited to be found.
 
 
 <div style='page-break-before: always;'></div>
@@ -2888,15 +2901,7 @@ The past was not a ghost to be exorcised, but a shore to which she could always 
 
 <div style='page-break-before: always;'></div>
 
-# About the Author
+ABOUT THE AUTHOR
 
-Greg Ratajik is a master of atmospheric and character-driven suspense. With a background in psychological research and a lifelong passion for the classic detective novel, he crafts stories that are both intellectually stimulating and emotionally resonant. His work explores the hidden landscapes of memory, the complex nature of trauma, and the enduring power of human connection.
-
-When he isn't writing, he can be found exploring the misty coastlines and forgotten histories that inspire his novels. "The Hollow Shore" is his debut novel.
-
----
-
-**Also by Greg Ratajik**
-
-*Coming Soon*
+Greg Ratajik is an AI Architect based in the Seattle area, he lives with his wife Arika and their three cats—Tigger, Salem, and Cujo. In his spare time, Greg explores new technologies by developing apps and, in recent years, has focused on applying AI to software development. He's passionate about finding ways for AI and humans to collaborate on creative projects.
 

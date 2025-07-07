@@ -1,0 +1,54 @@
+[Sun Jul 06 05:01:18 UTC 2025][INFO] [Action] EE NewBook
+[Sun Jul 06 05:01:23 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Sun Jul 06 05:01:26 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Sun Jul 06 05:01:27 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Sun Jul 06 05:01:29 UTC 2025][INFO] [Action] E AddTextContainer - (c,16,2),0,0,0
+[Sun Jul 06 05:01:29 UTC 2025][INFO] [Action] E AddTextContainer - (c,17,1),1,0,0
+[Sun Jul 06 05:01:29 UTC 2025][INFO] [Action] E AddTextContainer - (c,18,1),1,0,0
+[Sun Jul 06 05:01:29 UTC 2025][INFO] [Action] E AddTextContainer - (c,19,1),1,0,0
+[Sun Jul 06 05:01:29 UTC 2025][INFO] [Action] E AddTextContainer - (c,20,1),1,0,0
+[Sun Jul 06 05:01:30 UTC 2025][INFO] [Action] E AddTextContainer - (c,21,1),1,0,0
+[Sun Jul 06 05:01:36 UTC 2025][INFO] [Action] E AddTextContainer - (c,68,2),0,0,0
+[Sun Jul 06 05:01:36 UTC 2025][INFO] [Action] E AddTextContainer - (c,71,2),0,0,0
+[Sun Jul 06 05:01:37 UTC 2025][INFO] [Action] E AddTextContainer - (c,92,2),0,0,0
+[Sun Jul 06 05:01:46 UTC 2025][INFO] [Action] E ItemChanged - -1,81806
+[Sun Jul 06 05:01:56 UTC 2025][INFO] [Action] E ItemChanged - -1,243168
+[Sun Jul 06 05:01:57 UTC 2025][INFO] [Action] E ItemChanged - -1,243168
+[Sun Jul 06 05:01:59 UTC 2025][INFO] [Action] E AddTextContainer - (c,243183,2),0,0,0
+[Sun Jul 06 05:02:01 UTC 2025][INFO] [Action] E ItemChanged - -1,58461
+[Sun Jul 06 05:02:08 UTC 2025][INFO] [Action] E ApplySemantics - (r,58461,58461),chapter_title
+[Sun Jul 06 05:02:08 UTC 2025][INFO] [Action] EFail ApplySemantics - 4
+[Sun Jul 06 05:02:18 UTC 2025][INFO] [Action] E UpdateStyle - (c,58461,1),125:3:0,126:1:0,(r,58461,58461),T
+[Sun Jul 06 05:02:20 UTC 2025][INFO] [Action] U UpdateStyle
+[Sun Jul 06 05:02:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,58487,1),125:3:0,126:1:0,(r,58487,58487),T
+[Sun Jul 06 05:02:29 UTC 2025][INFO] [Action] E ItemChanged - -1,151303
+[Sun Jul 06 05:02:31 UTC 2025][INFO] [Action] E ItemChanged - -1,913
+[Sun Jul 06 05:02:33 UTC 2025][INFO] [Action] U UpdateStyle
+[Sun Jul 06 05:02:50 UTC 2025][INFO] [Action] E ApplySemantics - (r,58893,58895),chapter_title
+[Sun Jul 06 05:02:55 UTC 2025][INFO] [Action] U ApplySemantics
+[Sun Jul 06 05:02:58 UTC 2025][INFO] [Action] E ApplySemantics - (r,58465,58465),chapter_title
+[Sun Jul 06 05:02:58 UTC 2025][INFO] [Action] EFail ApplySemantics - 4
+[Sun Jul 06 05:02:59 UTC 2025][INFO] [Action] E ApplySemantics - (r,58465,58465),chapter_title
+[Sun Jul 06 05:02:59 UTC 2025][INFO] [Action] EFail ApplySemantics - 4
+[Sun Jul 06 05:03:09 UTC 2025][INFO] [Action] E UpdateStyle - (c,58465,1),42:1.250000:2,(r,58465,58465),F
+[Sun Jul 06 05:03:11 UTC 2025][INFO] [Action] U UpdateStyle
+[Sun Jul 06 05:03:13 UTC 2025][INFO] [Action] E UpdateStyle - (c,58465,1),49:0.250000:2,(r,58465,58465),F
+[Sun Jul 06 05:03:13 UTC 2025][INFO] [Action] E UpdateStyle - (c,58465,1),49:0.500000:2,(r,58465,58465),F
+[Sun Jul 06 05:03:17 UTC 2025][INFO] [Action] E ItemChanged - -1,11937
+[Sun Jul 06 05:03:17 UTC 2025][INFO] [Action] E ItemChanged - -1,913
+[Sun Jul 06 05:03:30 UTC 2025][INFO] [Action] E UpdateStyle - (c,953,1),125:3:0,126:1:0,(r,953,953),T
+[Sun Jul 06 05:03:33 UTC 2025][INFO] [Action] E ItemChanged - -1,45034
+[Sun Jul 06 05:03:34 UTC 2025][INFO] [Action] E ItemChanged - -1,913
+[Sun Jul 06 05:05:39 UTC 2025][INFO] [Action] E ApplySemantics - (r,953,953),first_para
+[Sun Jul 06 05:05:41 UTC 2025][INFO] [Action] U ApplySemantics
+[Sun Jul 06 05:05:50 UTC 2025][INFO] [Action] E UpdateStyle - (c,954,1),125:0:0,126:0:0,(r,954,954),F
+[Sun Jul 06 05:05:54 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sun Jul 06 05:06:02 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Sun Jul 06 05:06:03 UTC 2025][INFO] [Action] E ItemChanged - -1,40
+[Sun Jul 06 05:06:05 UTC 2025][INFO] [Action] E DeleteContent - (c,71,2),B
+[Sun Jul 06 05:06:05 UTC 2025][INFO] [Action] E InsertTextContent - (c,70,2),[2]
+[Sun Jul 06 05:06:08 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sun Jul 06 05:06:12 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Sun Jul 06 05:06:57 UTC 2025][INFO] [Action] EE ExportAction
+[Sun Jul 06 05:06:59 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sun Jul 06 05:07:00 UTC 2025][INFO] Logger Terminated
