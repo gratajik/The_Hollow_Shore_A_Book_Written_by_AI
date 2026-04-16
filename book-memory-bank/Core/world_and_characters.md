@@ -226,11 +226,16 @@
 
 **Background Details**:
 - Born and raised in Columbia, South Carolina - parents were therapists who worked with the Blackwood family
+- Earned criminology degree from University of South Carolina (USC) - learned to read family dynamics through Southern culture studies
+- Worked for Columbia PD for five years before moving to Boston PD - understands small-town community psychology
+- Mother Frances Chen is retired elementary school teacher in Columbia with deep church and community connections
 - Suffered "breakdown" at age 8, underwent therapy that suppressed island memories
 - Left police force 5 years ago after wrongly identifying a killer in a family murder case - led to another death and triggered panic attacks
+- Beginning FBI consulting work - reputation growing for psychological insight and impossible cases
 - Struggling financially, making her vulnerable to suspicious high-paying cases
 - Lives alone in small, meticulously organized Boston apartment (except messy refrigerator), survives on takeout
-- Distant, distrustful relationship with parents - avoids contact, believes they're embarrassed by her PI career
+- Distant relationship with parents but maintains contact with mother Frances through regular phone calls
+- Understanding of Southern family dynamics gives her insight into psychological manipulation patterns
 
 **Speech Patterns & Voice**:
 - Southern drawl emerges when stressed, excited, or close to solving cases

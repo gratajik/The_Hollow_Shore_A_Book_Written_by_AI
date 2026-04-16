@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "bookforge": {
+      "source": {
+        "source": "directory",
+        "path": "F:/ratajik/AI/books/BookForge"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "BookForge@bookforge": true
+  }
+}
