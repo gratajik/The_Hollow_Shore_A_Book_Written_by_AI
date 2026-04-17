@@ -112,6 +112,43 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Tonal Trim Pass (2026-04-16, same session) — Ch13/Ch19/Ch20 register alignment
+
+Read-through audit identified three chapters whose register lagged the grounded-PI reframe: Ch13 (cave rescue rendered as dungeon-horror), Ch19 (Kim passphrase sequence as crypto-thriller), Ch20 ("every screen flashed red" / dead-man's-switch / scorched-earth paragraph). All three trimmed/reframed to match the restraint of Ch21 (Wyoming chapel) and Ch24 (Toronto archive).
+
+**Ch13 rewrite (−393w):**
+- Cut "nightmare fusion of medical facility and dungeon," "her knees buckle," "metal skeletons," "wormed into her mind"
+- Cut Memory Dissolution Tank dramatization (kept the tank discovery as a passing beat; Maya looks at it for four counts and walks past)
+- Cut children singing "Come to the hollow shore" in mechanical synchronization
+- Cut "his masterwork of horror" / "wall of photographs" reveal
+- Cut full italicized Tommy-shooting flashback (also a memory state-table violation per CLAUDE.md — Ch22 content rendered in present-day register)
+- Cut the Ch13:11 "Lord have mercy" instance (one of 5 across the manuscript; reduces drawl-tic frequency)
+- Retained: Emma-doorway "I cannot go outside" beat, helicopter ride, hospital conference room scene, Mrs. Washington "you look like my mother but older" — these are the chapter's good half
+
+**Ch19 reframe (−~120w net):**
+- Replaced "cipher / signature handshake / decommissioned interbank system / passphrase / decryption field" framing with document-matching framing
+- Same plot beat (Morrison family PI's 2003 photograph of Fairchild's accountant's recycled ledger paper provides the link to modern Nightingale Fund transfers)
+- Kim now matches accounting-style reference codes across 25 years instead of breaking a rotating cipher
+- The "It is the same person. The Morrisons have been carrying the answer in their archive for twenty years" line preserves the emotional core
+- Treasury exhibit + FBI white-collar database produces the name match instead of a "decryption field" populating
+
+**Ch20 cut (−~280w net):**
+- Removed entire "every screen flashed red / dead man's switch / scorched-earth policy / wiping the drives / panicked chaos" sequence
+- Replaced with procedural beat: Patricia takes the August-22 email + Zurich storage + transfer log to a federal judge; warrant signed at six-fifteen; tactical wheels-up at twenty-three hundred
+- Maya's "He kept anchors" line still establishes what Wyoming will look like (sets up Ch21)
+- Retained: Mark Morrison orchid scene (untouched — one of the book's best scenes)
+- Retained: Surveillance-feed coda (Fairchild touching the white roses)
+
+**Post-trim word count:** 65,746 (vs prior 66,321; −575).
+
+**Mechanical verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- "masterwork of horror" / "dead man's switch" / "scorched-earth" / "every screen flashed red" / "It's the passphrase" / "nightmare fusion": 0 across manuscript
+- "Lord have mercy" instances: 5 → 4 (organic reduction from Ch13 rewrite; remaining 4 in Ch01/Ch02/Ch08/Ch11/Ch12 — cluster mostly Act 1, possible future tic-audit target)
+
+**Convergence verdict:** The last tonal seam between the grounded-PI reframe (Ch21, Ch24) and the surrounding chapters is now closed. Ch13 reads as a procedural rescue rather than a horror set-piece. Ch19 reads as patient archive detective work rather than crypto-thriller. Ch20 procedural rhythm matches Ch18's three-day legal standoff. The manuscript now holds one consistent register from Act 1 through epilogue.
+
 ## Micro-Polish Session (2026-04-16, same session) — Second feedback round
 
 Greg's second feedback round surfaced three defects and three false positives. Actioned the real ones.
