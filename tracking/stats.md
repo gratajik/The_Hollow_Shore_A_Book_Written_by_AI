@@ -112,6 +112,27 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Micro-Polish Session (2026-04-16, same session) — Second feedback round
+
+Greg's second feedback round surfaced three defects and three false positives. Actioned the real ones.
+
+**Actioned:**
+- **Ch31:143 "He had" antecedent clarified:** Line read as potential father-abuse reveal because "He had. Three times" had no local antecedent and next line "She said my father did not know" created a father-referent trap. Intent was Dr. Richard contacting Frances three times in Maya's adulthood (seeded Ch09:125 as "the one question"). Rewrote with explicit antecedent: "Richard had called the house. Three times. … She said my father did not know about any of them. … she had been carrying those three calls alone for fourteen years." Also fixes a timeline arithmetic slip ("thirty-one years" → "fourteen years", matching 33 − 19 = 14). Not a new plant — a clarity fix on an existing reveal.
+- **Ch31:39 and Ch31:45 breath-fragment tic de-fragmented:** Manuscript-wide audit of "Sentence. Fragment. Resumed." rhythm found 7 instances; 4 in Ch31 alone. Ch20:55 (Mark "He. He."), Ch26:67 (Finch "That is. That is."), Ch31:143 (Maya reveal), Ch31:195 (Frances) are load-bearing emotional beats and retained. The two Margaret voice-anchor lines I added in the prior session were the overflow and got de-fragmented. Margaret's no-contractions register still lives on Ch31:37 ("I said I did not know"), so the voice-anchor work isn't undone — just one marker instead of three.
+
+**Pushed back with evidence (no action):**
+- **"13 em-dashes still there in ch26/30/31":** Verified 0 inline em-dashes (U+2014) and 0 en-dashes (U+2013) via UTF-8 byte scan. The 13 matches are `---` markdown horizontal-rule scene-break dividers (ch10×1, ch13×1, ch16×1, ch26×3, ch30×4, ch31×3). Likely artifact: rendered preview shows `---` as long rules, which look like em-dashes.
+- **"Non-contractional 'did not' bleeding from Murphy into Maya narration":** Not Murphy leakage — it's manuscript-wide authorial register. Ch29 narration: 9 "did not" / 0 "didn't". Ch08: 10/2. Ch14: 6/2. Ch31: 14/2. The narrator's "did not" has been the voice since Ch01. Contracting only Ch31 would create a chapter-local register break against a 31-chapter pattern. Murphy's voice marker is "did not" in *dialogue* (where contractions are the default elsewhere); narrator register is a separate deliberate choice.
+- **Ch30 three-location structure and Ch27-29 three-beat climax:** Creative calls, no action.
+
+**Post-micro-polish word count:** 66,321 (vs prior 66,300; +21 from clarifier expansion on Ch31:143).
+
+**Mechanical verification:**
+- Em-dashes: 0
+- En-dashes: 0
+- `---` scene-break dividers: 13 (legitimate)
+- Breath-fragment tic: 5 instances (down from 7, all load-bearing)
+
 ## Final Polish Session (2026-04-16, same session) — Greg's six-item feedback + chapter renumbering
 
 Closing pass on Greg's targeted feedback after manuscript review.
