@@ -112,6 +112,32 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Pass 9 (2026-04-16, same session) — Adversarial Prescription
+
+Per Adversarial Reviewer's direct specification after Pass 8: the fix from here is not another review pass. It is targeted expansion of the middle-Act-3 investigative throughline + Ch19 environment rewrite.
+
+**Executed:**
+
+- **Ch19 "Sanctuary of Grief" environment rewrite (+799w):** Stripped Dan-Brown furniture. Fairchild's house is now a low gray-shingled hillside home, not a glass-and-steel compound. He's dressed in a charcoal wool robe over flannel pajamas, reading a book, in silence. The descent is a wooden staircase behind a bookshelf (brass lock, third shelf from floor), not a hydraulic marble floor under a Persian rug. The chapel is a stone-and-plaster room with 23 small wooden boxes on a stone bench, each with a single-word engraved brass plate. No pod, no fluid, no mannequin, no medical equipment. A child-sized table at the far end with a wooden train, leather shoes, and a photograph leaning against the wall. Fairchild surrenders quietly with a request to keep his dead daughter's robe.
+- **Ch24 Toronto expansion (+1,341w):** Maya reads Ethan's thesis on the flight (the thesis IS the investigation methodology). Discovers a 2004 unopened letter with a $17,200 check Ethan tried to send to anonymously fund another student. Dr. Finch expanded with a clean-handshake farewell. Apartment walls broken down by topic (east/north/south/west). Devastating new detail: MAYA CHEN HANDOFF legal pad with 18 dated steps Ethan took, including a transcript of a conversation Maya had not yet had (he'd bugged her office).
+- **Ch16 +286w:** Kim-in-zone texture, Martinez check-in, new reveal that the ledger's signatory authorized transfers every August 22 for 25 years (grief-funded conspiracy pattern, seeds Ch17).
+- **Ch21 +313w:** Maya's memory-event now followed by a Dr. Chen phone call while Dr. Chen is already on Route 1 driving up. Mirrors Ch14 2 AM protocol. Maya does not carry the memory alone.
+- **Ch28 ceremony consolidation (-200w net):** Cut the 35-line attendee roster and replaced with a more scene-structured paragraph. Cut the Adversarial-flagged "She had been told, firmly, at seven that morning, that she was not to thank Maya" sentence. Trimmed the plaque to remove over-architected sandwich motif.
+
+**Pass 9 word count:** 65,855 (vs Pass 8's 63,322; +2,533 net).
+**vs baseline:** 41,205 → 65,855 = +24,650 (+59.8%).
+
+**Post-Pass 9 verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- Forbidden tags (real): ~9
+- "universe of sadness": 1 (retained as final callback)
+- Aphoristic endings: within 2-3 budget
+
+**Chapter file count:** 31 (28 original + ch08a, ch13a, ch27a).
+
+**Convergence verdict:** Adversarial Reviewer's specific prescription executed. Remaining gaps (Ch22 expansion, Ch18 expansion, style-sheet decisions on monosyllabic dialogue and rhetorical-question periods, Ethan POV interstitial) are optional craft refinements rather than structural fixes. The manuscript is now 14K short of the 80K publisher floor.
+
 ## Pass 8 (2026-04-16, same session) — Full Review + Surgical Fix
 
 Four parallel review subagents. 11 Critical/Major issues fixed:
