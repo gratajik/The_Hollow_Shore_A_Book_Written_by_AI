@@ -112,6 +112,30 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Final Polish Session (2026-04-16, same session) — Greg's six-item feedback + chapter renumbering
+
+Closing pass on Greg's targeted feedback after manuscript review.
+
+**Executed:**
+- **Item #1 — Ch01 first sentence:** Cut "stirred something in her chest that felt dangerously close to recognition" → "stirred something she didn't examine." Removes the auto-novelist tell from the book's opening line.
+- **Item #2 — Murphy voice anchor:** Greg flagged Murphy's no-contractions register as feeling like an isolated tic. Anchored it by giving Margaret Swift the same speech pattern in Ch31:37-45 ("I said I did not know" / "They have been up twice this summer. They are. Finding their feet."). The pattern now reads as a Maine generational marker, not a single-character oddity.
+- **Item #6 — Chapter renumbering:** All 23 letter-suffix and post-letter chapter files renamed bottom-up via `git mv` (ch28→ch31 first, …, ch08a→ch09 last). Internal "# Chapter N: Title" headers updated to match. Final structure: 31 sequentially numbered files (ch01.md through ch31.md). Resolves the production-polish item deferred at Pass 7.
+- **Stale publishing artifacts removed:** Deleted `publishing/Complete_Manuscript.md` (40K stale pre-Pass-1 file) and `Complete_Manuscript.docx` via `git rm`. The current build target is `publishing/manuscript.md` / `manuscript.docx`.
+
+**Pushed back on:**
+- **Item #3 (13 em-dashes claim):** Verified count is 0 across all 31 chapter files. Likely artifact: review docs in `reviews/` discuss em-dashes, or the stale Complete_Manuscript.* contained pre-Pass-1 dashes.
+- **Item #5 (132K word count claim):** Verified count is 66,300 across all 31 chapter files. The stale Complete_Manuscript.* may have been miscounted, or an aggregate render double-counted matter/.
+
+**Deferred:**
+- **Item #4 (fragment tic awareness):** Style-sheet-level decision; not actioned without explicit instruction.
+
+**Final state:**
+- **Total chapter files:** 31 (ch01.md through ch31.md, sequential)
+- **Total words:** 66,300
+- **Em-dashes:** 0
+- **"suddenly":** 0
+- **Aphoristic endings:** within budget
+
 ## Writing Session post-Pass-10 (2026-04-16, same session) — Adversarial Reviewer's unfinished Ch16-Ch24 prescription + Ch27 letter trim
 
 Not a review-fix pass. Per the Adversarial Reviewer's Pass 10 verdict ("Do the other half or accept that you have written a 65K literary novel with thriller scaffolding"), this is a focused writing session on the four items flagged as genuinely requiring writing rather than review.
