@@ -114,7 +114,7 @@ James's eyes were full.
 
 "Good luck, Maya."
 
-She walked out onto the gravel drive with the sketchbook pressed against her chest under her jacket, the way she had pressed Ethan's letter against her sternum in a Swiss safe house that she did not yet know she was going to stand in. She got into her car. She did not open the sketchbook. She drove the hour back to Portland, parked in the garage under her own building, sat in the car with the engine off, and opened the sketchbook only when her hands had finally stopped shaking.
+She walked out onto the gravel drive with the sketchbook pressed against her chest under her jacket. She got into her car. She did not open the sketchbook. She drove the hour back to Portland, parked in the garage under her own building, sat in the car with the engine off, and opened the sketchbook only when her hands had finally stopped shaking.
 
 The first entry was dated April 4, 2011. It began: *I remember a girl named Maya. I do not remember her last name. I remember that her hand was very small, and warm, and that she had a birthmark shaped like a comma on the inside of her left wrist.*
 

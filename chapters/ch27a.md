@@ -6,6 +6,12 @@ The depositions had kept her in Switzerland for six weeks. Ethan's plea had gone
 
 The city was gray. The Charles was frozen solid from Watertown to the Museum of Science. She slept for fourteen hours on her first night home, woke at three in the afternoon, ate a bowl of instant oatmeal because her refrigerator was empty, and sat on the couch in a blanket watching the light fade without turning on any lamps. Her phone had two hundred and forty-one unread messages. She did not look at them.
 
+On day two she finally opened the box she had shipped ahead from Geneva. Inside it were the personal effects the prosecutor had released once the chain-of-custody evidence had been duplicated. The half-finished bird from Silas's Nova Scotia workshop, still heavy in the unfinished wing, was wrapped in a sock. Sarah's second sketchbook, the one James had given her at the Augusta safe house, was wrapped in a sweater. The sweater had belonged to her mother and had been sent up from Columbia in the fall and Maya had not yet unwrapped it since. She set the sketchbook on the dining room table and the half-bird on the bookshelf above the couch and the sweater she put on.
+
+She read the sketchbook for the third time that night. The comma-birthmark entry was still there. Sarah had written down a dozen other specifics from the summer Maya had lost. The way Maya had pronounced *banana*. The song about the crab. A blue glass marble Maya had kept in her sock. Maya took off her right shoe. There was no marble in her sock now, but she remembered it in the shape of a thing her eight-year-old fingers had pressed through cotton.
+
+She did one more thing before she slept. She wrote a letter to Ethan's prosecutor, sealed and personal, requesting that Silas Renault's folded note be delivered through the federal-corrections channel for unread-by-prosecutor personal correspondence. The prosecutor had already established that channel at Maya's request the week before. Silas had written three lines in October. Ethan was owed them.
+
 On day three she drove to Vermont.
 
 ---
@@ -108,7 +114,19 @@ Afterward, Emma came over and sat next to her. She did not say hello. She just s
 
 "Sunday is good. I will be home."
 
-They sat together for another ten minutes. Emma went to help a parent pack up an easel. Maya drove back to Boston through the spring rain. She hummed the crab song the whole way, with the third verse now. She was driving in the opposite direction from everything she had been driving toward for a year, and she thought, for the first time in that year, *I am going to be all right.*
+They sat together for another ten minutes. At one point Emma's eyes caught on the inside of Maya's left wrist, where Maya had pushed her jacket sleeve back against the heat of the classroom, and Emma reached out and touched the small comma-shaped birthmark there without asking. Maya held still.
+
+"I remember this," Emma said.
+
+"So did Sarah."
+
+"Mm."
+
+"She wrote it down," Maya said. "When she was nineteen. I have the page. I will bring it next time."
+
+"Okay."
+
+Emma went to help a parent pack up an easel. Maya drove back to Boston through the spring rain. She hummed the crab song the whole way, with the third verse now. She was driving in the opposite direction from everything she had been driving toward for a year, and she thought, for the first time in that year, *I am going to be all right.*
 
 She did not say it out loud. She did not put it in a diary. It was not a promise. It was a report.
 
@@ -207,6 +225,24 @@ They walked. Neither of them spoke for the first two minutes. Maya's right index
 "I believe she did."
 
 Maya stopped walking. Captain Murphy stopped beside her.
+
+"Captain."
+
+"Miss."
+
+"I brought something up. For the Cathedral. The conservator has already cleared me to leave it on the display shelf next to the mermaid if I choose to. I have not decided yet. It is a wooden bird. A second one. The first one is in federal evidence in Switzerland. The second one belonged to a man named Silas Renault in Nova Scotia, who was not Ethan's blood uncle but who raised him for two years, and who gave me the bird in October when I went up there. It was carved halfway and then stopped. I am still thinking about whether to finish it myself or leave it unfinished."
+
+"What's the shape of the question, miss."
+
+"Whether a survivor's inheritance should look like something completed or something left how it was."
+
+Captain Murphy thought about it. The wind came off the water.
+
+"I think a survivor's inheritance looks like a choice she gets to make," he said. "Either one is honest. That is the thing people forget. Either one is honest."
+
+"Thank you, Captain."
+
+"Mm."
 
 "Captain."
 

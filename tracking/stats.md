@@ -112,6 +112,34 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Pass 8 (2026-04-16, same session) — Full Review + Surgical Fix
+
+Four parallel review subagents. 11 Critical/Major issues fixed:
+
+- **Ch28:109** "Emma's Ch14 testimony" editorial slip → "Emma Washington's hospital testimony a year earlier"
+- **Ch21:31** two Martinez male pronouns missed in earlier passes → her/her
+- **Ch15:11, 43, 75** residual forbidden tags that hadn't persisted from Pass 2 → said / action beats
+- **Ch11:49** "Maya replied, surprised by her own steadiness" → "Maya said. Her voice surprised her with its steadiness."
+- **Ch11:31** Murphy phonetic "'em" regression → "put them"
+- **Ch10:28** EMDR video-call vs Ch08a in-person protocol contradiction → Portland office, in-person tapping
+- **Ch12** Sophia Martinez (collision with Agent Martinez) → Sophia Reyes
+- **Ch25:23, 167** "universe of sadness" refrain (×3 instances) → varied (Ch26:139 retained as final)
+- **Ch27:23** drawl checklist-discharge (5 markers in one paragraph) → 1 marker
+- **Ch13a:117** prolepsis line (narrator reaches forward eight chapters) → cut
+- **Ch23 dangling setups** — Silas note delivered via Ch27a prosecutor-channel, half-finished bird placed via Ch27a Murphy conversation, Sarah second journal + comma birthmark paid off via Ch27a Emma-wrist moment
+
+**Pass 8 word count:** 63,322 (was 62,808; +514 net).
+**vs baseline:** 41,205 → 63,322 = +22,117 (+53.7%).
+
+**Post-Pass 8 verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- Forbidden tags (real): ~9 remaining (all in extreme scenes / italicized flashbacks)
+- Aphoristic endings: within 2-3 budget
+- Universe-of-sadness refrain: reduced from 3 to 1
+
+**Convergence verdict:** Review-fix loop has converged on everything it can address. Remaining gaps (Ch19 Dan-Brown furniture, Ch22-24 compression, Ch14 FBI-office voice drift, Ch28 ceremony inventory) require writing, not review.
+
 ## Passes 6 & 7 (2026-04-16, same session) — Character-deepening + Long-Winter Expansion
 
 Three new chapters + targeted expansions + Act 1 grace-notes:
