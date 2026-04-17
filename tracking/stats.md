@@ -112,6 +112,25 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Pass 3 (2026-04-16, same session) — Expansion Pass
+
+Scene-level expansion at five high-value nodes + trait-word thinning:
+
+- **Sarah journal voice (Ch02 +158w, Ch03 +416w):** Four dated journal pages on Sarah's desk + leather-bound notebook under the baseboard photos. Last entry three days before death: *"I am going to call her. I have her number through a private investigator in Boston."* Sarah as active almost-survivor.
+- **Emma Washington scene (Ch14 +580w):** Emma's second drawing (adult-Emma walking a child out of the cave). Emma names two new victim leads: Ana in Colombia, Jonas in Germany. "When I'm big" — first time Maya hears her voice.
+- **Kim breakthrough dramatization (Ch17 +400w):** Fairchild identification dramatized as mid-struggle work. Kim muttering at monitor at 4 AM. Insight: "It's not the volume. It's the grammar." Finds matching routing block in Morrison archive from 2003.
+- **Fairchild raid (Ch19 +384w):** Elevator descent specifically textured. All 23 anchor plaques read aloud. Specimen 23 "The Heir" with unused candle in wrapper: "Sarah Blackwood. He was ready for her."
+- **Trait-word thinning:** 63 → 25 across manuscript (60% reduction vs baseline). Remaining instances mostly Eleanor voice-card language.
+
+**Pass 3 word count:** 46,383 (vs Pass 2's 44,436; +1,947 net).
+
+**Post-Pass 3 verification:**
+- Em-dashes: 0 (stable)
+- "suddenly": 0 (stable)
+- Forbidden tags (real): 0 (stable)
+- Aphoristic endings: 2-3 (stable)
+- Trait-words: 25 (down from 28)
+
 ## Pass 2 (2026-04-16, same session)
 
 Convergence-verification subagent surfaced 7 localized Pass 1 residues. All fixed:
