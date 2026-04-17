@@ -112,6 +112,56 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Second Tonal Trim Pass (2026-04-16, same session) — Ch11/Ch14/Ch17/Ch18/Ch23
+
+Re-read of the full manuscript after the first tonal trim pass revealed the 1998-draft thriller register was broader than Ch13/Ch19/Ch20 — same problem present in Ch11 (sleep-drawing opening), Ch14 (Richard airfield monologue), Ch17 (Richard as Hannibal Lecter), Ch18 (theme-label dialogue), Ch23 (memory-event purple). Ch17 was the biggest single outlier and got a full rewrite.
+
+**Ch11 opening (−80w):**
+- Cut "The children were singing again" horror-movie opener
+- Cut "voices still reverberating in her skull" / "a nursery rhyme twisted into something darker"
+- Cut "Lord have mercy" + "What in the Sam Hill" cluster (drawl tic discharge in dream-panic narration; also removes one of five "Lord have mercy" instances manuscript-wide)
+- Cut "breathed on the page" / "Her sleeping hand had written" / "Her subconscious had been trying to tell her something" narrator-as-novelist tells
+- New opening grounds in architectural-plan specificity instead of thriller-register dread
+
+**Ch14 (−~290w):**
+- Cut opening redundancy with Ch13 ending: "The children emerged from the caves like ghosts" (extraction already dramatized in Ch13) and the "lady from the dreams" Emma line (already said in Ch13)
+- Reframed Ch14 opening as next-morning arrival at the estate
+- Cut the Richard airfield monologue entirely: "I preserved them. In their perfect state." / "They are patrons! Visionaries!" / "Ask yourself why your parents really sent you to Dr. Webb" — Richard now arrests quietly, without a speech
+- Cut "The seed was planted" narrator-as-novelist close
+- The "why Webb" hook now lives only in the Ch17 interrogation chapter, where it belongs
+
+**Ch17 full rewrite (+288w — interrogation is now dialogue-dense, not monologue):**
+- Cut "Doctrine of Preservation" capitalized ideology
+- Cut hour-long lecture on "the philosophy of my work" / "Integration Suite wasn't a place of horror; it was a sanctuary"
+- Cut "They are patrons! Visionaries!" palm-slam monologue
+- Cut Sarah as "my masterpiece / culmination of twenty-five years of research" — Richard now admits the Sarah killing indirectly, through silence and a narrower proffer admission
+- Cut "ask me again when you're ready to hear what they really wanted to erase" ominous farewell — Richard now tells Maya about her parents concretely ("Your parents were ordinary fearful people. They did not want a daughter who remembered what she had seen"), which is smaller and more damaging
+- Richard is reframed as cornered grifter with a lawyer keeping him in his lane, not a Harris villain
+- Marcus Williams paragraph retained (strong characterization, Maya testing her own certainty)
+- Richard hints at a backer ("a gentleman") but does NOT name Fairchild — preserves Ch19's discovery beat
+
+**Ch18 (−~60w net):**
+- Opening reframed: the "He gave us the whole damn network on a platter" line is now "He did not give us the network. He gave us the shape of it" — matches Ch17's reworked Richard
+- Alistair naming attributed correctly to Eleanor's Ch16 interrogation (was inconsistent: Ch18 previously said Richard named the network, but Ch16 shows Maya surfaced Alistair via memory recovery during Eleanor's interrogation)
+- "Alistair's gallery" reframed from "complex neuro-simulations, running on custom hardware" (techno-thriller residue) to 47 display cases holding physical objects with single-word plaques, matching the grounded-PI framing established in Ch21 Wyoming chapel
+- Cut the "Which makes this a grief-funded conspiracy." / "Which makes this a grief-funded conspiracy. Yes." theme-label exchange
+
+**Ch23 (−~220w):**
+- New opening: quiet onset ("The memory came back all at once... at 4:12 on a Thursday afternoon") replaces "The memory didn't return. It detonated" + "the dam of twenty-five years of suppressed trauma broke, and the flood was absolute"
+- Cut "A panic attack seized her, a monstrous, physical thing that stole her breath" metaphor
+- Trimmed theme-label dialogue "Fairchild was right... He's been playing a 25-year-long game" / "We're not just solving a murder anymore. We're finding a survivor."
+- Retained the load-bearing content: the mother-looked-away flashback, the bird-in-hand grounding, Dr. Chen phone call, Ethan identification via Silas/Renault
+
+**Post-pass word count:** 65,469 (vs prior 65,746; −277 net).
+
+**Mechanical verification:**
+- Em-dashes: 0 (stable)
+- "Doctrine of Preservation" / "They are patrons" / "grief-funded conspiracy" / "dam of twenty-five years" / "memory didn't return" / "seed was planted" / "neuro-simulation" / "preserved consciousness": 0 across manuscript
+- "Lord have mercy": 5 → 4 (one organic reduction from Ch11 rewrite)
+- Ch13-Ch17-Ch19-Ch20 cross-chapter consistency: verified (Richard doesn't name Fairchild in Ch17; Ch19 preserves the discovery beat)
+
+**Convergence verdict:** The 1998-draft thriller register has been systematically removed across seven chapters (Ch11, Ch13, Ch14, Ch17, Ch18, Ch19, Ch20, Ch23). The manuscript now holds one consistent literary-thriller register from Act 1 through epilogue. Richard in Ch17 now reads as the small-time grifter the rest of the book establishes him to be, not the Hannibal Lecter the original chapter rendered him as. The Ch21 Fairchild chapel chapter, previously an outlier in tone, is now the template the rest of the book has converged on.
+
 ## Tonal Trim Pass (2026-04-16, same session) — Ch13/Ch19/Ch20 register alignment
 
 Read-through audit identified three chapters whose register lagged the grounded-PI reframe: Ch13 (cave rescue rendered as dungeon-horror), Ch19 (Kim passphrase sequence as crypto-thriller), Ch20 ("every screen flashed red" / dead-man's-switch / scorched-earth paragraph). All three trimmed/reframed to match the restraint of Ch21 (Wyoming chapel) and Ch24 (Toronto archive).
