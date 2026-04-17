@@ -112,6 +112,34 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Passes 6 & 7 (2026-04-16, same session) — Character-deepening + Long-Winter Expansion
+
+Three new chapters + targeted expansions + Act 1 grace-notes:
+
+**New chapters:**
+- **Ch08½ "The Portland Office" (1,791w):** Dr. Sarah Chen's first full on-page therapy session. EMDR-based. Maya recovers a children's song about a crab coming home with the tide. Kim plays recording for cave survivors; four recognize it. Dr. Chen gives Maya the mother-question for when she's ready.
+- **Ch13½ "James" (1,616w):** WitSec farewell at a U.S. Marshals safe house outside Augusta. James gives Maya Sarah's second journal, hidden for ten years. First entry confirms Sarah remembered Maya's comma-shaped wrist birthmark. Postcard-with-no-words protocol established.
+- **Ch27½ "The Long Winter" (2,936w):** February-to-May sequence of survivor visits. Michael Hendricks in Vermont. Danny Morrison's 11th birthday. Emma's first painting class (crab song third verse resolved). Return to Blackwood Island in May with the Captain Murphy coda (he said "some places hold on to things" to Sarah on her last crossing; she wrote it down and acted).
+
+**Expansions:**
+- **Ch01 (+322w):** Murphy exchange deepened. He names why he's telling Maya anything at all.
+- **Ch10 (+51w):** Crab song and *pause* protocol threaded from Ch08½.
+- **Ch23 (+589w):** Silas's hidden workshop + Ethan's half-finished second bird carved in 2014.
+- **Ch28 (+1,087w):** Opening ceremony. Morrison family. Hendricks family. Ana (Colombia) + Jonas (Germany) — Emma's Ch14 leads paid off. Danny's plaque speech. Dr. Chen resolving the mother question (Richard contacted her three times in Maya's adulthood; she didn't tell).
+
+**Pass 6+7 word count:** 62,808 (vs Pass 5's 54,416; +8,392 net).
+**vs baseline:** 41,205 → 62,808 = +21,603 (+52.4%).
+
+**Post-Pass 6+7 verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- Forbidden tags (real): 0
+- Aphoristic endings: 2-3
+
+**Chapter file structure:** 28 original + 3 letter-suffix inserts (ch08a, ch13a, ch27a). Renumbering to integer chapters deferred to a future production-polish pass.
+
+**Convergence verdict:** Converged on structural, mechanical, voice, and thematic integrity. Not converged on commercial word-count floor (62,808 vs 80-90K target — still 17-27K short). Further expansion now a separate project from the review-fix loop.
+
 ## Pass 5 (2026-04-16, same session) — Investigation-texture Expansion
 
 Six chapter expansions converting summary into scene:
