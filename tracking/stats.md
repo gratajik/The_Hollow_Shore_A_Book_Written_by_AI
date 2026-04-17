@@ -112,6 +112,27 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Pass 4 (2026-04-16, same session) — Expansion Pass (continued)
+
+Second dedicated expansion pass. Five scene nodes, +2,766 words net:
+
+- **Ch14 drive back + 2 AM therapy (+1,007w):** The four hours between the Ch13 tarmac and the Ch14 FBI field office. Unscheduled call to Dr. Sarah Chen from hotel room at 00:11. Maya articulates the Marcus Williams fear-of-being-wrong directly; Dr. Chen grounds it.
+- **Ch15 Marcus Williams deepening (+224w):** Specific memory of Marcus Williams during the Dr. Richard interrogation — the Columbia alley, the 11-month sentence, the deathbed confession, the funeral. Maya tests her Richard-certainty against her Marcus-Williams-certainty and finds the difference (Richard performs; Marcus Williams had been confused).
+- **Ch16 Sarah notebook callback (+283w):** After Dr. Chen names Maya's past as superpower, Maya reads Sarah's entry about "Maya will remember better than me." Recognizes that Sarah's promise was about this work, not about the cave.
+- **Ch25 Sarah notebook callback (+108w):** At the Orchid Room harvest reveal, Maya touches the notebook through her jacket. Sarah was three days from her own rescue. Sarah had started the phone call Maya had ended up answering.
+- **Ch27 Ethan letter (+1,144w):** Twelve-page handwritten letter inside the briefcase lid. Ethan's voice for the first time in the book. 12 when Tommy died, 13 when Fairchild scouts found him, 37 when he delivered. The twenty-year long-con is now earned, not told.
+
+**Pass 4 word count:** 49,149 (vs Pass 3's 46,383; +2,766 net).
+**vs baseline:** 41,205 → 49,149 = +7,944 (+19.3%).
+
+**Post-Pass 4 verification:**
+- Em-dashes: 0 (one snuck in via Ethan letter greeting, fixed: "Maya —" → "Maya,")
+- "suddenly": 0
+- Forbidden tags (real): 0
+- Aphoristic endings: 2-3 (stable)
+
+**Convergence verdict:** Converged on structural/mechanical/voice integrity. Not converged on commercial word-count floor (49K vs 80-90K target). Further expansion possible but not required for coherence.
+
 ## Pass 3 (2026-04-16, same session) — Expansion Pass
 
 Scene-level expansion at five high-value nodes + trait-word thinning:
