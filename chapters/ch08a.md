@@ -80,7 +80,7 @@ Dr. Chen's fingertips tapped. Maya closed her eyes and she was eight years old i
 
 "Yes."
 
-"Where are you."
+"Where are you?"
 
 "The blue room. Before the bad things. There was a song. A children's song. About a crab. I have not thought of it in twenty-five years. I can hear Sarah humming it."
 

@@ -112,6 +112,39 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Pass 10 (2026-04-16, same session) — Second Full Review + Fix
+
+Four parallel review subagents. 14 Critical/Major issues fixed.
+
+**Critical fixes:**
+- Ch18:17/19 redundancy with Ch16 August-22 pattern — Ch18 now references Kim's Ch16 discovery instead of re-discovering it
+- Ch18:47-49 cryogenic/biological-anchor residue — replaced with personal-object / DNA-on-effects framing that matches the Ch19 rewrite
+- Ch25:47 cryogenic-anchors language → wooden boxes with toy/photograph/lock-of-hair framing
+- Ch12:157 Sophia Martinez rename regression (Pass 8 missed one hospital-scene line) → Reyes family
+
+**Major fixes:**
+- Ch22:23 drawl checklist-discharge (same defect Pass 9 fixed in Ch27:23) → declustered
+- Ch21:91 stacked drawl markers ("Sure as I'm standin' here... Fixin' to") → dropped
+- Ch26:139 "universe of sadness" final instance — cut per Adversarial Reviewer
+- Ch17:89 Kim consciousness-science thesis → demoted to hedge (no longer steals Ch19/Ch25 thunder)
+- 4 rhetorical questions missing question marks (Ch08a:83, Ch14:17, Ch19:23, Ch21:27) — all fixed
+- Ch27 Kim-call 5-consecutive-monosyllable cluster — partially declustered
+- Ch19:29 "Beethoven was not playing" negation-as-absence tic → cut
+- Ch14:253 aphoristic "Certainty was a kind of blindness" → softened
+
+**Pass 10 word count:** 65,847 (vs Pass 9's 65,855; -8 net from trims).
+**vs baseline:** 41,205 → 65,847 = +24,642 (+59.8%).
+
+**Post-Pass 10 verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- "universe of sadness": 0
+- cryogenic / biological-sample language: 0
+- Martinez surname collision: 0 (both instances renamed to Reyes)
+- Aphoristic endings: within budget
+
+**Convergence verdict:** Review-fix loop fully converged on everything structured review can address. Across ten passes: 41,205 → 65,847 words (+60%), all 14 Pass 1 Critical issues resolved, all mechanical baselines at zero, genre-fracture seam closed across Ch18-Ch19-Ch25 chain. Remaining work (Ch17/Ch18/Ch22 expansion, Ch27 letter trim, Ch14 middle-voice-drift) requires writing, not review.
+
 ## Pass 9 (2026-04-16, same session) — Adversarial Prescription
 
 Per Adversarial Reviewer's direct specification after Pass 8: the fix from here is not another review pass. It is targeted expansion of the middle-Act-3 investigative throughline + Ch19 environment rewrite.
