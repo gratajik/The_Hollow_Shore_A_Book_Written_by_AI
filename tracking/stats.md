@@ -112,6 +112,26 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Pass 5 (2026-04-16, same session) — Investigation-texture Expansion
+
+Six chapter expansions converting summary into scene:
+
+- **Ch04 afternoon relief beat + Margaret note (+737w):** Breaks the Ch02-06 High streak. Margaret Swift slips a note under Maya's door (practical escape info). Starts Margaret's three-point silence-breaking arc (1998 Holcomb → Ch04 note → Ch11 cave).
+- **Ch08 Vermont in person (+957w):** Six-hour drive to Burlington. Michael Hendricks's preserved bedroom. New physical artifact: 5th-grade ceramic dish *FOR DAD. FROM THE HOLLOW SHORE.* First on-page phone call to Frances Chen (she evades).
+- **Ch09 Morrison archive delivery (+1,171w):** Mark Morrison drives 411 boxes to Portland in a rented U-Haul. Box 1 holds a 1998 Holcomb PI interview with Margaret Swift. Mark asks to testify.
+- **Ch11 ferry opening + Margaret callback (+366w):** Park meets Maya at Bar Harbor terminal. Maya reads Sarah's notebook on deck. Margaret's cave reveal now references the Ch04 note.
+- **Ch12 four-hour extraction + Maine Medical Center (+1,257w):** Named children on-page (Emma, Lisa, Michael Hendricks adult, Ashley Brennan, Marcus Hale, Sophia Martinez, Tyler Park). Emma's "I cannot go outside." Mrs. Washington's "You look like my mother, but older."
+- **Ch13 post-arrest + Park + drive (+759w):** Maya at the chain-link fence. Dr. Chen's *be a body* mantra. Park arrives for a non-cop question. Drive back to Bar Harbor. Hangs up on her mother in the Holiday Inn parking lot. Chains cleanly into Ch14's Pass 4 opening.
+
+**Pass 5 word count:** 54,416 (vs Pass 4's 49,149; +5,267 net).
+**vs baseline:** 41,205 → 54,416 = +13,211 (+32.1%).
+
+**Post-Pass 5 verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- Forbidden tags (real): 0
+- Aphoristic endings: 2-3
+
 ## Pass 4 (2026-04-16, same session) — Expansion Pass (continued)
 
 Second dedicated expansion pass. Five scene nodes, +2,766 words net:
