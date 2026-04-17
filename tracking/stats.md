@@ -112,6 +112,33 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
+## Writing Session post-Pass-10 (2026-04-16, same session) — Adversarial Reviewer's unfinished Ch16-Ch24 prescription + Ch27 letter trim
+
+Not a review-fix pass. Per the Adversarial Reviewer's Pass 10 verdict ("Do the other half or accept that you have written a 65K literary novel with thriller scaffolding"), this is a focused writing session on the four items flagged as genuinely requiring writing rather than review.
+
+**Executed:**
+- **Ch27 letter trim:** Twelve pages reduced to ~six. Cut the "I did not cry / I did not drink / I did not pray" Stephen-King-epigram passage the Adversarial Reviewer specifically flagged. Cut the "When I pressed the bird... I thought I was going to die. When I turned this over... I still thought I might." mirror-construction closer. Cut the "You did it. / Thank you. / Ethan." triple-line ending, simplified to just "Ethan." Kept all load-bearing content: Halifax children's home, 13-year-old Fairchild scout encounter, the "I smiled and said I had no dreams" threat response, the twenty-year decision, the Sarah warning two days late, the Morrison forgery routing, the fifty-thousand apology.
+- **Ch27:97 editorial reference fix:** "since Chapter 19" → "for six weeks" (Pass 10 reviewers missed this; surfaced during this session).
+- **Ch18 expansion (+700w):** The three-day legal standoff given scene texture. Fairchild's lawyers' specific tactics shown (500-page binder of tax filings, pre-screened deposition, motion to quash subpoena, civil suit against Richard's estate). Mark Morrison's orchid-memory discovery moved from a compressed reveal into a dramatized scene: he's at an assistant's cubicle, he stands up carefully, he finds the August 22 1998 email from Fairchild to his father, he cannot finish the sentence, Maya puts her hand on his shoulder for a count of ten. Patricia Valdez positioned as already assembling the warrant framework in advance of probable cause.
+- **Ch17 prose rewrite (voice alignment):** Cut "Batcave" cliche. Cut "work of art" encryption praise. Cut "She wasn't a coder, but she was an expert in the patterns of human behavior" telling paragraph. Cut "A new, chilling picture began to form" abstract-noun tell. Cut "Maya felt a profound sense of connection" tell. Cut Maya's "You weren't chasing a ghost. You were mapping its footsteps" character-as-novelist aphorism; replaced with "You had the trail. You just didn't have a name for it." Cut "a digital monument to a family's unwavering love" sentiment; replaced with procedural detail (files arriving rolling, formats mixed, midnight to six). Cut "everything clicked into place with a sickening finality" cliche. Reshaped Fairchild biographical paragraph to remove remaining SF-register bait (previously "A pioneer in early artificial intelligence and consciousness theory"). 
+- **Ch22 expansion (+211w):** Kim's specific search failures dramatized (no passport, no driver's license, no marriage license, no arrest record, no online presence, no maritime record, no common aliases). Martinez-Maya exchange where Maya pivots the search from patterns-of-existence to patterns-of-observation. New line: "A man who hides while watching leaves different traces than a man who hides."
+
+**Post-writing-session word count:** 66,303 (vs Pass 10's 65,847; +456 net).
+**vs baseline:** 41,205 → 66,303 = +25,098 (+60.9%).
+
+**Mechanical verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- Aphoristic endings: within budget
+- No new editorial chapter-references (Ch27:97 fix landed)
+- No monosyllabic ladder regression in written content
+
+**Not executed (deferred):**
+- Ch14 voice drift middle section — carry-forward from Pass 8
+- Ch27a/Ch28 monosyllabic ladder reduction — style-sheet decision
+- "He did not X. He only Y." cleanup
+- Structural "book ends four times" concern — requires Greg's call
+
 ## Pass 10 (2026-04-16, same session) — Second Full Review + Fix
 
 Four parallel review subagents. 14 Critical/Major issues fixed.
