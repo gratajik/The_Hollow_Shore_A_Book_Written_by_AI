@@ -112,11 +112,37 @@ Act 3 expansion highlight: Ch25-28 went from 3,529 → 7,739 words (+4,210, 2.2�
 - **"Act One ending / Act Two begun" self-references** cut from Ch09, Ch10.
 - **MK-Ultra exchange** cut from Ch12.
 
-## Notes for Pass 2
+## Pass 2 (2026-04-16, same session)
 
-- Residual forbidden-tag regex matches (~11) are mostly false positives (adjectival "whispered words," metaphorical "passages breathed," "door hissed open"). A few genuine hits (Ch11, Ch14, Ch18) carried into Pass 2.
-- Trait-word accumulation (~25 remaining) needs targeted thinning in Pass 2 — "precise/precisely/composure/deliberate" cluster.
-- Hedge-phrase count down substantially but still ~8 "seemed to" / "a sense of" residuals.
-- Consecutive-High-temperature streaks still present; may need an Act 2 relief-beat chapter inserted in Pass 2.
-- Word count 44,448 is still well below the 80-90K publisher-readiness target. Pass 2 should prioritize expansion: a Sarah-journal chapter inside Act 1, more Maya-eight-year-old inside Act 2, at least one additional Ch19-21 transitional chapter where Dr. Richard/Fairchild-in-custody activity plays on-page.
-- Trust the new grounded-PI Act 3 register. Do not let expansion reintroduce SF language.
+Convergence-verification subagent surfaced 7 localized Pass 1 residues. All fixed:
+- Ch08:105 stale "Dr. Blackwood has been arrested" → "federal fugitive"
+- Ch21 two Martinez male pronouns → she/her
+- Ch21 "I remember everything" echo → "The summer of ghosts. Tommy. Sarah. All of it."
+- Ch17 bolded all-caps `**ARTHUR FAIRCHILD**` reveal → grounded prose name drop
+- Ch17 "digital onion" metaphor cut
+- Ch18 "digital ghost he had created" → "legal shroud he had built"
+- Ch18 "physical anchor to catalyze consciousness into digital medium" → "ritual... in Fairchild's mind. The tech never worked. The ritual, to him, did."
+- Ch12 "consciousness preservation project" label → "Preservation Program" (framed as Richard's self-delusion)
+- Ch26 Ethan's two 7-sentence monologues broken into shorter beats with action interludes
+- Ch27 Maya drawl inserted at peak-action raid coordination
+
+**Pass 2 final grep verification:**
+- Em-dashes: 0
+- "suddenly": 0
+- Aphoristic endings: 2-3
+- SF-operational-language residues (digital ghost / digital onion / logic bomb / master key / consciousness preservation / ARTHUR FAIRCHILD): 0 matches each
+
+**Pass 2 word count:** 44,436 (vs Pass 1's 44,448; net -12 from paragraph splits and monologue tightening)
+
+## Notes for Pass 3
+
+- Trait-word accumulation (~25 remaining) needs targeted thinning.
+- Hedge-phrase cleanup: ~8 "seemed to" / "a sense of" residuals.
+- Consecutive-High-temperature streaks still present.
+- Kim's breakthroughs still off-screen past-tense announcements.
+- **Primary Pass 3 focus should be expansion, not polish.** Word count 44,436 is 35-45K short of commercial thriller floor. Candidates:
+  - Sarah-journal chapter inside Act 1 (give the murder victim voice before Ch20)
+  - More Maya-eight-year-old integration inside Act 2 (1-2 additional scenes of Maya sitting with her recovered self)
+  - At least one additional Ch19-22 transitional chapter (Dr. Richard interrogation + Fairchild-in-custody activity + Morrison family on-page)
+  - Ethan-POV scene (once, briefly — not a full chapter, but a glimpse of his twenty-year archive-building)
+- Trust the grounded-PI register. Do not let expansion reintroduce SF language.
