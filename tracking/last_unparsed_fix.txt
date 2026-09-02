@@ -1,0 +1,18 @@
+Looking at this issue, I need to examine the actual usages of "nor'easter" in both chapters.
+
+In Chapter 14, the word appears as: "a nor'easter that had moved north three weeks ago" — this is intact and correct.
+
+In Chapter 2 (reference only, cannot modify), it appears as "looking like a real nor'easter" — also intact.
+
+Let me check Chapter 14 more carefully for any fused-word artifact. The relevant passage reads correctly:
+
+"beyond the road was Maine in the last light of an October afternoon, fading into the gray of a nor'easter that had moved north three weeks ago"
+
+The word "nor'easter" is intact here — the apostrophe is the standard contraction within the word (nor'easter = northeaster). There is no dialogue-close/action-beat collision in Chapter 14. The word is a single intact compound noun as required.
+
+Since Chapter 2 is a reference chapter (DO NOT modify or output), and Chapter 14's usage of "nor'easter" is already a single intact word with no fused collision, there is no edit needed in the chapter I'm permitted to modify.
+
+The word as written — `nor'easter` — is the correct, intact form. No garbled markup, no mid-word dialogue punctuation, no fusion with an adjacent word exists in Chapter 14.
+
+CHANGES SUMMARY:
+- No changes made to Chapter 14: the word "nor'easter" already appears as a single intact compound noun ("the gray of a nor'easter that had moved north three weeks ago") with no fused-word collision or mid-word dialogue punctuation. Chapter 2 is a reference-only chapter and cannot be modified.

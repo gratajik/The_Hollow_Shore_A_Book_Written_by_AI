@@ -102,3 +102,59 @@ All threads tracked from introduction → resolution. Reviewer: any unresolved t
 4. **Danny Morrison** — status after ch07. Does he reappear?
 5. **Agent Sarah Martinez at ch28** — is the professional relationship closure explicit?
 6. **Marcus Webb (child victim) vs. Dr. Marcus Webb** — same surname. Check if this is deliberate connection or accidental name clash.
+
+## Chapter 20
+
+- Fairchild legal stonewalling: advanced; cooperation is choreographed obstruction (binder, deposition, motions, countersuit).
+- Zurich storage facility: planted; 25 years of annual "archival maintenance" payments to a private vault tied to Fairchild.
+- Orchid ritual/anchors: advanced; Mark's memory of annual orchids to his father revealed as ritualized trophy-keeping, tied to the 23 victims.
+- August 22 email evidence: planted; becomes key corroborating evidence for warrant.
+- Warrant for Wyoming estate: resolved (within chapter); signed, raid scheduled for dawn.
+- Richard's journal "anchors"/"chapel": advanced; sets up literal room of 23 objects to be found in next chapter's raid.
+- Mark Morrison's grief arc: advanced; realizes his father unknowingly received a ritual trophy marker for 23 years.
+
+## Chapter 2
+
+- False commission/forged signature: advanced; Eleanor confirms forgery of her name and stationery, motive unknown.
+- Maya's suppressed childhood memory: advanced; first full memory flash (blue room, Dr. Richard's hands, a child's scream, Sarah present at age eight).
+- Sarah's murder investigation: advanced; journal pages establish Sarah was recovering memories of Maya and the island before her death, implying cover-up by Dr. Richard.
+- Sarah's recovered-memory subplot (Dr. Torres): planted; outside therapist encouraged Sarah's memory recovery, opposed by Dr. Richard.
+- Dr. Richard as gaslighter/antagonist: advanced; medical framing of Maya's memory flash as stress-induced, offer of sedatives.
+- Storm/island isolation: advanced; ferry suspended, family and Maya trapped together.
+- James's suppressed knowledge/nervousness: advanced; hints he knows more than he says, self-interrupts about "just like when Sarah died."
+- Blue room motif: advanced; explicitly named in Sarah's journal and tied to Maya's guest room and childhood memory.
+
+## Chapter 24
+
+- Ethan Renault manhunt: advanced; identity confirmed as a 25-year "ghost," first concrete lead (Nova Scotia village) established.
+- Carved wooden bird as evidence: advanced; forensic origin (driftwood, maker's mark "R," Renault Artisan Collective) established, framed as Ethan's deliberate message/test to Maya.
+- Nightingale Fund financial trail: advanced; anonymous donation to Nova Scotia youth center linked back to Fund via shell corporations.
+- Maya's investigative instinct/leadership: advanced; she redirects the FBI's search methodology and is credited with the breakthrough.
+
+## Chapter 25
+
+- Ethan Renault hunt: advanced; Nova Scotia trail confirms "Leo" identity, ties to carving skill, financial donation, and a forwarding address leading to Toronto under a new alias
+- Silas Renault subplot: planted/advanced; introduces personal connection (note for Ethan) and second unfinished bird carving as new physical evidence/object
+- The carved wooden bird motif: advanced; a second, larger unfinished bird discovered and taken by Maya, deepening the object's significance
+- Nightingale Fund financial breadcrumb: advanced; anonymous donation to Nova Scotia youth center confirmed as dead-end wire transfer, reinforcing prior FBI data lead
+- Toronto lead: planted; new alias and university library forwarding address set up for next chapter's Toronto pursuit
+
+## Chapter 26
+
+- Ethan's 20-year preparation: advanced; physical evidence shows systematic multi-decade construction of the investigation targeting Maya specifically
+- Anonymous scholarship donation: planted; Kim's team to trace recipient/purpose
+- Office surveillance of Maya's agency: planted; Kim flags as federal crime to add to case list
+- Geneva trail: advanced; orchid identifies Fairchild-funded Rothschild Botanical Garden in Geneva as next location
+- Danny Morrison foreknowledge: advanced; Ethan had Danny's photo on wall before Danny was taken, raising complicity question for sentencing
+- Ethan's thesis as investigative blueprint: resolved; established as directly enabling both PI work and Bureau's investigation
+
+## Chapter 4
+
+- Sarah's murder investigation: advanced; Maya openly accuses family of murder, Richard's reaction ambiguous/menacing
+- Maya's suppressed childhood memory: advanced; Maya states she remembers being 8, in the house, afraid
+- Dr. Richard as threat: advanced; attempts sedation, cuts phone lines, implied physical danger
+- Isolation on island: advanced; phones/cell towers down, family controls exits
+- Margaret Swift as ally: planted; slips note with escape info (library phone, boathouse key, tide schedule)
+- Hidden passages/surveillance: advanced; footsteps heard inside walls near Maya's room
+- James's fracturing loyalty: advanced; references Sarah's claims, distress at breakfast
+- Escape plan: planted; boathouse key, fueled boat, tide at 4pm as potential means of escape

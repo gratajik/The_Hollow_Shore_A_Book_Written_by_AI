@@ -83,3 +83,59 @@
 - ch28 jumps forward one year — large time gap, epilogue only
 - Weather: October mist / approaching storm → storm breaks → mist returns for Nova Scotia → Geneva winter
 - Storm arrival (ch01) and storm breaking (ch06) bookend the island portion
+
+## Chapter 20
+
+- Day one: 7am, binder delivered to Portland field office; Mark and Patricia arrive by evening.
+- Day three: Martinez confronts the binder in the war room, expresses frustration at stonewalling.
+- Two-day sifting period by Maya, Kim, and Mark through financial/psychological angles.
+- Kim's 48-hour continuous work session at his terminal.
+- 5:00pm: Patricia calls with warrant status update.
+- 6:15pm: warrant signed by judge.
+- 11:00pm (2300): tactical team wheels-up, Maya included.
+- Dawn (following day, local Wyoming time): search of Fairchild estate to commence, with a window until 10am.
+
+## Chapter 2
+
+- Immediately following Ch1 ferry arrival: confrontation in entrance hall over forged commission.
+- Same afternoon: Dr. Richard arrives at the house during the confrontation.
+- Same afternoon: family and Maya move to the parlor for discussion.
+- Shortly after: James takes Maya to see Sarah's room upstairs.
+- Same day, before dinner: storm intensifies, lights flicker/go out multiple times.
+- Evening: Margaret Swift reports ferry suspended for one to two days due to storm.
+- Evening: Maya is shown to the blue guest room; dinner planned for 7pm (possibly cold sandwiches if power fails).
+- That evening in the guest room: Maya's memory flash occurs when she touches the doorknob; Dr. Richard confronts her in the hallway afterward.
+
+## Chapter 24
+
+- Briefing occurs twelve hours after Ethan Renault's identification.
+- Kim's donation record dates to fifteen years prior to the current investigation.
+- Renault Artisan Collective was active until it disbanded in the late 1990s.
+- Team ordered wheels-up for Nova Scotia within two hours of the briefing's end.
+
+## Chapter 25
+
+- Current investigation day: Maya and Agent Martinez travel to Nova Scotia, visit Peggy's Cove youth center, then Silas Renault's cabin, then his workshop, then obtain postal records via warrant
+- Leo/Ethan's timeline: arrived at Renault Artisan Collective as a teenager (circa late 1990s), stayed two years, left; anonymous donation to youth center made fifteen years before present; returned to workshop once in summer 2014; postal box closed roughly ten years before present
+- End of chapter: sunset drive back down the coast; Maya stops alone at old fishing pier holding the original wooden bird
+
+## Chapter 26
+
+- Flight from Halifax to Toronto (via Ottawa connection) — Maya reads Ethan's thesis
+- 2004: anonymous $17,200 scholarship donation/letter sent, never claimed
+- 2007: sending law firm closes
+- 2009: thesis submitted
+- 2010: "Leo Morin" account/mail forwarding closed
+- March (year before Maya's island trip): first dated entry on "MAYA CHEN HANDOFF" pad begins
+- September-October (preceding Maya's arrival on Blackwood Island): 18 documented actions culminate in Maya accepting the forged commission
+- Current day: library records review, meeting with Finch, apartment search — evidence to be collected by Friday
+
+## Chapter 4
+
+- Morning after the storm: Maya wakes before dawn, storm has passed, debris visible outside
+- Breakfast confrontation in dining room (morning)
+- Library confrontation/attempted sedation by Dr. Richard (shortly after breakfast)
+- Kitchen landline call to Detective Park, cut off (mid-morning)
+- Maya barricades in her room; hours pass (~5 hours implied) while house is silent
+- Margaret's note specifies tide out at 4:00 PM (future reference point)
+- Chapter ends with footsteps in the walls, present moment, timing unspecified

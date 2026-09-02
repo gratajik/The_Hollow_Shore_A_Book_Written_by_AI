@@ -1,0 +1,493 @@
+{
+  "3f60a1810cbf": {
+    "title": "Verify planted-defects ledger",
+    "chapters": [],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "conf",
+      "cont",
+      "defe",
+      "exis",
+      "inco",
+      "ledg",
+      "plan",
+      "prov",
+      "sect",
+      "stor",
+      "time",
+      "veri"
+    ],
+    "quotes": [
+      "Planted Defects"
+    ]
+  },
+  "83d9c062cc50": {
+    "title": "Garbled quote markup",
+    "chapters": [
+      2
+    ],
+    "severity": "major",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 1,
+    "last_pass": 11,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "ch02",
+      "chec",
+      "dete",
+      "east",
+      "fuse",
+      "garb",
+      "like",
+      "look",
+      "mark",
+      "near",
+      "nor",
+      "quot",
+      "real",
+      "spli",
+      "word"
+    ],
+    "quotes": [
+      "easter",
+      "...e's looking like a real nor'easter."
+    ]
+  },
+  "3f51efe2fdc4": {
+    "title": "Garbled quote markup",
+    "chapters": [
+      14
+    ],
+    "severity": "major",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 1,
+    "last_pass": 11,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "ch14",
+      "chec",
+      "dete",
+      "ding",
+      "east",
+      "fuse",
+      "garb",
+      "gray",
+      "mark",
+      "near",
+      "nor",
+      "quot",
+      "spli",
+      "word"
+    ],
+    "quotes": [
+      "easter",
+      "...ding into the gray of a nor'easter that had moved north th..."
+    ]
+  },
+  "80029e83da18": {
+    "title": "Garbled quote markup",
+    "chapters": [
+      20
+    ],
+    "severity": "major",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "arti",
+      "call",
+      "ch17",
+      "ch20",
+      "chec",
+      "cont",
+      "dete",
+      "garb",
+      "mark",
+      "meta",
+      "quot",
+      "refe",
+      "rew"
+    ],
+    "quotes": []
+  },
+  "77f91576a802": {
+    "title": "Callback quotes text absent from the quoted document",
+    "chapters": [
+      4
+    ],
+    "severity": "major",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 1,
+    "last_pass": 11,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "abse",
+      "call",
+      "ch04",
+      "chec",
+      "dete",
+      "docu",
+      "just",
+      "narr",
+      "quot",
+      "refe"
+    ],
+    "quotes": [
+      "underlined *witness.*",
+      "What I need.\u2026"
+    ]
+  },
+  "666d41ba60e5": {
+    "title": "Fused-word collision: 'nor'easter'",
+    "chapters": [
+      2,
+      14
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 11,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "acti",
+      "arti",
+      "beat",
+      "clos",
+      "coll",
+      "crea",
+      "dial",
+      "east",
+      "fuse",
+      "loca",
+      "nor",
+      "spli",
+      "two",
+      "word"
+    ],
+    "quotes": [
+      "easter"
+    ]
+  },
+  "e5d7630fe75f": {
+    "title": "Literal 'Ch17's identification' outline leak into prose",
+    "chapters": [
+      20
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 11,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "arch",
+      "ch17",
+      "eigh",
+      "firs",
+      "fort",
+      "hour",
+      "iden",
+      "leak",
+      "lite",
+      "open",
+      "outl",
+      "shad",
+      "show"
+    ],
+    "quotes": [
+      "The Architect",
+      "opens with",
+      "s identification"
+    ]
+  },
+  "c6013ff21647": {
+    "title": "Fairchild reveal payoff undercut by adjacent meta-reference",
+    "chapters": [
+      19,
+      20
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "adja",
+      "ch19",
+      "endi",
+      "fair",
+      "imme",
+      "malf",
+      "meta",
+      "moti",
+      "payo",
+      "real",
+      "refe",
+      "reve",
+      "stro",
+      "unde"
+    ],
+    "quotes": []
+  },
+  "10c3cdd7d6ae": {
+    "title": "Pronoun/gender mismatch for Richard",
+    "chapters": [
+      6
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "cast",
+      "chec",
+      "dete",
+      "fema",
+      "gend",
+      "male",
+      "mism",
+      "name",
+      "narr",
+      "near",
+      "pron",
+      "rich"
+    ],
+    "quotes": [
+      "Richard yanked the phone from her hand and smashed it against the stone wall."
+    ]
+  },
+  "11cc4b09e4a3": {
+    "title": "Pronoun/gender mismatch for Martinez",
+    "chapters": [
+      21
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "cast",
+      "chec",
+      "dete",
+      "fema",
+      "gend",
+      "male",
+      "mart",
+      "mism",
+      "name",
+      "narr",
+      "near",
+      "pron"
+    ],
+    "quotes": [
+      "Martinez:  \n\n  His voice stayed level."
+    ]
+  },
+  "92b04d01231d": {
+    "title": "Ch20 attributes Fairchild identification to wrong chapter/event",
+    "chapters": [
+      17,
+      19,
+      20
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "attr",
+      "back",
+      "ch17",
+      "ch20",
+      "even",
+      "fair",
+      "happ",
+      "iden",
+      "name",
+      "only",
+      "says",
+      "teas",
+      "wron"
+    ],
+    "quotes": [
+      "after Ch17"
+    ]
+  },
+  "81f3dc7ac021": {
+    "title": "'Photograph in the corner of the screen' emotional beat echoes itself",
+    "chapters": [
+      19,
+      29
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 1,
+    "last_pass": 11,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "beat",
+      "bein",
+      "ch19",
+      "ch24",
+      "corn",
+      "date",
+      "echo",
+      "emot",
+      "ends",
+      "etha",
+      "fair",
+      "itse",
+      "maya",
+      "numb",
+      "open",
+      "phot",
+      "scho",
+      "scre",
+      "star",
+      "stop",
+      "thom",
+      "unti"
+    ],
+    "quotes": [
+      "s school-photo date until it stops being numbers; ch24 opens on Ethan",
+      "photo of a dead/lost child, stared at until abstraction",
+      "Photograph in the corner of the screen"
+    ]
+  },
+  "6808a82988e4": {
+    "title": "Possible name-form slip",
+    "chapters": [],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "arth",
+      "char",
+      "chec",
+      "dete",
+      "form",
+      "name",
+      "narr",
+      "othe",
+      "poss",
+      "slip",
+      "stan"
+    ],
+    "quotes": [
+      "Arthur",
+      "Fairchild"
+    ]
+  },
+  "5946da706c5c": {
+    "title": "Possible name-form slip",
+    "chapters": [
+      10
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "ch10",
+      "char",
+      "chec",
+      "dete",
+      "form",
+      "luca",
+      "name",
+      "narr",
+      "othe",
+      "poss",
+      "slip",
+      "stan"
+    ],
+    "quotes": [
+      "used standalone 1x in narration (ch10) but this character is otherwise"
+    ]
+  },
+  "dba6974b9a04": {
+    "title": "Stable attribute (floor/age) contradicts across chapters",
+    "chapters": [
+      2,
+      10
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 11,
+    "tokens": [
+      "age",
+      "asse",
+      "attr",
+      "ch02",
+      "ch10",
+      "chec",
+      "conf",
+      "cont",
+      "dete",
+      "enti",
+      "floo",
+      "stab",
+      "thes",
+      "valu",
+      "veri"
+    ],
+    "quotes": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ch03": [
+    {
+      "pass": 11,
+      "why": "surgical fix",
+      "problems": [
+        "protocol leak: fixer chain-of-thought: Already contracted. The bulk of uncontracted forms in this chapter legitimately live in Sarah's journal, medical files, ",
+        "protocol leak: fixer chain-of-thought: That's already contracted. Let me look for genuine narration-voice uncontracted forms.\""
+      ]
+    }
+  ],
+  "ch11": [
+    {
+      "pass": 11,
+      "why": "surgical fix",
+      "problems": [
+        "protocol leak: fixer chain-of-thought: The uncontracted forms flagged in ch11 are minimal and mostly reside in dialogue (mother, therapist) or written document"
+      ]
+    }
+  ],
+  "ch02": [
+    {
+      "pass": 11,
+      "why": "sweep edit",
+      "problems": [
+        "markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref) :: ch02: [garbled] fused-word splice 'nor'easter' near \"...e's looking like a r"
+      ]
+    }
+  ]
+}
