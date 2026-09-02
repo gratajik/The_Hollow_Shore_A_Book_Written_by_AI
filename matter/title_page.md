@@ -1,6 +1,6 @@
 # The Hollow Shore
 
-*A Novel*
+
 
 
 

@@ -1,0 +1,11 @@
+[Fri Apr 17 17:09:10 UTC 2026][INFO] [Action] EE NewBook
+[Fri Apr 17 17:09:17 UTC 2026][INFO] [Action] E AutoChapterGroupAction - 0
+[Fri Apr 17 17:09:20 UTC 2026][INFO] [Action] E RevertApplyAutoChapterAction - (r,1,1)
+[Fri Apr 17 17:09:20 UTC 2026][INFO] [Action] E RevertApplyAutoChapterAction - (r,18,18)
+[Fri Apr 17 17:09:21 UTC 2026][INFO] [Action] E RevertApplyAutoChapterAction - (r,864,864)
+[Fri Apr 17 17:09:33 UTC 2026][INFO] [Action] E ItemChanged - -1,1001
+[Fri Apr 17 17:10:01 UTC 2026][INFO] [Action] E SaveBook - Save
+[Fri Apr 17 17:10:11 UTC 2026][INFO] [Action] E SaveBook - SaveforExport
+[Fri Apr 17 17:10:26 UTC 2026][INFO] [Action] EE ExportAction
+[Fri Apr 17 17:10:28 UTC 2026][INFO] [Action] E SaveBook - SaveforExport
+[Sat Apr 18 10:29:17 UTC 2026][INFO] [Action] E SaveBook - Save

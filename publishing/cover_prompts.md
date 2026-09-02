@@ -1,64 +1,74 @@
-# KDP Cover Prompts for "The Hollow Shore"
+## Concept 1 — The Hollow Shore Silhouette
 
-Here are 7 distinct cover prompts designed to capture the theme, style, and core elements of the novel for use in AI image generation for a Kindle Direct Publishing (KDP) cover.
+**Visual concept:** A lone woman's silhouette stands at the edge of a rocky Maine shoreline where the cliff face hollows into a dark cave mouth, the negative space forming the suggestion of a child's face in the rock. Atmospheric, Gothic, thriller-forward.
+**Target audience:** Readers of Tana French, Gillian Flynn, Lucy Foley — literary psychological thriller buyers scanning Amazon thumbnails.
 
-**Technical Specifications for all prompts:**
-*   **Author Name:** Greg Ratajik (to be included in the final design, typically at the top or bottom).
-*   **Dimensions:** 1600 x 2560 pixels (the ideal size for KDP ebook covers).
-*   **Aspect Ratio:** 1.6:1.
+### Full Standalone Prompt
 
----
+```
+Book cover art, 1:1.6 vertical composition, atmospheric psychological thriller. A lone woman in a long dark coat stands in silhouette on a rocky Maine shoreline at dusk, her back to the viewer, facing a looming cliff face where a cave mouth hollows into darkness. The negative space of the cave subtly suggests the profile of a child's face — visible only on second look. Heavy nor'easter clouds, churning slate-gray Atlantic surf, wet black rocks, sparse pine silhouettes on the cliff top. Moody duotone palette: deep teal, charcoal black, bone white, single ember of pale gold where the horizon cracks. Cold cinematic lighting, fog rolling in from the water, painterly realism with a matte finish reminiscent of Peter Mendelsund and Oliver Munday cover design. Mood: mounting dread, isolation, buried memory, Gothic hush. Render the title "THE HOLLOW SHORE" in large bold condensed serif letters across the upper third of the cover in bone-white, slightly weathered texture as if carved into stone. Render "A NOVEL" in small caps beneath the title. Render "GREG RATAJIK" at the bottom center in clean sans-serif caps, pale gold. Leave the central cliff and figure clean and uncluttered. No extra text. High contrast for thumbnail legibility.
+```
 
-### Prompt 1: The Island's Gaze
+### Ideogram Typography Variant
 
-**Concept:** Focuses on the gothic, atmospheric setting as the primary antagonist.
-**Prompt:**
-"Create a book cover for a psychological thriller titled 'The Hollow Shore' by Greg Ratajik. The image should be a moody, atmospheric, and photorealistic book cover with a 1.6:1 aspect ratio. The scene is a remote, rocky island off the coast of Maine, shrouded in a thick, swirling October mist. In the distance, perched atop the island's highest point, a dark, imposing Victorian mansion is partially visible through the fog, its windows like watching eyes. The color palette should be dominated by cool, desaturated blues, grays, and deep greens. The title, 'The Hollow Shore', should be in a sharp, elegant serif font, appearing subtly out of the mist. The author's name, Greg Ratajik, should be placed prominently. The overall mood is one of isolation, dread, and secrets held by the landscape itself."
-
----
-
-### Prompt 2: The Investigator's Silhouette
-
-**Concept:** Centers on the protagonist, Maya Chen, and her investigation.
-**Prompt:**
-"Design a book cover for a mystery novel titled 'The Hollow Shore' by Greg Ratajik. The image, with a 1.6:1 aspect ratio, features the silhouette of a lone woman, an Asian-American private investigator, standing on a rocky shoreline looking towards a turbulent, gray sea. She is seen from behind, wearing a practical jacket. The sky is overcast and stormy. In the distance, barely visible through the fog, is the silhouette of a private island with a single, ominous house on its peak. The lighting is low and dramatic, creating a sense of foreboding. The title 'The Hollow Shore' should be in a clean, modern sans-serif font, placed starkly against the sky, with the author's name, Greg Ratajik, clearly visible. The style should feel like a blend of a classic detective novel and a modern psychological thriller."
+```
+Vertical 2:3 book cover for a psychological thriller titled "THE HOLLOW SHORE" by Greg Ratajik. A silhouetted woman in a long coat on a wet rocky shore faces a dark cave mouth in a cliff; the cave's negative space faintly resembles a child's profile. Stormy Maine coast, teal-and-charcoal duotone with a sliver of gold horizon. Integrated typography: "THE HOLLOW SHORE" in massive bone-white condensed serif across the top third, letters textured like weathered stone; tagline "SOME SHORES REMEMBER WHAT WE FORGET" in small italic serif just below the title; "A NOVEL" in tiny tracked caps; author name "GREG RATAJIK" bottom center in gold sans-serif caps. Typography is rendered crisply, not placeholder text. Gothic literary thriller aesthetic, matte finish, high thumbnail legibility.
+```
 
 ---
 
-### Prompt 3: The Forgotten Promise
+## Concept 2 — The Carved Bird
 
-**Concept:** A symbolic and minimalist approach focusing on a key object.
-**Prompt:**
-"Generate a minimalist and symbolic book cover for a literary thriller titled 'The Hollow Shore' by Greg Ratajik. The image needs a 1.6:1 aspect ratio. The central image is a small, intricately carved wooden bird resting on a piece of wet, dark driftwood. The background is out of focus, suggesting a misty, rocky beach. A single drop of water clings to the bird's wing, like a tear. The color palette is muted and somber, with earthy browns and grays. The lighting is soft and focused on the bird, creating a sense of a single, important clue in a vast, forgotten mystery. The title 'The Hollow Shore' should be in a delicate, slightly distressed serif font, and the author's name, Greg Ratajik, should be included. The overall mood is melancholic, mysterious, and deeply personal."
+**Visual concept:** A single weathered driftwood bird carving rests in an open child's palm, dwarfed by an out-of-focus Victorian mansion and stormy sky behind. The object as talisman; memory as evidence.
+**Target audience:** Literary thriller readers who respond to object-driven, symbolic covers (Everything I Never Told You, The Dry, The Silent Patient).
 
----
+### Full Standalone Prompt
 
-### Prompt 4: The Blue Room
+```
+Book cover art, 1:1.6 vertical composition. Extreme close-up, shallow depth of field: a small hand-carved driftwood bird with a faint maker's mark, resting in the cupped palm of a small pale hand. The hand fills the lower two-thirds of the frame. Background deeply blurred: a three-story Victorian mansion on a hill under a bruised storm sky, pine trees, faint suggestion of waves. Palette: warm driftwood tan and cream in the foreground, cold blue-gray and bruised plum in the blurred background — a deliberate temperature split between past (warm) and present (cold). Soft directional light from upper left, the bird catching a single highlight, shadow pooling in the palm. Photorealistic painterly hybrid, texture of grain-of-wood visible. Mood: tender menace, inheritance, a secret kept for twenty-five years. Render the title "THE HOLLOW SHORE" in elegant tall serif caps across the upper quarter of the cover in soft cream white, letter-spaced wide. Render "A NOVEL BY GREG RATAJIK" in small tracked sans-serif caps directly beneath, same cream color. No other text. Designed for Amazon thumbnail clarity.
+```
 
-**Concept:** An interior shot that hints at the psychological horror and suppressed memories.
-**Prompt:**
-"Create a book cover for a psychological horror novel titled 'The Hollow Shore' by Greg Ratajik, formatted with a 1.6:1 aspect ratio. The scene is a close-up of a section of faded, peeling wallpaper in a dark, forgotten room. The wallpaper has an intricate pattern of blue, spiraling vines and small flowers that almost look like eyes. The lighting is dim, coming from a single, off-camera source, casting long, eerie shadows. One part of the wallpaper is torn, revealing dark, rough wood underneath, hinting at hidden passages. The title 'The Hollow Shore' and author name 'Greg Ratajik' should appear as if they're part of the wallpaper pattern itself, almost hidden. The style is claustrophobic, unsettling, and hints at a history of trauma contained within the walls."
+### Ideogram Typography Variant
 
----
-
-### Prompt 5: Fragmented Memories
-
-**Concept:** A more abstract, modern thriller cover that visualizes the theme of memory.
-**Prompt:**
-"Design a modern and abstract book cover for a thriller titled 'The Hollow Shore' by Greg Ratajik, with a 1.6:1 aspect ratio. The image is a fractured, shattered photograph. The main visible piece is the eye of a young Asian-American woman (Maya), looking determined yet haunted. Other shards show glimpses of a stormy sea, the gables of a Victorian mansion, and the face of a blonde girl (Sarah). The fragments are arranged like broken glass against a dark, textured background. The title 'The Hollow Shore' and author name 'Greg Ratajik' are in a bold, sharp font, also appearing slightly fractured. The color scheme is dark with flashes of electric blue. The overall effect is one of a shattered past and a mind trying to piece together a terrible truth."
+```
+Vertical 2:3 literary thriller book cover. Hero image: a small carved wooden bird resting in a child's open palm, sharp focus; a blurred Victorian mansion on a stormy hill looms behind. Warm driftwood foreground, cold blue-gray background. Integrated rendered typography: "THE HOLLOW SHORE" in tall elegant cream-white serif caps, wide letter-spacing, across the top quarter; small italic serif tagline "REMEMBER" placed subtly near the bird as if whispered; "A NOVEL" in tiny caps; author "GREG RATAJIK" bottom center in cream tracked sans-serif caps. All text rendered clean and crisp, not placeholder. Comp-title feel: Tana French, Gillian Flynn. High thumbnail legibility, matte cinematic finish.
+```
 
 ---
 
-### Prompt 6: The Hollow Shore
+## Concept 3 — The Blue Wallpaper
 
-**Concept:** A literal interpretation of the book's central location, the caves.
-**Prompt:**
-"Generate a dark and suspenseful book cover for 'The Hollow Shore' by Greg Ratajik, ensuring a 1.6:1 aspect ratio. The scene is the entrance to a dark sea cave on a rocky, desolate coastline. The tide is low, revealing wet sand and seaweed-covered rocks. From the mouth of the cave, a faint, eerie blue light emanates, suggesting something unnatural within. The sky above is a bruised purple and gray of a coming storm. The title 'The Hollow Shore' is in a weathered, blocky font at the bottom, looking as if it's been carved into the rock, with the author's name 'Greg Ratajik' above or below it. The mood is one of ancient secrets, hidden horror, and the lure of a dangerous mystery."
+**Visual concept:** A Victorian blue damask wallpaper pattern fills the entire cover; at center, the pattern tears open like a wound, revealing a glimpse of ocean waves and cave darkness beyond.
+**Target audience:** Gothic/domestic thriller readers; fans of The Yellow Wallpaper reimagined, The Death of Mrs. Westaway, Mexican Gothic.
+
+### Full Standalone Prompt
+
+```
+Book cover art, 1:1.6 vertical. Full-bleed antique Victorian damask wallpaper in deep teal-blue and faded silver, vine-and-flower pattern, subtly water-stained and aged. At the exact center of the cover, the wallpaper appears torn open in a jagged vertical rip — edges curled, plaster crumbling — revealing a window into churning black ocean waves and the dark mouth of a cave beyond. Through the tear, a faint pale shape like a child's outline dissolves into the water. Palette: dominant Prussian blue, tarnished silver, black interior of the tear, single hint of bone white. Lighting: even ambient on the wallpaper, cold blue glow escaping from the torn interior. Painterly, symbolic, Gothic thriller aesthetic, matte finish. Mood: buried memory clawing through domestic surface, elegant horror. Render the title "THE HOLLOW SHORE" in ornate Victorian serif caps arcing across the top, letters in tarnished silver-gilt as if embroidered into the wallpaper itself. Render "GREG RATAJIK" at the bottom center in matching tarnished silver, smaller serif caps. No other text.
+```
 
 ---
 
-### Prompt 7: The Orchid and the Lie
+## Concept 4 — The Island from Above
 
-**Concept:** A sophisticated and symbolic cover hinting at the wider conspiracy and its architect.
-**Prompt:**
-"Create an elegant and menacing book cover for a conspiracy thriller titled 'The Hollow Shore' by Greg Ratajik, with a 1.6:1 aspect ratio. The central image is a single, perfect, impossibly rare orchid (a Vanda 'Rothschildiana' with deep purple and blue hues) against a stark, black background. The orchid is beautiful, but its stem is a sterile, metallic, medical-looking instrument that drips a single drop of a clear, viscous liquid. The lighting is clinical and sharp, like in a laboratory. The title 'The Hollow Shore' and author name 'Greg Ratajik' are in a clean, cold, and luxurious sans-serif font. The overall style is minimalist, sophisticated, and deeply unsettling, suggesting a beautiful facade hiding a monstrous, clinical evil."
+**Visual concept:** A top-down map-style illustration of a small Maine island, the mansion at its peak, caves riddling the coastline like veins. The silhouette of the island read as a whole forms the faint shape of a human skull or a sleeping child.
+**Target audience:** Mystery/thriller readers who love map-aesthetic covers; fans of The Guest List, The Hunting Party, And Then There Were None reissues.
+
+### Full Standalone Prompt
+
+```
+Book cover art, 1:1.6 vertical. A stylized vintage cartographic illustration of a small private island off the Maine coast, viewed top-down. The island is roughly two miles by one, with a Victorian mansion marked at the central hill, pine-forest texture covering the interior, a dock on one side, formal gardens, a carriage house. The rocky coastline is riddled with thin inked cave passages like veins or roots burrowing under the land. The overall silhouette of the island subtly resembles a sleeping child's profile in the rocky outline — visible only at second glance. Surrounding sea rendered in hand-drawn ink waves with a compass rose in one corner and a nor'easter storm swirl in another. Palette: aged parchment cream, sepia ink, deep navy sea, a single drop of blood-red marking the mansion's hill. Vintage 1890s nautical chart aesthetic with modern thriller edge. Mood: secrets drawn to scale, places that hold what people bury. Render the title "THE HOLLOW SHORE" in classic cartographer's serif caps across the top quarter in deep sepia-black, hand-lettered feel. Subtitle "AN ISLAND REMEMBERS" in small italic serif. Author "GREG RATAJIK" along the bottom in matching serif caps. No other text.
+```
+
+---
+
+## Concept 5 — The Submerged Child
+
+**Visual concept:** A pair of small hands reaches upward from dark water, fingers just breaking the surface; above the waterline, the reflection shows not a face but the Victorian mansion's windows lit from within.
+**Target audience:** Dark literary thriller readers; cover sensibility aligned with The Light We Lost, The Push, Bright Young Women.
+
+### Full Standalone Prompt
+
+```
+Book cover art, 1:1.6 vertical. Close, symbolic composition: two small pale hands reach upward from black water, fingertips just breaching the surface, creating faint ripples. The waterline bisects the cover horizontally at the lower third. Above the waterline, instead of sky, a reflection shows the facade of a looming three-story Victorian mansion at night, windows lit warm amber — the reflection is impossibly mirrored onto the air itself, surreal and dreamlike. Bioluminescent hints of blue-green in the deep water below. Palette: obsidian black water, deep teal, warm amber window-glow, bone-pale hands. Cinematic underwater lighting, painterly surrealism in the style of contemporary literary thriller covers, matte finish. Mood: drowning memory, children calling from beneath, the house that watches. Render the title "THE HOLLOW SHORE" in tall bold sans-serif caps across the upper third in bone-white, slight letter-spacing, clean and modern. Render "A NOVEL" in tiny tracked caps beneath. Render "GREG RATAJIK" at the very bottom center in amber-gold sans-serif caps, echoing the window light. Crisp typography, rendered not placeholder. Designed for Amazon thumbnail legibility.
+```
