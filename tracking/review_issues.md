@@ -1,5 +1,8 @@
 # Review Issues — The Hollow Shore
 
+> **NOTE (2026-09-01):** Chapter numbers in this file use the ORIGINAL 28+inserts numbering (Ch08a/Ch13a/Ch27a). Chapter files were renumbered ch01-ch31 at final polish; the mapping table is at the top of story.md.
+
+
 Cumulative issue log across review passes. Reviewer: before each pass, read this file. Do not re-report issues marked `fixed` or `verified`. Do check for regressions on previously-fixed issues.
 
 ## Status legend

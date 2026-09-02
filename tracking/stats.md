@@ -1,5 +1,8 @@
 # Production Stats — The Hollow Shore
 
+> **NOTE (2026-09-01):** Chapter numbers in this file use the ORIGINAL 28+inserts numbering (Ch08a/Ch13a/Ch27a). Chapter files were renumbered ch01-ch31 at final polish; the mapping table is at the top of story.md.
+
+
 **Status:** After Review Pass 1 (2026-04-16). Baseline was 41,205 words / 159 em-dashes / 85 forbidden tags / ~25 aphoristic endings. Pass 1 applied structural rewrites, mechanical sweeps, grounded-PI Act 3 reframe, and voice-card repairs.
 
 ## Chapter Stats (post-Pass 1)

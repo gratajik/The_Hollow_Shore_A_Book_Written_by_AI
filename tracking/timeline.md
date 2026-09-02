@@ -1,5 +1,8 @@
 # Timeline — The Hollow Shore
 
+> **NOTE (2026-09-01):** Chapter numbers in this file use the ORIGINAL 28+inserts numbering (Ch08a/Ch13a/Ch27a). Chapter files were renumbered ch01-ch31 at final polish; the mapping table is at the top of story.md.
+
+
 ## Deep Past (25+ years ago)
 
 | When | Event | Chapters |
