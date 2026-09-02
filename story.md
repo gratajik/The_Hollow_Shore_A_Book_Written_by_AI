@@ -523,7 +523,7 @@ From the project brief, style guide, and memory-bank notes. Reviewer must enforc
 
 13. **Dr. Sarah Chen (therapist) is no relation to Maya despite the shared surname.** Called out explicitly. Reviewer should confirm the text disambiguates.
 
-14. **"Dr. Marcus Webb"** is both Maya's childhood therapist (Columbia, SC, 1998, paper co-author with Dr. Richard) AND the name of one of the three recent coma victims in Ch 13. **This is a naming collision — see known issues.**
+14. **"Dr. Marcus Webb"** is Maya's childhood therapist (Columbia, SC, 1998, paper co-author with Dr. Richard). The draft-era naming collision with a coma victim was RESOLVED in Pass 1: the Concord coma victim is **Marcus Hale** (Ch 13, 17). Do not re-flag; confirm the names stay distinct.
 
 ---
 
