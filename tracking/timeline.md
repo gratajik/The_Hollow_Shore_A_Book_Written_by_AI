@@ -112,6 +112,7 @@
 - Briefing occurs twelve hours after Ethan Renault's identification.
 - Kim's donation record dates to fifteen years prior to the current investigation.
 - Renault Artisan Collective was active until it disbanded in the late 1990s.
+- The bird entered the evidence box three weeks before this briefing.
 - Team ordered wheels-up for Nova Scotia within two hours of the briefing's end.
 
 ## Chapter 25
@@ -137,7 +138,7 @@
 - Breakfast confrontation in dining room (morning)
 - Library confrontation/attempted sedation by Dr. Richard (shortly after breakfast)
 - Kitchen landline call to Detective Park, cut off (mid-morning)
-- Maya barricades in her room; hours pass (~5 hours implied) while house is silent
+- Maya barricades in her room; several hours pass ("some part of an hour" with letter opener) while house is silent
 - Margaret's note specifies tide out at 4:00 PM (future reference point)
 - Chapter ends with footsteps in the walls, present moment, timing unspecified
 
@@ -152,11 +153,66 @@
 ## Chapter 14
 
 - Morning: Maya flies back from Portland on 7 a.m. FBI charter; met by Agent Martinez at Bar Harbor tarmac
-- Same morning: federal vehicles and Coast Guard cutter already at the estate; Eleanor caught burning evidence
-- Three hours' window noted for Richard's scheduled flight to Brazil at time of laptop discovery
+- Same morning: four federal vehicles and a Coast Guard cutter already at the estate; Eleanor caught burning evidence
+- Three-hour window noted for Richard's scheduled flight to Brazil at time of laptop discovery
 - Dawn same day: Murphy sees Richard loading the yacht
 - Pursuit continues through the day: cove/summer house search, then airfield chase
-- Richard's capture occurs same day, in daylight (described later as "last light of an October afternoon")
-- Afternoon/evening: Martinez drives Maya back to Bar Harbor (~40-minute trip)
+- Richard's capture occurs same day, in the last light of an October afternoon
+- Agent Martinez drives Maya back to Bar Harbor afterward (~40-minute trip)
 - By 8 p.m.: Maya alone in Holiday Inn parking lot in Bar Harbor
 - Planned: Maya to drive south to Portland, arriving by 11 p.m.
+
+## Chapter 9
+
+- Maya's third visit to Dr. Chen's Portland office (previously there twice before, briefly).
+- Session occurs after the Vermont/Hendricks trip (referenced retrospectively: Hardy Boys bookmark, fifteen years of Sunday cleaning, Carol Hendricks's "we stopped for four years," ceramic dish, six-hour drive back).
+- Same evening: Maya drives back to Boston and calls Agent Kim.
+- Following day (implied): Kim tests the recording on the children, four recognize it.
+
+## Chapter 18
+
+- Day 1 (post-interrogation): Interpol raids underway (Bucharest/Alistair, plus Brazil and Thailand arrests); Kim briefs Maya and Martinez; evening call with Dr. Chen; Maya rereads Sarah's notebook; sleeps six hours.
+- Day 2: Maya returns to FBI field office; Kim reveals cracked ledger and Nightingale Fund findings; Mark Morrison's full archive expected by 10 AM the following morning.
+
+## Chapter 23
+
+- 4:12 PM, Thursday: memory fully returns to Maya in the FBI war room.
+- Maya requests "an hour," walks to her hotel (walk not remembered), sets the chain on the door, sits without moving for an unspecified time.
+- Some minutes pass before Maya speaks aloud: "She looked away."
+- Indeterminate time (estimated twenty minutes to an hour) before Maya becomes aware of the afternoon light having moved and her phone's missed messages.
+- Ninety minutes after the memory event, Maya calls Dr. Chen.
+- Four minutes after the call, Martinez knocks on Maya's hotel door.
+- Later, same day: forensics lab identifies the bird's carving style; ten minutes later Kim identifies the Renault family match.
+
+## Chapter 22
+
+- 25 years before present: Maya, age 8, arrives on Blackwood Island for the summer program.
+- Day 2 of the summer: Sarah warns Maya that adults are always watching and taking notes.
+- Day 3 of the summer: Sarah and Maya discover the Cathedral cave and draw the mermaid/scout scene.
+- Later in summer: Ethan notices new lights/medical equipment in deep caves; escape plan formed.
+- Moonless night: escape attempt; Tommy shot and killed; children herded to classroom chamber; Maya drugged.
+- One week after the incident: Maya wakes in Columbia, SC, told she had a fever, bird found on nightstand.
+- 25-year span: bird kept in jewelry box, moved through Maya's homes, until mother mails it to Portland when Maya (age 35) begins remembering.
+
+## Chapter 30
+
+- February: Maya returns to Boston from Geneva (after 53 days away).
+- December 31 (prior year): Ethan's plea entered.
+- Day 1 (of return): Maya arrives home, sleeps 14 hours.
+- Day 2: Maya opens the box shipped from Geneva, reads Sarah's sketchbook.
+- Day 3: Maya drives to Vermont to visit Michael Hendricks.
+- March: Danny Morrison's 11th birthday party.
+- April (Saturday): Emma Washington's first painting class at rented mainland Trust conference space.
+- May: Maya returns to Blackwood Island; conversation with Captain Murphy and Margaret Swift; stays for dinner.
+- Trust's mansion renovation expected to officially open in August.
+
+## Chapter 31
+
+- Tuesday morning, October, one year and one month after Maya's original arrival on the island: Maya takes ferry back to Blackwood Island.
+- Same day, mid-morning: Maya walks up with Margaret Swift, views renovated house, bird/drawing display, art studio, reading room.
+- Same day, 11:00 AM: Ribbon-cutting ceremony on the porch; Maya speaks ten words; Danny Morrison unveils plaque; Patricia Valdez speaks; carpenter mounts plaque.
+- Same day, after ceremony: Maya talks with Dr. Sarah Chen; learns of mother's March confession about Richard's three phone calls (when Maya was 19, 24, and 31).
+- Same day, noon: Maya's parents arrive via noon ferry.
+- Same day, afternoon: Maya walks parents to Tommy's bench, then to the house to see Emma's drawing.
+- Same day, late afternoon: Maya and her parents go down to the beach; father learns to skip a stone.
+- Prior events referenced: Swiss extradition hearing (before this chapter, not revisited since); March phone call between Maya and her mother; April release of the carved bird from FBI evidence.

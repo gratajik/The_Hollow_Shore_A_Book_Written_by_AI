@@ -362,9 +362,9 @@ publishing_status:
   package: publishing/HollowShore_5.19.26.docx
 costs:
   writing: 0.0
-  review: 12.8136
+  review: 17.690600000000003
   publishing: 0.1527
-  total: 12.966299999999999
+  total: 17.843300000000003
 review_log:
 - pass: 11
   agent: mechanical
@@ -1086,9 +1086,369 @@ review_log:
   cache_read_tokens: 0
   cache_write_tokens: 0
   cost: 0.0335
+- pass: 13
+  agent: 'fix-structural:ch18 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 92199
+  output_tokens: 222
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.3479
+- pass: 13
+  agent: 'fix-structural:ch09 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 92275
+  output_tokens: 322
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0828
+- pass: 13
+  agent: 'fix-structural:ch04 rewrite: [critical] carry-forward +1'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 91718
+  output_tokens: 301
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1054
+- pass: 13
+  agent: 'fix-structural:ch20 rewrite: [critical] carry-forward'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 89203
+  output_tokens: 500
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.087
+- pass: 13
+  agent: 'fix-structural:ch26 rewrite: [critical] Undefined Character Referenc'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 90465
+  output_tokens: 470
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0992
+- pass: 13
+  agent: 'fix-structural:ch24 rewrite: [critical] carry-forward'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 91555
+  output_tokens: 450
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0778
+- pass: 13
+  agent: sweep
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 87300
+  output_tokens: 242
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.333
+- pass: 13
+  agent: fix:ch09
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 97784
+  output_tokens: 319
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1225
+- pass: 13
+  agent: fix:ch02
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 98281
+  output_tokens: 420
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1275
+- pass: 13
+  agent: fix:ch08
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 95741
+  output_tokens: 343
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1128
+- pass: 13
+  agent: fix:ch04
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 96330
+  output_tokens: 575
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1216
+- pass: 13
+  agent: fix:ch13
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 94900
+  output_tokens: 239
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.106
+- pass: 13
+  agent: fix:ch14
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 94602
+  output_tokens: 320
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1066
+- pass: 13
+  agent: fix:ch16
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 94516
+  output_tokens: 331
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1064
+- pass: 13
+  agent: fix:ch18
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 91897
+  output_tokens: 341
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0935
+- pass: 13
+  agent: fix:ch21
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 93626
+  output_tokens: 299
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1011
+- pass: 13
+  agent: fix:ch25
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 93306
+  output_tokens: 329
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1003
+- pass: 13
+  agent: fix:ch26
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 95082
+  output_tokens: 402
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.111
+- pass: 13
+  agent: fix:ch30
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 98852
+  output_tokens: 392
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1296
+- pass: 13
+  agent: fix:ch31
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 94341
+  output_tokens: 219
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1027
+- pass: 13
+  agent: 'fix-structural:ch14 rewrite: [critical] carry-forward'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 96900
+  output_tokens: 341
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0956
+- pass: 13
+  agent: 'fix-structural:ch04 rewrite: [critical] Narration-to-Dialogue Callba +1'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 91760
+  output_tokens: 342
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1063
+- pass: 13
+  agent: 'fix-structural:ch20 rewrite: [critical] carry-forward'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 89215
+  output_tokens: 460
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0861
+- pass: 13
+  agent: 'fix-structural:ch02 rewrite: [critical] carry-forward'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 96900
+  output_tokens: 581
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1202
+- pass: 13
+  agent: 'fix-structural:ch24 rewrite: [critical] carry-forward'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 91694
+  output_tokens: 375
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0772
+- pass: 13
+  agent: sweep
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 107967
+  output_tokens: 491
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.5406
+- pass: 13
+  agent: targeted-verify
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 5117
+  output_tokens: 2
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0051
+- pass: 13
+  agent: targeted-verify
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 6421
+  output_tokens: 22
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0065
+- pass: 13
+  agent: 'fix-structural:ch23 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 98954
+  output_tokens: 553
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.081
+- pass: 13
+  agent: 'fix-structural:ch30 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 100276
+  output_tokens: 564
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1183
+- pass: 13
+  agent: 'fix-structural:ch24 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 98878
+  output_tokens: 755
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0866
+- pass: 13
+  agent: 'fix-structural:ch22 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 98878
+  output_tokens: 705
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0902
+- pass: 13
+  agent: 'fix-structural:ch31 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 98878
+  output_tokens: 525
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.104
+- pass: 13
+  agent: targeted-verify
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 6421
+  output_tokens: 18
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0065
+- pass: 13
+  agent: 'fix-structural:ch24 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 99437
+  output_tokens: 341
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0777
+- pass: 13
+  agent: 'fix-structural:ch23 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 99512
+  output_tokens: 593
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0832
+- pass: 13
+  agent: 'fix-structural:ch30 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 100890
+  output_tokens: 755
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1248
+- pass: 13
+  agent: 'fix-structural:ch22 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 99437
+  output_tokens: 806
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0946
+- pass: 13
+  agent: 'fix-structural:ch31 rewrite: [critical] Cross-chapter continuity / C'
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 99437
+  output_tokens: 493
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1043
+- pass: 13
+  agent: targeted-verify
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 6421
+  output_tokens: 2
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0064
 last_review_depth: ''
 last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-04-17T17:05:00.408323+00:00'
-updated_at: '2026-09-02T03:58:01.118351+00:00'
+updated_at: '2026-09-02T04:02:57.535627+00:00'

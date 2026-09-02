@@ -44,6 +44,7 @@
 | 10 | 15 KB | 0 parts |
 | 11 | 114 KB | 7 parts |
 | 12 | 101 KB | 7 parts |
+| 13 | 106 KB | 7 parts |
 | 2 | 4 KB | 0 parts |
 | 3 | 10 KB | 0 parts |
 | 4 | 10 KB | 0 parts |
@@ -51,14 +52,14 @@
 | 6_and_7 | 11 KB | 0 parts |
 | 8 | 24 KB | 0 parts |
 
-- **Review Passes:** 10
+- **Review Passes:** 11
 - **Converged:** No
 
 ## Fix Summary
 
-- **Edits Applied:** 93
-- **Edits Failed:** 2
-- **Hit Rate:** 98%
+- **Edits Applied:** 109
+- **Edits Failed:** 5
+- **Hit Rate:** 96%
 - **Em-dashes Stripped:** 1
 
 ## Grand Totals
@@ -66,8 +67,8 @@
 - **Total Words:** 65,478
 - **Chapters Complete:** 31/31
 - **Est. Writing Cost:** $0.00
-- **Est. Review Cost:** $11.41
+- **Est. Review Cost:** $17.69
 - **Est. Publishing Cost:** $0.15
-- **Est. Total Cost:** $11.56
+- **Est. Total Cost:** $17.84
 
 *Costs are estimated based on Anthropic API pricing. Proxy calls are free but estimated for production planning.*

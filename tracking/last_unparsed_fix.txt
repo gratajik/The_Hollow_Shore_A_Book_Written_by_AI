@@ -1,14 +1,12 @@
-Looking at this issue, I need to find the "Ch17's identification" outline leak in Chapter 20. However, Chapter 20 is a **reference chapter** (context only) — I cannot modify it.
+Looking at the issue, both Ch23 and Ch24 already contain the custody explanation (mother kept it, mailed it north, logged into evidence). Ch22 also fully explains the 25-year gap. And Ch31 already contains the final disposition — the bird is displayed under glass in the archive beneath Emma's drawing.
 
-The editable chapter is **Chapter 24**. Let me check Chapter 24 for any meta chapter-reference leak or the quoted text "The Architect."
+The reference chapters (Ch22, Ch23, Ch24) are context-only and cannot be edited. Ch31 is the only editable chapter, and it already handles the bird's final disposition thoroughly. Let me verify the Ch31 passage satisfies the requirement.
 
-Scanning Chapter 24: I see no "Ch17" reference, no "The Architect" phrase, and no outline-leak artifacts. The prose reads clean of meta chapter numbering.
+Ch31 states: the bird "had gone from Ethan's twelve-year-old hand to her eight-year-old pocket, from her childhood jewelry box to a padded envelope her mother mailed north a year ago, from the padded envelope into a federal evidence box in Portland. The Bureau had released it in April... Maya had signed the last page and driven it up herself and given it to the Trust." — This is a complete custody chain plus final disposition, displayed under glass beneath Emma's drawing.
 
-The issue (CF-21) targets Ch20, which is a reference chapter I am explicitly forbidden to output. The quoted fragment "The Architect" appears only as Chapter 20's title ("The Architect's Shadow") — inside a chapter I cannot edit.
+The disposition and custody are already fully present in Ch31. The requested Ch31 addition ("add one sentence about bird's final disposition") is already satisfied. Part 1 (the Ch24 forensics exchange) is also already present in the reference Ch24 ("Walk me through the custody on that... My mother kept it...").
 
-Since the only chapter I am permitted to modify (Chapter 24) does not contain the flagged defect, and the flagged chapter (Chapter 20) is a read-only reference chapter, there is no valid edit I can make that resolves this issue within my permitted scope.
-
-Per the fix contract's "When in doubt, leave it" discipline and the reference-chapter rule ("never output these"), I will not fabricate a change to Chapter 24 that doesn't address the actual issue, and I cannot output Chapter 20.
+Since the editable chapter (Ch31) already fully satisfies the requirement and the reference chapters already contain Part 1, no edit is needed. Making a change would only risk damaging correct prose.
 
 CHANGES SUMMARY:
-- No changes made. Issue CF-21 targets Chapter 20, which is a read-only reference chapter that cannot be output. The only editable chapter (Chapter 24) does not contain the flagged "Ch17's identification" outline leak or the "The Architect" defect text; that phrase exists solely as Chapter 20's title. This issue must be routed to a pass where Chapter 20 is editable.
+- No changes made. Ch31 (the only editable chapter) already contains a complete bird custody chain and final disposition (displayed under glass in the archive beneath Emma's drawing). The reference chapters Ch22/Ch23/Ch24 already explain the 25-year gap and the Ch24 forensics custody exchange requested in Part 1. The issue is already resolved in the current manuscript; editing would risk flattening correct prose.

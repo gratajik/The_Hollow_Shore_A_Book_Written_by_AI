@@ -134,10 +134,10 @@
     ],
     "severity": "major",
     "original_strategy": "surgical",
-    "current_strategy": "surgical",
-    "attempts": 2,
-    "last_pass": 12,
-    "status": "active",
+    "current_strategy": "structural",
+    "attempts": 3,
+    "last_pass": 13,
+    "status": "escalated",
     "adjudicated": "",
     "first_seen_pass": 11,
     "tokens": [
@@ -495,7 +495,7 @@
     "chapters": [
       13
     ],
-    "severity": "minor",
+    "severity": "major",
     "original_strategy": "surgical",
     "current_strategy": "surgical",
     "attempts": 0,
@@ -571,8 +571,8 @@
     "severity": "critical",
     "original_strategy": "structural",
     "current_strategy": "structural",
-    "attempts": 1,
-    "last_pass": 12,
+    "attempts": 2,
+    "last_pass": 13,
     "status": "active",
     "adjudicated": "",
     "first_seen_pass": 12,
@@ -676,8 +676,8 @@
     "severity": "critical",
     "original_strategy": "cross_chapter",
     "current_strategy": "cross_chapter",
-    "attempts": 0,
-    "last_pass": 0,
+    "attempts": 1,
+    "last_pass": 13,
     "status": "resolved",
     "adjudicated": "",
     "first_seen_pass": 12,
@@ -747,5 +747,212 @@
     "quotes": [
       "disappeared/searched-for"
     ]
+  },
+  "357abfa201d5": {
+    "title": "Original carved bird's 25-year custody still implicit",
+    "chapters": [
+      30
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 13,
+    "tokens": [
+      "bird",
+      "carv",
+      "ch30",
+      "conf",
+      "cust",
+      "evid",
+      "firs",
+      "grou",
+      "how",
+      "impl",
+      "neve",
+      "orig",
+      "seco",
+      "sila",
+      "stat",
+      "surv",
+      "swis",
+      "year"
+    ],
+    "quotes": []
+  },
+  "b294ba8b59f7": {
+    "title": "Emma age progression confirmation",
+    "chapters": [
+      13
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 13,
+    "tokens": [
+      "age",
+      "ch13",
+      "ch31",
+      "conf",
+      "disa",
+      "earn",
+      "emma",
+      "epil",
+      "fla",
+      "one",
+      "plus",
+      "prio",
+      "prog",
+      "time",
+      "year"
+    ],
+    "quotes": []
+  },
+  "2d6cb2bccf83": {
+    "title": "Underlined word absent from quoted list",
+    "chapters": [
+      4
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 13,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 13,
+    "tokens": [
+      "abse",
+      "atte",
+      "bein",
+      "carr",
+      "forw",
+      "list",
+      "long",
+      "pres",
+      "prio",
+      "quot",
+      "unde",
+      "unre",
+      "word"
+    ],
+    "quotes": [
+      "underlined the word *witness,*",
+      "What I need",
+      "witness."
+    ]
+  },
+  "a97474cdf9ce": {
+    "title": "Undefined character 'Switzerland' in dialogue (ch26)",
+    "chapters": [
+      26
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 13,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 13,
+    "tokens": [
+      "addr",
+      "almo",
+      "cert",
+      "ch26",
+      "char",
+      "dial",
+      "enti",
+      "form",
+      "loc",
+      "swit",
+      "unde"
+    ],
+    "quotes": [
+      "Switzerland"
+    ]
+  },
+  "9afa9bb23279": {
+    "title": "Dr. Sarah Chen non-relation callout missing (explicit disambiguation required but absent)",
+    "chapters": [
+      9,
+      18
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 13,
+    "tokens": [
+      "abse",
+      "call",
+      "chen",
+      "disa",
+      "expl",
+      "mand",
+      "maya",
+      "miss",
+      "non",
+      "out",
+      "prot",
+      "rela",
+      "requ",
+      "sara",
+      "stor",
+      "ther"
+    ],
+    "quotes": [
+      "Called out explicitly"
+    ]
+  },
+  "77b07e224e3d": {
+    "title": "Carved wooden bird custody unexplained (25-year gap and final disposition missing)",
+    "chapters": [
+      22,
+      23,
+      24,
+      30,
+      31
+    ],
+    "severity": "critical",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 1,
+    "last_pass": 13,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 13,
+    "tokens": [
+      "bird",
+      "carv",
+      "chil",
+      "cust",
+      "disa",
+      "disp",
+      "evid",
+      "fina",
+      "fore",
+      "gap",
+      "give",
+      "maya",
+      "miss",
+      "narr",
+      "neve",
+      "reap",
+      "unex",
+      "wood",
+      "year"
+    ],
+    "quotes": []
   }
 }
