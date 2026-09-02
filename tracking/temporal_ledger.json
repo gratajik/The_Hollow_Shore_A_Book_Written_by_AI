@@ -1,0 +1,117 @@
+{
+  "claims": [
+    {
+      "chapter": 1,
+      "kind": "duration",
+      "key": "strugg",
+      "value": 90.0,
+      "raw": "three months of her struggling agency's expenses was irre"
+    },
+    {
+      "chapter": 3,
+      "kind": "duration",
+      "key": "life",
+      "value": 14.0,
+      "raw": "two weeks of her life"
+    },
+    {
+      "chapter": 6,
+      "kind": "duration",
+      "key": "manipu",
+      "value": 7300.0,
+      "raw": "Twenty years of manipulation and fear cracking like ice i"
+    },
+    {
+      "chapter": 6,
+      "kind": "duration",
+      "key": "northe",
+      "value": 5475.0,
+      "raw": "fifteen years of northern weather"
+    },
+    {
+      "chapter": 8,
+      "kind": "duration",
+      "key": "workin",
+      "value": 14600.0,
+      "raw": "forty years of working with it"
+    },
+    {
+      "chapter": 9,
+      "kind": "duration",
+      "key": "sunday",
+      "value": 5475.0,
+      "raw": "fifteen years of Sunday cleaning"
+    },
+    {
+      "chapter": 9,
+      "kind": "duration",
+      "key": "therap",
+      "value": 3650.0,
+      "raw": "ten years of therapy"
+    },
+    {
+      "chapter": 10,
+      "kind": "duration",
+      "key": "labele",
+      "value": 7300.0,
+      "raw": "twenty years of labeled boxes stacked along the wall and "
+    },
+    {
+      "chapter": 13,
+      "kind": "duration",
+      "key": "disuse",
+      "value": 365.0,
+      "raw": "a year of disuse"
+    },
+    {
+      "chapter": 19,
+      "kind": "duration",
+      "key": "financ",
+      "value": 2.0,
+      "raw": "two days with the financial data"
+    },
+    {
+      "chapter": 19,
+      "kind": "duration",
+      "key": "docume",
+      "value": 8395.0,
+      "raw": "Twenty-three years of documents"
+    },
+    {
+      "chapter": 19,
+      "kind": "duration",
+      "key": "nighti",
+      "value": 360.0,
+      "raw": "twelve months of Nightingale Fund transfers"
+    },
+    {
+      "chapter": 20,
+      "kind": "duration",
+      "key": "annual",
+      "value": 9125.0,
+      "raw": "Twenty-five years of annual payments"
+    },
+    {
+      "chapter": 21,
+      "kind": "duration",
+      "key": "scienc",
+      "value": 14600.0,
+      "raw": "forty years of science journals"
+    },
+    {
+      "chapter": 23,
+      "kind": "duration",
+      "key": "sensor",
+      "value": 9125.0,
+      "raw": "Twenty-five years of sensory fragments assembling into their a"
+    },
+    {
+      "chapter": 30,
+      "kind": "duration",
+      "key": "accumu",
+      "value": 18250.0,
+      "raw": "fifty years of accumulated underbrush"
+    }
+  ],
+  "violations": []
+}

@@ -126,3 +126,17 @@ Plus 12 additional "long-term" victims in the chambers (total 18 living rescued 
 | Carved wooden bird | ch20 flashback | Ethan's "Remember" message | Forensics identifies Renault collective (ch21) |
 | Master key USB | ch26 | Control of conspiracy network | Used for data dump (ch27); transferred to trust (ch28) |
 | Ethan's "ghost's nest" Toronto apt | ch24 | Surveillance schematics of conspiracy | Clue chain (ch24) |
+
+### EXCEPTION: Excessive uncontracted forms in human-POV chapters
+- **Scope:** Ch 3, Ch 5, Ch 6, Ch 11, Ch 12, Ch 16, Ch 17
+- **Pattern:** Budget is max 2 uncontracted forms per chapter. Ch17 has 27 (13.5× budget), Ch3 has 14 (7×), Ch5 has 10 (5×), Ch6 has 9 (4.5×), Ch16 has 6 (3×), Ch12 has 4 (2×), Ch11 has 3 (1.5×). Pattern suggests a deliberate formal register not declared in voice cards, or authorial slip toward formal/legal narration.
+- **Reason:** Determine if uncontracted forms are intentional (Eleanor's POV, procedural sections) and add an EXCEPTION block to facts.md if so. Otherwise, restore contractions throughout: 'did not' → 'didn't', 'was not' → 'wasn't', 'could not' → 'couldn't', etc. Ch17 in particular (27 instances, Maya's POV) should be cut to 2 maximum. Target: all chapters ≤2 uncontracted forms unless an EXCEPTION is declared.
+- **Authority:** Authorial choice per writing-guide §4.3. Auto-promoted by reviewer pass 11 on 2026-09-02 (source issue: M3).
+
+
+### EXCEPTION: Uncontracted Eleanor Blackwood (formal register—requires EXCEPTION declaration or correction)
+- **Scope:** All chapters
+- **Pattern:** Eleanor's POV and narration sections use zero contractions (27 instances in Ch17 alone), producing a formally-controlled, non-human register. Clarification needed: Is this intentional character voice (aristocratic control) or authorial slip?
+- **Reason:** If Eleanor's non-contracting speech is intentional, add EXCEPTION block to facts.md: 'Eleanor Blackwood's dialogue and close-third narration use zero contractions to signal formality and emotional control. Scope: Chapters [list]. Exception honored.' If NOT intentional, revert to human contraction (restore 'didn't,' 'wasn't,' 'won't,' etc., to 2-per-chapter rhetorical budget max).
+- **Authority:** Authorial choice per writing-guide §4.3. Auto-promoted by reviewer pass 11 on 2026-09-02 (source issue: M11).
+

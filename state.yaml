@@ -1,4 +1,4 @@
-phase: complete
+phase: reviewing
 current_chapter: 31
 total_chapters: 31
 chapters:
@@ -312,16 +312,117 @@ chapters:
     cost: 0.0
     compliance_violations: 0
     fix_passes: 0
-review_pass: 10
-review_converged: true
+review_pass: 11
+review_converged: false
+review_stopped_unconverged: false
+force_full_panel: false
+review_stop_reason: null
+last_review_critical: null
+last_review_major: null
+last_review_hashes:
+  1: 79e17ccd67fc9fb340128da71eb51878
+  2: e56dc2082a1313089e30d13375ceef61
+  3: 9231c363b4fe98ebfa7872bbd7fb99b3
+  4: 240d61ceffd5f346b3fc8985bfb88403
+  5: 473fee1552f1123accb1c647796382e7
+  6: a7c0b14ff1aba8099c3c169d2340d25f
+  7: 1483176a8cd51d99d64eea202786efc9
+  8: f77f10119a58de6f0bb836c2370b2fbc
+  9: 95406a3a87172503be583edbf0c1ca36
+  10: 4b06e77a0ee47a334f43495878869826
+  11: a9d20355f5511d79a3f70b998bcd8feb
+  12: 191332b229622e0e1aeff7de207ef2a2
+  13: dc485b09f6f9006366b8f1515f6a84f3
+  14: 6f6e0d20b21a1a5d33cf8b72ed98961a
+  15: 210cda38d19ef02d74526f79a47d4544
+  16: 7a5ec11805fb951503f386d2b0550ca7
+  17: 90f34b4a4e9f2b20774b1230d1df89d6
+  18: 8f4cc7f78fd0be58d17500774f7ca335
+  19: 6e12fe772fb22bdefaba6209836abd82
+  20: a58c4136732d9a443883119df67aacd7
+  21: f57c13ce7a0d62f4707d57989ee37242
+  22: 77051c07daa6c94c97dc268fe0156c9c
+  23: 75a2b9ac5334093d7285140ce18ee59f
+  24: a53a0bf8d288b0abd0f505862e78b60b
+  25: ef93314b56df6438b88161b34d126851
+  26: c727d174e1876031ebf428f99ef31ca5
+  27: 773650ca0e9b6afa89fb28f200f35cfb
+  28: d035c105958012fba924e41d46a38d30
+  29: e76772296daf073aacadd4c9dd5b4c17
+  30: dd9ac5a68be18e3f70086eebe1d7bfb2
+  31: 5744f5c507905b5a39f3e1cca40f0206
+contract_verified: {}
+timeline_verified: {}
+knowledge_verified: {}
+beat_verified: {}
+publisher_consensus_count: 0
 publishing_status:
   published: true
   published_date: '2026-05-19'
   package: publishing/HollowShore_5.19.26.docx
 costs:
   writing: 0.0
-  review: 0.0
+  review: 1.2536999999999996
   publishing: 0.1527
-  total: 0.1527
+  total: 1.4063999999999999
+review_log:
+- pass: 11
+  agent: mechanical
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 52811
+  output_tokens: 9555
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.122
+- pass: 11
+  agent: story
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 97302
+  output_tokens: 3420
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.9863
+- pass: 11
+  agent: publisher
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 96370
+  output_tokens: 2431
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0423
+- pass: 11
+  agent: voice
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 98962
+  output_tokens: 1791
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0353
+- pass: 11
+  agent: matrix
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 75944
+  output_tokens: 6447
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0392
+- pass: 11
+  agent: reader
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 96227
+  output_tokens: 1124
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0286
+last_review_depth: ''
+last_audit_date: ''
+last_audit_path: ''
+last_audit_criticals: -1
 created_at: '2026-04-17T17:05:00.408323+00:00'
-updated_at: '2026-09-01T00:00:00+00:00'
+updated_at: '2026-09-02T03:02:21.015853+00:00'

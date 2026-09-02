@@ -1,0 +1,5 @@
+# The Hollow Shore — targeted regression review config (2026-09-01)
+# Proxy run per Greg's explicit instruction ("use proxy"). Per-role tiers
+# apply on the proxy (parity default).
+model: claude-opus-4-8
+use_proxy: true
