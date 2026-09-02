@@ -9,7 +9,7 @@
     19,
     20
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     11
    ],
@@ -24,7 +24,7 @@
    "chapters": [
     2
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     11
    ],
@@ -41,9 +41,10 @@
    "chapters": [
     14
    ],
-   "state": "OPEN",
+   "state": "FIXING",
    "seen_passes": [
-    11
+    11,
+    12
    ],
    "adjudication": {},
    "quotes": [
@@ -58,7 +59,7 @@
    "chapters": [
     20
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     11
    ],
@@ -73,14 +74,16 @@
    "chapters": [
     4
    ],
-   "state": "OPEN",
+   "state": "FIXING",
    "seen_passes": [
-    11
+    11,
+    12
    ],
    "adjudication": {},
    "quotes": [
     "underlined *witness.*",
-    "what i need.\u2026"
+    "what i need.\u2026",
+    "underlined *witness,*"
    ]
   },
   {
@@ -91,7 +94,7 @@
    "chapters": [
     6
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     11
    ],
@@ -110,7 +113,7 @@
     19,
     20
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     11
    ],
@@ -127,9 +130,10 @@
     16,
     31
    ],
-   "state": "OPEN",
+   "state": "FIXING",
    "seen_passes": [
-    11
+    11,
+    12
    ],
    "adjudication": {},
    "quotes": [
@@ -146,7 +150,7 @@
     19,
     29
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     11
    ],
@@ -155,6 +159,25 @@
     "s school-photo date until it stops being numbers; ch24 opens on ethan",
     "photo of a dead/lost child, stared at until abstraction",
     "photograph in the corner of the screen"
+   ]
+  },
+  {
+   "fp": "043402f52920ed81",
+   "category": "Cross-chapter pronoun inconsistency",
+   "severity": "major",
+   "title": "Agent Martinez pronoun flip (male \u2192 female) across chapters",
+   "chapters": [
+    16,
+    21,
+    27
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    12
+   ],
+   "adjudication": {},
+   "quotes": [
+    "woman in her forties, graying hair in ponytail"
    ]
   }
  ]

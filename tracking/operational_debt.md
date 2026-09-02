@@ -10,3 +10,4 @@
 - **2026-09-02T03:05:47+00:00** — retrack ch26 after rewrite: 3 ledger section(s) replaced
 - **2026-09-02T03:06:27+00:00** — retrack ch04 after rewrite: 3 ledger section(s) replaced
 - **2026-09-02T03:06:33+00:00** — write-gate reject ch02 (sweep edit): markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref) :: ch02: [garbled] fused-word splice 'nor'easter' near "...e's looking like a real nor'easter."  Maya felt the walls..." — an edit collided two
+- **2026-09-02T03:10:37+00:00** — Pass 12: don't-grind backstop — converged at crit=0 with 30 residual major(s) (3 concrete, 24 craft).
