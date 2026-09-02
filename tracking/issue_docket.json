@@ -1,0 +1,161 @@
+{
+ "entries": [
+  {
+   "fp": "69059d171754faa2",
+   "category": "Pacing / cross-reference",
+   "severity": "major",
+   "title": "Fairchild reveal payoff undercut by adjacent meta-reference",
+   "chapters": [
+    19,
+    20
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": []
+  },
+  {
+   "fp": "0956a4afcb9bed5e",
+   "category": "Mechanical / markup",
+   "severity": "major",
+   "title": "Garbled quote markup",
+   "chapters": [
+    2
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": [
+    "...e's looking like a real nor'easter."
+   ]
+  },
+  {
+   "fp": "68c7994a31dd2bd6",
+   "category": "Mechanical / markup",
+   "severity": "major",
+   "title": "Garbled quote markup",
+   "chapters": [
+    14
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": [
+    "...ding into the gray of a nor'easter that had moved north th..."
+   ]
+  },
+  {
+   "fp": "4ba05b6061217a8b",
+   "category": "Mechanical / markup",
+   "severity": "major",
+   "title": "Garbled quote markup",
+   "chapters": [
+    20
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": []
+  },
+  {
+   "fp": "fb60a62cafb921fd",
+   "category": "Quoted-document continuity",
+   "severity": "major",
+   "title": "Callback quotes text absent from the quoted document",
+   "chapters": [
+    4
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": [
+    "underlined *witness.*",
+    "what i need.\u2026"
+   ]
+  },
+  {
+   "fp": "174f4406c443ed33",
+   "category": "Continuity (character gender/pronoun)",
+   "severity": "major",
+   "title": "Pronoun/gender mismatch for Richard",
+   "chapters": [
+    6
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": [
+    "richard yanked the phone from her hand and smashed it against the stone wall."
+   ]
+  },
+  {
+   "fp": "055b1dabb838f7ed",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Ch20 attributes Fairchild identification to wrong chapter/event",
+   "chapters": [
+    17,
+    19,
+    20
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": []
+  },
+  {
+   "fp": "f01cffaf56f7d89a",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Emma Washington age contradiction (18 in Ch13 vs 15 in Ch31)",
+   "chapters": [
+    13,
+    16,
+    31
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": [
+    "eighteen now",
+    "a twelve-year-old"
+   ]
+  },
+  {
+   "fp": "3cfb77fc95f33e0e",
+   "category": "Image economy",
+   "severity": "major",
+   "title": "'Photograph in the corner of the screen' emotional beat echoes itself",
+   "chapters": [
+    19,
+    29
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    11
+   ],
+   "adjudication": {},
+   "quotes": [
+    "s school-photo date until it stops being numbers; ch24 opens on ethan",
+    "photo of a dead/lost child, stared at until abstraction",
+    "photograph in the corner of the screen"
+   ]
+  }
+ ]
+}
