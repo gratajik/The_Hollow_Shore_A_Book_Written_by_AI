@@ -74,7 +74,7 @@
    "chapters": [
     4
    ],
-   "state": "FIXING",
+   "state": "FIXED",
    "seen_passes": [
     11,
     12,
@@ -201,14 +201,16 @@
     13,
     16
    ],
-   "state": "OPEN",
+   "state": "FIXING",
    "seen_passes": [
-    13
+    13,
+    14
    ],
    "adjudication": {},
    "quotes": [
     "sophia reyes",
-    "sophia martinez."
+    "sophia martinez.",
+    "sophia reyes, eight, portland."
    ]
   },
   {
@@ -220,14 +222,49 @@
     30,
     31
    ],
-   "state": "OPEN",
+   "state": "FIXING",
    "seen_passes": [
-    13
+    13,
+    14
    ],
    "adjudication": {},
    "quotes": [
     "s eleventh birthday in march; ch31 (october) says",
     "s eleven now"
+   ]
+  },
+  {
+   "fp": "94710e87fbff2975",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Sophia Reyes (prose) vs Sophia Martinez (bible)",
+   "chapters": [
+    13
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    14
+   ],
+   "adjudication": {},
+   "quotes": []
+  },
+  {
+   "fp": "cc51b60bba59f58c",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Danny Morrison age: prose says eleven, bible says twelve at opening",
+   "chapters": [
+    30,
+    31
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    14
+   ],
+   "adjudication": {},
+   "quotes": [
+    "s eleventh birthday in march; ch31 (following october opening) says",
+    "s eleven now."
    ]
   }
  ]
