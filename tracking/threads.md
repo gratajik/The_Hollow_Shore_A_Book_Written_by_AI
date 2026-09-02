@@ -141,22 +141,22 @@ All threads tracked from introduction → resolution. Reviewer: any unresolved t
 
 ## Chapter 26
 
-- Ethan's 20-year preparation: advanced; physical evidence shows systematic multi-decade construction of the investigation targeting Maya specifically
-- Anonymous scholarship donation: planted; Kim's team to trace recipient/purpose
-- Office surveillance of Maya's agency: planted; Kim flags as federal crime to add to case list
-- Geneva trail: advanced; orchid identifies Fairchild-funded Rothschild Botanical Garden in Geneva as next location
-- Danny Morrison foreknowledge: advanced; Ethan had Danny's photo on wall before Danny was taken, raising complicity question for sentencing
-- Ethan's thesis as investigative blueprint: resolved; established as directly enabling both PI work and Bureau's investigation
+- Ethan's 20-year preparation: advanced; apartment archive shows systematic multi-decade construction of the investigation targeting Maya specifically
+- Anonymous scholarship donation: planted; Kim's team assigned to trace recipient/purpose
+- Office surveillance of Maya's agency: advanced; confirmed federal crime, added to Kim's case list
+- Geneva trail: advanced; pressed orchid identifies Fairchild-funded Rothschild Botanical Garden in Geneva as next location
+- Danny Morrison foreknowledge: advanced; Ethan had Danny's photo on wall before Danny was taken, flagged as an issue for his sentencing
+- Ethan's thesis as investigative blueprint: resolved; Maya formally notes it will be cited in 5-8 federal prosecutions
 
 ## Chapter 4
 
-- Sarah's murder investigation: advanced; Maya openly accuses family of murder at breakfast, Richard's reaction menacing
+- Sarah's murder investigation: advanced; Maya openly accuses family of murder at breakfast, Richard's reaction predatory
 - Maya's suppressed childhood memory: advanced; Maya states she remembers being 8, in the house, afraid, but deliberately withholds more
 - Dr. Richard as threat: advanced; attempts sedation, cuts phone lines, veiled threats about "other children" and "promise"
-- Isolation on island: advanced; phones/cell towers down, family controls exits, Maya recognizes deliberate isolation/interrogation tactic
+- Isolation on island: advanced; phones/cell towers down, family controls exits, Maya recognizes deliberate isolation tactic
 - Margaret Swift as ally: advanced; slips note with escape info (library phone, boathouse key, tide schedule), implies long-held guilt
 - Hidden passages/surveillance: advanced; footsteps heard inside walls near Maya's room
-- James's fracturing loyalty: advanced; references Sarah's claims, choked reaction to Maya's memory statement
+- James's fracturing loyalty: advanced; choked reaction to Maya's memory statement, references Sarah's claims
 - Escape plan: planted; boathouse key, fueled boat, tide at 4pm, working library phone as potential means of escape
 
 ## Chapter 27
@@ -174,7 +174,7 @@ All threads tracked from introduction → resolution. Reviewer: any unresolved t
 
 - Eleanor's arrest: advanced; taken into custody, evidence burning interrupted, refuses to speak without attorney
 - Dr. Richard's capture: advanced; captured attempting to flee via private airstrip after routing through Pemaquid Point summer house
-- Collectors' Circle network: advanced; international network first surfaced via documents at summer house (Brazil, Thailand, Romania correspondence)
+- Collectors' Circle network: advanced; international network surfaced via documents at summer house (Brazil, Thailand, Romania correspondence)
 - Maya's childhood memory recovery: advanced; recalls summer house visits, Sarah, and the men discussing "the project"
 - Maya and her parents: advanced; Maya attempts to call her mother, hangs up before connecting
 - Maya's therapy/support system: advanced; plans to drive to Dr. Chen after-hours in Portland

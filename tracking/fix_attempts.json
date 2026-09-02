@@ -498,8 +498,8 @@
     "severity": "major",
     "original_strategy": "surgical",
     "current_strategy": "surgical",
-    "attempts": 0,
-    "last_pass": 0,
+    "attempts": 1,
+    "last_pass": 14,
     "status": "resolved",
     "adjudicated": "",
     "first_seen_pass": 12,
@@ -571,8 +571,8 @@
     "severity": "critical",
     "original_strategy": "structural",
     "current_strategy": "structural",
-    "attempts": 2,
-    "last_pass": 13,
+    "attempts": 3,
+    "last_pass": 14,
     "status": "active",
     "adjudicated": "",
     "first_seen_pass": 12,
@@ -676,8 +676,8 @@
     "severity": "critical",
     "original_strategy": "cross_chapter",
     "current_strategy": "cross_chapter",
-    "attempts": 1,
-    "last_pass": 13,
+    "attempts": 2,
+    "last_pass": 14,
     "status": "resolved",
     "adjudicated": "",
     "first_seen_pass": 12,
@@ -823,8 +823,8 @@
     "severity": "critical",
     "original_strategy": "structural",
     "current_strategy": "structural",
-    "attempts": 1,
-    "last_pass": 13,
+    "attempts": 2,
+    "last_pass": 14,
     "status": "active",
     "adjudicated": "",
     "first_seen_pass": 13,
@@ -954,5 +954,102 @@
       "year"
     ],
     "quotes": []
+  },
+  "b44399523c0c": {
+    "title": "Orphan open-quote garbles narration into dialogue",
+    "chapters": [
+      20
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 14,
+    "tokens": [
+      "brea",
+      "ch20",
+      "chai",
+      "dia",
+      "dial",
+      "garb",
+      "lead",
+      "mark",
+      "mart",
+      "narr",
+      "now",
+      "open",
+      "orph",
+      "quie",
+      "quot",
+      "sank",
+      "sent"
+    ],
+    "quotes": [
+      "\"Martinez sank into a chair, quieter now."
+    ]
+  },
+  "60b956198849": {
+    "title": "Mixed quotation-mark typography in ch16",
+    "chapters": [
+      16
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 14,
+    "tokens": [
+      "apos",
+      "ch16",
+      "cons",
+      "curl",
+      "else",
+      "mark",
+      "mixe",
+      "quot",
+      "stra",
+      "styl",
+      "typo"
+    ],
+    "quotes": []
+  },
+  "be541b8dcb4b": {
+    "title": "Undefined character 'Switzerland' in dialogue (ch26)",
+    "chapters": [
+      26
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 14,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 14,
+    "tokens": [
+      "atte",
+      "bein",
+      "carr",
+      "ch26",
+      "char",
+      "dial",
+      "forw",
+      "long",
+      "pres",
+      "prio",
+      "quot",
+      "swit",
+      "unde",
+      "unre"
+    ],
+    "quotes": [
+      "Switzerland"
+    ]
   }
 }

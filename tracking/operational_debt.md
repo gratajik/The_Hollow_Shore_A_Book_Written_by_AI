@@ -36,3 +36,10 @@
 - **2026-09-02T04:02:33+00:00** — retrack ch23 after rewrite: 3 ledger section(s) replaced
 - **2026-09-02T04:02:41+00:00** — retrack ch22 after rewrite: 3 ledger section(s) replaced
 - **2026-09-02T04:02:45+00:00** — retrack ch30 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T04:06:40+00:00** — retrack ch04 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T04:06:44+00:00** — retrack ch20 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T04:06:50+00:00** — retrack ch26 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T04:06:50+00:00** — surgical fix pass: 6/31 chapters had findings; 25 fixer call(s) skipped
+- **2026-09-02T04:07:41+00:00** — retrack ch14 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T04:07:42+00:00** — retrack ch04 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T04:07:43+00:00** — retrack ch02 after rewrite: 3 ledger section(s) replaced

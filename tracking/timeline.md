@@ -123,22 +123,23 @@
 
 ## Chapter 26
 
-- Flight from Halifax to Toronto (via Ottawa connection) — Maya reads Ethan's thesis
-- 2004: anonymous $17,200 scholarship donation/letter sent, never claimed
+- Flight from Halifax to Toronto (Ottawa connection) — Maya reads Ethan's thesis
+- 2004, September 14: anonymous $17,200 scholarship donation/letter sent, never claimed
 - 2007: sending law firm closes
 - 2009: thesis submitted
 - 2010: "Leo Morin" account/mail forwarding closed
 - March (year before Maya's island trip): first dated entry on "MAYA CHEN HANDOFF" pad begins
 - September-October (preceding Maya's arrival on Blackwood Island): 18 documented actions culminate in Maya accepting the forged commission
-- Current day: library records review, meeting with Finch, apartment search — evidence to be collected by Friday
+- Current day: library records review, meeting with Finch, apartment search; forensics team from Portland arriving in the morning; evidence to be collected by Friday
 
 ## Chapter 4
 
-- Morning after the storm: Maya wakes before dawn, storm has passed, debris visible outside
+- Maya wakes before dawn; storm has passed, debris visible outside
 - Breakfast confrontation in dining room (morning)
 - Library confrontation/attempted sedation by Dr. Richard (shortly after breakfast)
 - Kitchen landline call to Detective Park, cut off (mid-morning)
-- Maya barricades in her room; several hours pass ("some part of an hour" with letter opener) while house is silent
+- Maya barricades in her room; unspecified stretch of time passes with house silent
+- Maya stands with letter opener in hand for "some part of an hour," weak October sun visible through blue wallpaper
 - Margaret's note specifies tide out at 4:00 PM (future reference point)
 - Chapter ends with footsteps in the walls, present moment, timing unspecified
 

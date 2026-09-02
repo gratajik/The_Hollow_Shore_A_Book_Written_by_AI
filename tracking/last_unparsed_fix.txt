@@ -1,12 +1,16 @@
-Looking at the issue, both Ch23 and Ch24 already contain the custody explanation (mother kept it, mailed it north, logged into evidence). Ch22 also fully explains the 25-year gap. And Ch31 already contains the final disposition — the bird is displayed under glass in the archive beneath Emma's drawing.
+I need to examine Chapter 26 for the quoted text "Switzerland" being used as an undefined character in dialogue. Let me search the chapter.
 
-The reference chapters (Ch22, Ch23, Ch24) are context-only and cannot be edited. Ch31 is the only editable chapter, and it already handles the bird's final disposition thoroughly. Let me verify the Ch31 passage satisfies the requirement.
+Looking through the chapter text, I find no instance of the word "Switzerland" at all. The chapter references "Geneva," "Europe," and "Swiss prosecutor" / "Swiss custody" — but not "Switzerland" as a character or otherwise.
 
-Ch31 states: the bird "had gone from Ethan's twelve-year-old hand to her eight-year-old pocket, from her childhood jewelry box to a padded envelope her mother mailed north a year ago, from the padded envelope into a federal evidence box in Portland. The Bureau had released it in April... Maya had signed the last page and driven it up herself and given it to the Trust." — This is a complete custody chain plus final disposition, displayed under glass beneath Emma's drawing.
+This is a scanner false positive of the class described in §4.3.1 (deterministic false positives): "Swiss" appears in "Swiss prosecutor" and a place-name detector may have flagged a "Switzerland" derivation as an unresolved character name in dialogue. There is no actual defect in the prose — no dialogue attributes speech to "Switzerland," and the word does not appear.
 
-The disposition and custody are already fully present in Ch31. The requested Ch31 addition ("add one sentence about bird's final disposition") is already satisfied. Part 1 (the Ch24 forensics exchange) is also already present in the reference Ch24 ("Walk me through the custody on that... My mother kept it...").
+Per §4.3.2, a scanner false positive must be silenced within one pass via a declared EXCEPTION block rather than re-cleared silently. Since I cannot edit facts.md through the chapter output format directly but the runner accepts tracking updates for facts/timeline only, and the prose contains no defect to edit, the correct action is to make no prose change and document the resolution.
 
-Since the editable chapter (Ch31) already fully satisfies the requirement and the reference chapters already contain Part 1, no edit is needed. Making a change would only risk damaging correct prose.
+However, since the issue is a carry-forward and I should be decisive: the only actionable interpretation is that a place-name/proper-noun reference ("Swiss prosecutor") might be reading ambiguously. I'll verify — "the Swiss prosecutor has" is a clear, defined reference (the prosecutor is Swiss). It parses correctly for any reader. No fix improves it.
+
+There is nothing in the prose to change. The word "Switzerland" is not present, and no dialogue is misattributed. Making a cosmetic edit would introduce a defect where none exists and would fail re-verification.
+
+No chapter output is warranted.
 
 CHANGES SUMMARY:
-- No changes made. Ch31 (the only editable chapter) already contains a complete bird custody chain and final disposition (displayed under glass in the archive beneath Emma's drawing). The reference chapters Ch22/Ch23/Ch24 already explain the 25-year gap and the Ch24 forensics custody exchange requested in Part 1. The issue is already resolved in the current manuscript; editing would risk flattening correct prose.
+- No change: CF-20 is a deterministic scanner false positive (§4.3.1). The string "Switzerland" does not appear in Ch26; no dialogue is attributed to any place name. References to "Swiss prosecutor" / "Swiss custody" / "Geneva" are all correctly defined and parse cleanly for a first-time reader. Editing the prose would introduce a defect where none exists, so the chapter is left unchanged; this flag should be declared an EXCEPTION in facts.md ("Scanner false positives — no craft defect") rather than re-cleared each pass.
