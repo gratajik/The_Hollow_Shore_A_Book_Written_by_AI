@@ -71,8 +71,8 @@
     "severity": "major",
     "original_strategy": "surgical",
     "current_strategy": "surgical",
-    "attempts": 1,
-    "last_pass": 11,
+    "attempts": 2,
+    "last_pass": 12,
     "status": "active",
     "adjudicated": "",
     "first_seen_pass": 11,
@@ -135,8 +135,8 @@
     "severity": "major",
     "original_strategy": "surgical",
     "current_strategy": "surgical",
-    "attempts": 1,
-    "last_pass": 11,
+    "attempts": 2,
+    "last_pass": 12,
     "status": "active",
     "adjudicated": "",
     "first_seen_pass": 11,
@@ -489,5 +489,263 @@
       "veri"
     ],
     "quotes": []
+  },
+  "7a82a383e1ad": {
+    "title": "Sophia Reyes (prose) vs Sophia Martinez (bible)",
+    "chapters": [
+      13
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 12,
+    "tokens": [
+      "bibl",
+      "ch13",
+      "cons",
+      "eigh",
+      "fact",
+      "her",
+      "mart",
+      "name",
+      "old",
+      "port",
+      "regi",
+      "reye",
+      "soph",
+      "stor",
+      "vict",
+      "year"
+    ],
+    "quotes": [
+      "Sophia Reyes",
+      "Sophia Martinez."
+    ]
+  },
+  "52d32ec90910": {
+    "title": "Emma Washington age jump (18 \u2192 19) lacks birthday signal",
+    "chapters": [
+      13,
+      31
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 12,
+    "tokens": [
+      "age",
+      "ago",
+      "birt",
+      "ch13",
+      "ch31",
+      "disa",
+      "emma",
+      "esta",
+      "her",
+      "jump",
+      "lack",
+      "late",
+      "maki",
+      "resc",
+      "she",
+      "sign",
+      "twel",
+      "wash",
+      "year"
+    ],
+    "quotes": []
+  },
+  "aa3aae21d13d": {
+    "title": "Literal 'Ch17's identification' outline leak into prose",
+    "chapters": [
+      20
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 12,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 12,
+    "tokens": [
+      "arch",
+      "atte",
+      "bein",
+      "carr",
+      "ch17",
+      "forw",
+      "iden",
+      "leak",
+      "lite",
+      "long",
+      "outl",
+      "pres",
+      "prio",
+      "quot",
+      "unre"
+    ],
+    "quotes": [
+      "The Architect",
+      "s identification"
+    ]
+  },
+  "1c31332411c4": {
+    "title": "Underlined word absent from quoted list",
+    "chapters": [
+      4
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 12,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 12,
+    "tokens": [
+      "abse",
+      "does",
+      "imme",
+      "list",
+      "maya",
+      "narr",
+      "prec",
+      "quot",
+      "stat",
+      "unde",
+      "witn",
+      "word"
+    ],
+    "quotes": [
+      "underlined the word *witness,*",
+      "What I need",
+      "witness."
+    ]
+  },
+  "a0295ba87dac": {
+    "title": "Dr. Marcus Webb / Marcus Webb name collision breaks reader continuity",
+    "chapters": [
+      11,
+      13
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 12,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 12,
+    "tokens": [
+      "auth",
+      "brea",
+      "ch11",
+      "chil",
+      "coll",
+      "colu",
+      "cont",
+      "intr",
+      "know",
+      "marc",
+      "name",
+      "note",
+      "read",
+      "stor",
+      "ther",
+      "webb"
+    ],
+    "quotes": [
+      "Marcus Webb (child), nine, Concord, 3 weeks in induced coma"
+    ]
+  },
+  "7df38ec4d4a1": {
+    "title": "Danny Morrison age contradiction (11th birthday vs 'twelve now')",
+    "chapters": [
+      30,
+      31
+    ],
+    "severity": "critical",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "adjudicated": "",
+    "first_seen_pass": 12,
+    "tokens": [
+      "11th",
+      "age",
+      "birt",
+      "ch30",
+      "ch31",
+      "cont",
+      "dann",
+      "elev",
+      "esta",
+      "foll",
+      "morr",
+      "now",
+      "octo",
+      "one",
+      "part",
+      "resc",
+      "spri",
+      "twel"
+    ],
+    "quotes": [
+      "twelve now.",
+      "twelve now"
+    ]
+  },
+  "ebb2b7267d2f": {
+    "title": "Michael Hendricks: 'disappeared/searched-for' vs present among rescued cave victims",
+    "chapters": [
+      8,
+      13
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 1,
+    "last_pass": 12,
+    "status": "active",
+    "adjudicated": "",
+    "first_seen_pass": 12,
+    "tokens": [
+      "ago",
+      "amon",
+      "cave",
+      "ch08",
+      "disa",
+      "foun",
+      "fram",
+      "hend",
+      "his",
+      "jack",
+      "mich",
+      "noth",
+      "pare",
+      "pres",
+      "resc",
+      "rive",
+      "sear",
+      "stop",
+      "truc",
+      "vani",
+      "vict",
+      "year"
+    ],
+    "quotes": [
+      "disappeared/searched-for"
+    ]
   }
 }

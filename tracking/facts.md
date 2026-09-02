@@ -50,7 +50,7 @@ Canonical facts extracted from story.md and chapters. Reviewer: if a chapter con
 | Emma Washington | — | ~12 yrs ago | Disappeared. First to use "hollow shore" phrase. Recognizes Maya from dreams. | Connecticut |
 | Lucas Chen | — | ~8 yrs ago | Disappeared. **No relation to Maya.** | New Hampshire |
 | Ashley Brennan | 10 | ~2 wks before ch01 | Rescued from induced coma | Burlington |
-| Marcus Webb (child) | 9 | ~3 wks before ch01 | Rescued from induced coma | Concord. **Shares name with Dr. Marcus Webb — check intentional.** |
+| Marcus Hale (child) | 9 | ~3 wks before ch01 | Rescued from induced coma | Concord. |
 | Sophia Martinez | 8 | ~5 days before ch01 | Rescued from induced coma | Portland |
 
 Plus 12 additional "long-term" victims in the chambers (total 18 living rescued + 5 confirmed dead = 23).
@@ -142,22 +142,23 @@ Plus 12 additional "long-term" victims in the chambers (total 18 living rescued 
 
 ## Chapter 20
 
-- Fairchild's lawyers claim he is a victim of identity theft by Dr. Richard Blackwood; issue statement of full cooperation.
-- Fairchild's team delivers a 500-page binder of reconstructed philanthropic tax filings to Portland field office at 7am day one.
-- Fairchild gives a pre-screened video deposition answering twelve questions from a different room of the Wyoming estate.
-- Fairchild's attorneys file a motion to quash any subpoena of his primary residence.
+- Fairchild's lawyers claim he is a victim of identity theft by Dr. Richard Blackwood and state he is cooperating fully.
+- A 500-page binder of reconstructed philanthropic tax filings is delivered by courier to Portland field office at 7am day one.
+- Fairchild gives a video deposition from a different room of the Wyoming estate, answering twelve pre-screened questions.
+- Fairchild's attorneys file a motion to quash any subpoena of his primary residence pending evaluation of Dr. Richard's credibility.
 - Fairchild's estate files a civil suit against Dr. Richard Blackwood's estate for $15 million in reputational damages.
 - Surveillance shows Fairchild, frail, in his late eighties, walking slowly through a garden, touching plants, never looking at the camera.
 - Agent Kim has been at his terminal 30 of the previous 48 hours; a cot sits unused behind the server rack; he sleeps in a second chair instead.
-- Mark Morrison flew to Portland on evening of day one; Patricia Valdez flew with him and works two floors down assembling a warrant framework.
-- Kim identifies a repeated transfer: 25 annual payments (one per year) to a climate-controlled private-client storage facility on the Limmatquai in Zurich, invoiced as "archival maintenance and preservation."
-- The Zurich facility: a full floor, no windows, museum-standard climate control, biometric access keyed to four individuals including Fairchild.
-- Mark recalls Fairchild sent his father Jonathan Morrison a single rare orchid every year on the anniversary of Tommy's death, no note, in a brown paper box with white ribbon; father kept them after year three; there were 23 of them.
-- Mark finds an email dated August 22 (the year Tommy was killed) from Arthur Fairchild to Jonathan Morrison, blank subject line, body: "Dear Jonathan, A memory of perfection. I hope it finds you in the spirit in which it is sent. Arthur."
-- Maya interprets "memory of perfection" as referring to the children, not the flower.
+- Mark Morrison flew to Portland the evening of day one, refusing to remain a voice on a screen; Patricia Valdez flew with him and works two floors down on the warrant framework.
+- Patricia tells Mark his job for three days is to sit in a conference room and think about his brother; gets him a chair and coffee.
+- Kim identifies 25 annual payments (one per year) to a climate-controlled private-client storage facility on the Limmatquai in Zurich, invoiced as "archival maintenance and preservation."
+- The Zurich facility: a full floor, private-client wing, no windows, museum-standard climate control, biometric access keyed to four individuals including Fairchild.
+- Mark recalls Fairchild sent his father Jonathan Morrison a single rare orchid every year on the anniversary of Tommy's death, no note, in a brown paper box with white ribbon; father threw the first three away unopened, then kept them on a study shelf; there were 23 of them.
+- Mark finds an email dated August 22 (year Tommy was killed, 1998) from Arthur Fairchild to Jonathan Morrison, blank subject line, body: "Dear Jonathan, A memory of perfection. I hope it finds you in the spirit in which it is sent. Arthur."
+- Maya and Mark interpret "memory of perfection" as referring to the children, not the flower.
 - Martinez identifies the email, Zurich facility pattern, and August 22 anniversary pattern as probable cause for a warrant.
-- Mark provides a sworn declaration for the warrant application.
-- Judge reviews and signs the warrant at 6:15 pm; search of Fairchild's Wyoming primary residence set to commence at dawn local time, Bureau given until 10am to be on the ground.
+- Mark provides a sworn declaration for the warrant application within ten minutes.
+- Judge takes twenty minutes alone with the evidence, signs the warrant at 6:15pm; search of Fairchild's Wyoming primary residence set to commence at dawn local time, with a window until 10am for the Bureau to be on the ground.
 - Tactical team wheels-up at 2300 (11pm); Maya is on the plane.
 - Maya recalls Dr. Richard's journal describing "physical anchors": after every session, a personal object (photo, toy, clothing) from each child was sent to Fairchild, believed to hold the child's essence.
 - Richard's journal referred to a room in Fairchild's house as a "chapel"; Maya believes this is literal, containing 23 objects.
@@ -167,27 +168,28 @@ Plus 12 additional "long-term" victims in the chambers (total 18 living rescued 
 
 - Commission retainer confirmed: $25,000 upfront, $25,000 on completion, total $50,000.
 - Eleanor confirms forged signature and forged personal stationery used to hire Maya.
-- Dr. Richard Blackwood introduced: silver hair, gray eyes, Chicago-direct manner, physician to the Blackwood family.
-- Dr. Richard has been Sarah's physician since her childhood.
-- Dr. Richard diagnoses Sarah as bipolar disorder with psychotic features; claims she refused diagnosis.
+- Dr. Richard Blackwood introduced: silver hair, gray eyes, Chicago-direct manner, physician to the Blackwood family since Sarah's childhood.
+- Dr. Richard diagnoses Sarah with bipolar disorder with psychotic features; claims she refused the diagnosis.
 - James states Sarah spoke of remembering things from childhood that "couldn't possibly" be real.
-- Sarah saw an outside therapist on the mainland named Dr. Torres, without family's knowledge; Dr. Richard disapproved.
-- Sarah's room described: full of paintings, art supplies, journals, photos pinned to corkboard.
-- Maya finds Sarah's therapy notes/journal pages hidden under a sketchpad, dated six, five weeks before her death.
-- Journal: Sarah found a box of photographs in the attic showing her with an unknown girl (dark hair, pigtails), age eight or nine, at the island beach; photos hidden in "Grandmother's old things."
-- Dr. Richard told Sarah the family never had visitors that summer; Eleanor said Sarah was overtired.
-- Journal entry names Maya directly: "Maya knows. She was there. We promised never to tell..."
-- Maya pockets the journal pages before leaving Sarah's room.
-- James mentions Sarah's mother died (giving birth/early death implied), leaving him and Sarah close ("Sarah and me against the world").
-- Maya experiences déjà vu in Sarah's room (paint fumes, floral smell, a smaller hand reaching).
-- Margaret Swift (groundskeeper) arrives, reports ferry service suspended due to storm ("northeaster"); island now cut off.
-- Margaret mentions Sarah said the blue guest room gave her nightmares and she heard things in the walls.
-- Maya is given the blue guest room, matching Sarah's journal reference to "the blue room."
-- Maya touches the guest room doorknob and has a full memory flash: age eight, holding the same doorknob, Sarah (also eight) beside her saying "We can't tell," a child's scream, Dr. Richard's voice calming the scene ("There's been an accident"), and Maya seeing Dr. Richard's hands in the blue room.
-- Dr. Richard appears in the hallway after Maya's memory flash, notes she "looks like she's seen a ghost," offers sedatives from his medical bag (room "third door on the right").
+- Sarah saw an outside therapist, Dr. Torres, on the mainland without the family's full knowledge; Dr. Richard disapproved.
+- Sarah's room described: canvases, art supplies, journals, photographs pinned to a corkboard, psychology textbooks, medications prescribed by Dr. Richard on the nightstand.
+- Maya finds Sarah's therapy notes/journal pages hidden under a sketch pad, dated six and five weeks before her death, plus additional undated pages.
+- Journal: Sarah found a box of photographs in the attic ("Grandmother's old things") showing her with an unknown girl, dark hair in pigtails, age eight or nine, on the island beach; three photos show them holding hands.
+- Dr. Richard told Sarah there were never any visitors that summer; Eleanor said Sarah was overtired.
+- Journal entry names Maya directly: "Maya knows. She was there. We promised never to tell, but what if we were wrong? What if silence is what he wants?"
+- Maya pockets the journal pages while James looks out the window.
+- James states Sarah's mother died after James and Sarah moved back to the house; he and Sarah were close ("Sarah and me against the world").
+- Dr. Richard correctly guesses Maya studied psychology, unsettling her since she never mentioned it.
+- Maya experiences a strong déjà vu in Sarah's room (paint fumes, floral smell, a smaller hand reaching at the desk).
+- Margaret Swift (groundskeeper) arrives, reports ferry service suspended due to storm ("northeaster"); island now cut off for at least a day, possibly two.
+- Margaret mentions Sarah said the blue guest room gave her nightmares and that she heard things in the walls.
+- Maya is given the blue guest room; dinner planned for 7pm, possibly cold sandwiches if power fails.
+- James murmurs during a power outage, "Just like when Sarah died. The storm came then too."
+- Maya touches the guest room doorknob and has a full memory flash: age eight, holding the same doorknob, Sarah (also eight, blonde pigtails) saying "We can't tell," a child's scream, Dr. Richard's voice saying "There's been an accident," and Maya seeing the blue room and Dr. Richard's hands through the door crack.
+- Dr. Richard appears in the hallway right after the memory flash, notes she "looks like she's seen a ghost," offers sedatives from his medical bag (his room is third door on the right).
 - Dr. Richard says: "Memory is such a fragile thing, isn't it?"
 - Maya locks her door, realizes she has been on the island before as a child with Sarah, and that Dr. Richard covered something up.
-- Chapter ends with Maya feeling her own pulse, tapping her finger against her sternum.
+- Chapter ends with Maya feeling her own pulse, tapping her finger against her sternum in time with it.
 
 ## Chapter 24
 
@@ -271,3 +273,56 @@ Plus 12 additional "long-term" victims in the chambers (total 18 living rescued 
 - Margaret Swift is heard humming in the hallway, covering the sound of sliding a note under Maya's door
 - Margaret's note: library's cordless phone still works (kitchen extension cut, not library base); boathouse key is in the study's middle desk drawer; boat is fueled; tide is out at 4pm; note is unsigned, ends "I am sorry. I should have said something years ago."
 - Maya hears footsteps inside the walls (hidden passages), moves to center of room away from walls, footsteps stop just behind the wall near her bed
+
+## Chapter 27
+
+- Location: Rothschild Botanical Garden, Geneva, night, snow and diesel smell.
+- Meeting arranged by cryptic email to Martinez's secure inbox, sent three days prior.
+- Terms: Ethan receives Maya plus one associate at 10 p.m.; Swiss tactical unit breaches at 23:00 regardless of signal.
+- Swiss tactical commander and Geneva federal prosecutor standing by; commander says he does not leave the building.
+- Maya brings Agent Martinez as her one associate.
+- Orchid Room: circular conservatory with glass dome, thousands of orchids, single spotlight.
+- Ethan Renault present as curator: tall, slender, European academic dress, serious eyes matching 1998 school photo, accentless voice.
+- Ethan states Fairchild bred orchids for 30 years believing he selected for "something like a soul."
+- Ethan reveals Fairchild's belief: Thomas's consciousness scattered at death; Fairchild sought children of compatible neurology to gather it into one vessel.
+- Ethan confirms this was never real science; Dr. Blackwood's "research" was a sedation schedule and paperwork, a ritual not science.
+- Wyoming "anchors" are wooden boxes on a stone bench holding a toy, photograph, lock of hair — a chapel for Thomas, not machines.
+- Fairchild found Ethan four months after his escape, in a children's home in Halifax; recruited him around age twelve.
+- Ethan says he chose loyalty to survive, becoming Fairchild's curator: managed the garden, helped with philanthropic foundations, attended galas, and secretly copied Fairchild's files for twenty years.
+- Hidden archive room: climate-controlled, file cabinets floor to ceiling, labeled boxes on oak table, handwriting matching the "Remember" carving on the childhood wooden bird.
+- Archive contains: financial records, bank transfers to Dr. Blackwood spanning 32 years, transfers to Mr. Alistair, wires to the Nightingale Fund, Wyoming ritual weekend guest lists, names of other Circle members.
+- Archive room also has two rolling archival storage carts, a microfilm reader, a Victorian fireplace, and a stack of white paper packets on the mantel with a long-nosed lighter beside them.
+- The mantel packets are separate: medical records/photographs/therapy transcripts documenting all 23 children, the only copy in existence.
+- Ethan reveals Sarah was "the one he had been waiting for" — Fairchild believed her neurology compatible with Thomas's; Dr. Richard monitored/medicated her from childhood.
+- Sarah began remembering and asking questions; Fairchild ordered Dr. Richard to kill her before she could be "ready"; staged as drowning.
+- Ethan states he suspected something was imminent but didn't know the schedule, so could not warn Sarah; he says he failed Sarah in a way he didn't fail with Tommy (too young then).
+- Maya recalls (privately) that Sarah was three days from her own rescue, and had started a phone call to a private investigator in Boston before Dr. Richard reached her.
+- Maya carries a small leather notebook from Portland, kept in her jacket, referenced but not opened.
+- Ethan poses the choice to Maya: burn the medical-records packet (the only copy) to protect the 23 children's privacy, or preserve it as evidence/history at cost of exposing their identities.
+- Ethan states the financial/Circle records are unconditionally being given to Maya/Martinez; only the medical-records packet is in question.
+- Ethan says he doesn't trust his own judgment (spent 20 years inside Fairchild's orbit) and insists Maya alone has moral standing to decide, being the only other living survivor of these files.
+- Clock in the archive room reads 22:28 (32 minutes remain before the 23:00 Swiss breach).
+- Chapter ends with Maya undecided, holding the weight of the choice.
+
+## Chapter 14
+
+- Eleanor caught burning documents in library fireplace; arrested by Agent Kim on Martinez's order
+- Eleanor's response to Tommy question: "You have had a very vivid imagination since you were a child."
+- Eleanor's laptop yields encrypted comms and travel bookings: private jet from Thomaston Airfield to São Paulo, Brazil, departing three hours after discovery
+- Dr. Richard seen at dawn by Captain Murphy loading medical cases onto the Blackwood yacht at the harbor
+- Richard escaped via a service tunnel under the dock during the cave breach, unmarked on any blueprint, surfacing on the water side
+- Yacht headed south, hugging the coast rather than toward open water/international waters
+- Maya recalls the Blackwood mainland summer house: the old Hartley estate at Pemaquid Point, bought by the Blackwoods in the 1980s
+- Yacht found anchored empty in a cove near the summer house; house recently abandoned, medical equipment half-packed
+- Documents found at the summer house reveal "The Collectors' Circle / International Society for the Preservation of Innocence," with correspondence from Brazil, Thailand, and Romania
+- Maya recalls a childhood memory: Dr. Richard meeting with other men discussing "the project" at the summer house while Eleanor served tea, eight-year-old Maya and Sarah playing nearby
+- Maya identifies a private airstrip ten miles inland: Pemaquid Aviation, an old crop duster field converted for private use
+- Dr. Richard captured at the airstrip boarding a Cessna; surrenders with hands raised, no resistance
+- Richard says only "Hello, Maya" to her before being taken into custody
+- Detective Lisa Park appears at the airfield afterward, confirms Eleanor is in a Bar Harbor station conference room with her attorney, not speaking
+- Captain Murphy shook Mark Morrison's hand at the ferry dock
+- Park tells Maya to call her personally (not Martinez, not "Chen") when Maya knows if she's okay
+- Maya gives a 45-minute supplemental statement at the Bar Harbor police station, signs multiple forms
+- That evening, Maya sits in her car outside the Bar Harbor Holiday Inn, calls her mother's number, hangs up after three rings before the call connects
+- Maya decides to drive to Portland (about four hours) to see Dr. Chen, using an after-hours line she's never used before
+- Dr. Chen's remembered advice: "Be a body... Stand. Breathe. Feel your feet on the ground."

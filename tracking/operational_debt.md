@@ -11,3 +11,10 @@
 - **2026-09-02T03:06:27+00:00** — retrack ch04 after rewrite: 3 ledger section(s) replaced
 - **2026-09-02T03:06:33+00:00** — write-gate reject ch02 (sweep edit): markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref) :: ch02: [garbled] fused-word splice 'nor'easter' near "...e's looking like a real nor'easter."  Maya felt the walls..." — an edit collided two
 - **2026-09-02T03:10:37+00:00** — Pass 12: don't-grind backstop — converged at crit=0 with 30 residual major(s) (3 concrete, 24 craft).
+- **2026-09-02T03:11:09+00:00** — retrack ch27 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T03:11:38+00:00** — retrack ch20 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T03:11:47+00:00** — surgical fix pass: 13/31 chapters had findings; 18 fixer call(s) skipped
+- **2026-09-02T03:13:14+00:00** — retrack ch20 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T03:13:14+00:00** — retrack ch14 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T03:13:16+00:00** — retrack ch02 after rewrite: 3 ledger section(s) replaced
+- **2026-09-02T03:13:31+00:00** — write-gate reject ch14 (sweep edit): markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref) :: ch14: [garbled] fused-word splice 'nor'easter' near "...ding into the gray of a nor'easter that had moved north th..." — an edit collided tw

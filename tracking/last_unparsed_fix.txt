@@ -1,18 +1,14 @@
-Looking at this issue, I need to examine the actual usages of "nor'easter" in both chapters.
+Looking at this issue, I need to find the "Ch17's identification" outline leak in Chapter 20. However, Chapter 20 is a **reference chapter** (context only) — I cannot modify it.
 
-In Chapter 14, the word appears as: "a nor'easter that had moved north three weeks ago" — this is intact and correct.
+The editable chapter is **Chapter 24**. Let me check Chapter 24 for any meta chapter-reference leak or the quoted text "The Architect."
 
-In Chapter 2 (reference only, cannot modify), it appears as "looking like a real nor'easter" — also intact.
+Scanning Chapter 24: I see no "Ch17" reference, no "The Architect" phrase, and no outline-leak artifacts. The prose reads clean of meta chapter numbering.
 
-Let me check Chapter 14 more carefully for any fused-word artifact. The relevant passage reads correctly:
+The issue (CF-21) targets Ch20, which is a reference chapter I am explicitly forbidden to output. The quoted fragment "The Architect" appears only as Chapter 20's title ("The Architect's Shadow") — inside a chapter I cannot edit.
 
-"beyond the road was Maine in the last light of an October afternoon, fading into the gray of a nor'easter that had moved north three weeks ago"
+Since the only chapter I am permitted to modify (Chapter 24) does not contain the flagged defect, and the flagged chapter (Chapter 20) is a read-only reference chapter, there is no valid edit I can make that resolves this issue within my permitted scope.
 
-The word "nor'easter" is intact here — the apostrophe is the standard contraction within the word (nor'easter = northeaster). There is no dialogue-close/action-beat collision in Chapter 14. The word is a single intact compound noun as required.
-
-Since Chapter 2 is a reference chapter (DO NOT modify or output), and Chapter 14's usage of "nor'easter" is already a single intact word with no fused collision, there is no edit needed in the chapter I'm permitted to modify.
-
-The word as written — `nor'easter` — is the correct, intact form. No garbled markup, no mid-word dialogue punctuation, no fusion with an adjacent word exists in Chapter 14.
+Per the fix contract's "When in doubt, leave it" discipline and the reference-chapter rule ("never output these"), I will not fabricate a change to Chapter 24 that doesn't address the actual issue, and I cannot output Chapter 20.
 
 CHANGES SUMMARY:
-- No changes made to Chapter 14: the word "nor'easter" already appears as a single intact compound noun ("the gray of a nor'easter that had moved north three weeks ago") with no fused-word collision or mid-word dialogue punctuation. Chapter 2 is a reference-only chapter and cannot be modified.
+- No changes made. Issue CF-21 targets Chapter 20, which is a read-only reference chapter that cannot be output. The only editable chapter (Chapter 24) does not contain the flagged "Ch17's identification" outline leak or the "The Architect" defect text; that phrase exists solely as Chapter 20's title. This issue must be routed to a pass where Chapter 20 is editable.

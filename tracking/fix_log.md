@@ -231,3 +231,92 @@ Fix pass diagnostics.
 
 **Edits:** 0 applied, 0 failed
 
+
+## ch07 — 2026-09-01 20:11
+
+**Edits:** 1 applied, 0 failed
+
+**Match methods:** exact: 1
+
+
+## ch02 — 2026-09-01 20:11
+
+**Edits:** 1 applied, 0 failed
+
+**Match methods:** exact: 1
+
+
+## ch08 — 2026-09-01 20:11
+
+**Edits:** 1 applied, 0 failed
+
+**Match methods:** exact: 1
+
+
+## ch04 — 2026-09-01 20:12
+
+**Edits:** 1 applied, 0 failed
+
+**Match methods:** exact: 1
+
+
+## ch13 — 2026-09-01 20:12
+
+**Edits:** 1 applied, 0 failed
+
+**Match methods:** exact: 1
+
+
+## ch11 — 2026-09-01 20:12
+
+**Edits:** 1 applied, 0 failed
+
+**Match methods:** exact: 1
+
+
+## ch14 — 2026-09-01 20:12
+
+**Edits:** 0 applied, 0 failed
+
+
+## ch10 — 2026-09-01 20:12
+
+**Edits:** 0 applied, 0 failed
+
+
+## ch17 — 2026-09-01 20:12
+
+**Edits:** 2 applied, 0 failed
+
+**Match methods:** exact: 2
+
+
+## ch30 — 2026-09-01 20:12
+
+**Edits:** 1 applied, 0 failed
+
+**Match methods:** exact: 1
+
+
+## ch16 — 2026-09-01 20:12
+
+**Edits:** 15 applied, 0 failed
+
+**Match methods:** exact: 15
+
+**Regressions (1):** forbidden dialogue tags: 0 -> 1
+
+
+## ch21 — 2026-09-01 20:12
+
+**Edits:** 12 applied, 0 failed
+
+**Match methods:** exact: 12
+
+
+## ch31 — 2026-09-01 20:12
+
+**Edits:** 2 applied, 0 failed
+
+**Match methods:** exact: 2
+

@@ -39,7 +39,7 @@
 | ~5 weeks ago | Sarah confronts Richard about childhood incident. | Reveal in ch05-06 |
 | ~4 weeks ago | Sarah murdered by Dr. Richard. Body staged as suicide by drowning. Local police rule it suicide. | Setup in ch01 |
 | ~2 weeks before present | Ashley Brennan (Burlington, age 10) disappears. |  |
-| ~3 weeks before present | Marcus Webb (Concord, age 9) disappears. | (NOTE: child victim shares name with Dr. Marcus Webb — ambiguous intentional?) |
+| ~3 weeks before present | Marcus Hale (Concord, age 9) disappears. |
 | ~3 days before present | Morrison family's lawyer Patricia Valdez impersonates Eleanor's signature to hire Maya (through a front). | Reveal in ch09 |
 | 5 days before present | Sophia Martinez (Portland, age 8) disappears. |  |
 
@@ -88,10 +88,10 @@
 
 - Day one: 7am, binder delivered to Portland field office; Mark and Patricia arrive by evening.
 - Day three: Martinez confronts the binder in the war room, expresses frustration at stonewalling.
-- Two-day sifting period by Maya, Kim, and Mark through financial/psychological angles.
+- Two-day sifting period by Maya, Kim, and Mark through psychological angles, culminating in the Zurich/orchid/email breakthrough.
 - Kim's 48-hour continuous work session at his terminal.
 - 5:00pm: Patricia calls with warrant status update.
-- 6:15pm: warrant signed by judge.
+- 6:15pm: warrant signed by judge (after 20 minutes review).
 - 11:00pm (2300): tactical team wheels-up, Maya included.
 - Dawn (following day, local Wyoming time): search of Fairchild estate to commence, with a window until 10am.
 
@@ -102,8 +102,9 @@
 - Same afternoon: family and Maya move to the parlor for discussion.
 - Shortly after: James takes Maya to see Sarah's room upstairs.
 - Same day, before dinner: storm intensifies, lights flicker/go out multiple times.
+- Family and Maya regroup in the library; Dr. Richard pours drinks.
 - Evening: Margaret Swift reports ferry suspended for one to two days due to storm.
-- Evening: Maya is shown to the blue guest room; dinner planned for 7pm (possibly cold sandwiches if power fails).
+- Evening: Maya is shown to the blue guest room; dinner planned for 7pm.
 - That evening in the guest room: Maya's memory flash occurs when she touches the doorknob; Dr. Richard confronts her in the hallway afterward.
 
 ## Chapter 24
@@ -139,3 +140,23 @@
 - Maya barricades in her room; hours pass (~5 hours implied) while house is silent
 - Margaret's note specifies tide out at 4:00 PM (future reference point)
 - Chapter ends with footsteps in the walls, present moment, timing unspecified
+
+## Chapter 27
+
+- T-minus: cryptic email sent to Martinez three days before the Geneva meeting.
+- 22:00 (10 p.m.): Maya and Martinez received at Orchid Room by Ethan.
+- Mid-scene: Ethan gives extended exposition on Fairchild, his own recruitment, and Sarah's death.
+- 22:28: clock reads in the hidden archive room, roughly 32 minutes before the Swiss unit breaches at 23:00.
+- Chapter closes with decision pending, before the 23:00 deadline.
+
+## Chapter 14
+
+- Morning: Maya flies back from Portland on 7 a.m. FBI charter; met by Agent Martinez at Bar Harbor tarmac
+- Same morning: federal vehicles and Coast Guard cutter already at the estate; Eleanor caught burning evidence
+- Three hours' window noted for Richard's scheduled flight to Brazil at time of laptop discovery
+- Dawn same day: Murphy sees Richard loading the yacht
+- Pursuit continues through the day: cove/summer house search, then airfield chase
+- Richard's capture occurs same day, in daylight (described later as "last light of an October afternoon")
+- Afternoon/evening: Martinez drives Maya back to Bar Harbor (~40-minute trip)
+- By 8 p.m.: Maya alone in Holiday Inn parking lot in Bar Harbor
+- Planned: Maya to drive south to Portland, arriving by 11 p.m.

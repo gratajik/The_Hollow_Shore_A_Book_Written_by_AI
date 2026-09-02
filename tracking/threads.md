@@ -107,7 +107,7 @@ All threads tracked from introduction → resolution. Reviewer: any unresolved t
 
 - Fairchild legal stonewalling: advanced; cooperation is choreographed obstruction (binder, deposition, motions, countersuit).
 - Zurich storage facility: planted; 25 years of annual "archival maintenance" payments to a private vault tied to Fairchild.
-- Orchid ritual/anchors: advanced; Mark's memory of annual orchids to his father revealed as ritualized trophy-keeping, tied to the 23 victims.
+- Orchid ritual/anchors: advanced; Mark's memory of annual orchids to his father revealed as ritualized trophy-keeping tied to the 23 victims.
 - August 22 email evidence: planted; becomes key corroborating evidence for warrant.
 - Warrant for Wyoming estate: resolved (within chapter); signed, raid scheduled for dawn.
 - Richard's journal "anchors"/"chapel": advanced; sets up literal room of 23 objects to be found in next chapter's raid.
@@ -119,9 +119,9 @@ All threads tracked from introduction → resolution. Reviewer: any unresolved t
 - Maya's suppressed childhood memory: advanced; first full memory flash (blue room, Dr. Richard's hands, a child's scream, Sarah present at age eight).
 - Sarah's murder investigation: advanced; journal pages establish Sarah was recovering memories of Maya and the island before her death, implying cover-up by Dr. Richard.
 - Sarah's recovered-memory subplot (Dr. Torres): planted; outside therapist encouraged Sarah's memory recovery, opposed by Dr. Richard.
-- Dr. Richard as gaslighter/antagonist: advanced; medical framing of Maya's memory flash as stress-induced, offer of sedatives.
+- Dr. Richard as gaslighter/antagonist: advanced; medical framing of Maya's memory flash as stress-induced, offer of sedatives, unsettling knowledge of her psychology background.
 - Storm/island isolation: advanced; ferry suspended, family and Maya trapped together.
-- James's suppressed knowledge/nervousness: advanced; hints he knows more than he says, self-interrupts about "just like when Sarah died."
+- James's suppressed knowledge/nervousness: advanced; self-interrupts about "just like when Sarah died," reacts oddly to the name Maya.
 - Blue room motif: advanced; explicitly named in Sarah's journal and tied to Maya's guest room and childhood memory.
 
 ## Chapter 24
@@ -158,3 +158,25 @@ All threads tracked from introduction → resolution. Reviewer: any unresolved t
 - Hidden passages/surveillance: advanced; footsteps heard inside walls near Maya's room
 - James's fracturing loyalty: advanced; references Sarah's claims, distress at breakfast
 - Escape plan: planted; boathouse key, fueled boat, tide at 4pm as potential means of escape
+
+## Chapter 27
+
+- Fairchild's true motive/delusion: advanced; explicitly confirmed as ritualistic grief-delusion, not functioning science, Wyoming anchors are a memorial chapel not machines.
+- Ethan Renault's backstory and role as Fairchild's digital/archival architect: advanced; recruitment at twelve from Halifax children's home, twenty years secretly copying files.
+- Sarah Blackwood's murder motive (harvest/vessel reveal): resolved (reason for killing revealed — she was "the one," began remembering, killed on Fairchild's order via Dr. Richard).
+- Hidden paper archive (financials, Circle membership, ritual logs): advanced; located, contents itemized, offered unconditionally to Maya/Martinez.
+- Medical-records packet (23 children) moral dilemma: planted/posed; Ethan presents the burn-or-keep choice, unresolved at chapter's end.
+- Maya's unerased childhood fragment (the carved bird / "Remember"): advanced; archive handwriting explicitly matched to the bird's carving.
+- Countdown to Swiss tactical breach: advanced; ticking clock established at 22:28, deadline 23:00.
+- Maya's private guilt over the Marcus Williams-style fear of "getting it wrong": planted implicitly via Sarah's near-self-rescue and the notebook Maya carries but doesn't open.
+
+## Chapter 14
+
+- Eleanor's arrest: advanced; taken into custody, evidence burning interrupted, refuses to speak without attorney
+- Dr. Richard's capture: advanced; captured attempting to flee via private airstrip after routing through Pemaquid Point summer house
+- Collectors' Circle network: advanced; international network first surfaced via documents at summer house (Brazil, Thailand, Romania correspondence)
+- Maya's childhood memory recovery: advanced; recalls summer house visits, Sarah, and the men discussing "the project"
+- Maya and her parents: advanced; Maya attempts to call her mother, hangs up before connecting
+- Maya's therapy/support system: advanced; plans to drive to Dr. Chen after-hours in Portland
+- Maya and Detective Park relationship: advanced; Park offers personal support outside official capacity
+- Captain Murphy / Morrison reconciliation moment: advanced; Murphy and Mark Morrison shake hands at ferry dock
