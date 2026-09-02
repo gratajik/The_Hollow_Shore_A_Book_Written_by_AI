@@ -18,3 +18,4 @@
 - **2026-09-02T03:13:14+00:00** — retrack ch14 after rewrite: 3 ledger section(s) replaced
 - **2026-09-02T03:13:16+00:00** — retrack ch02 after rewrite: 3 ledger section(s) replaced
 - **2026-09-02T03:13:31+00:00** — write-gate reject ch14 (sweep edit): markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref) :: ch14: [garbled] fused-word splice 'nor'easter' near "...ding into the gray of a nor'easter that had moved north th..." — an edit collided tw
+- **2026-09-02T03:58:01+00:00** — Pass 13: don't-grind backstop — converged at crit=0 with 20 residual major(s) (3 concrete, 14 craft).

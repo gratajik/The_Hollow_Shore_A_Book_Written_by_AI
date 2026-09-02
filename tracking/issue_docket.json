@@ -41,7 +41,7 @@
    "chapters": [
     14
    ],
-   "state": "FIXING",
+   "state": "FIXED",
    "seen_passes": [
     11,
     12
@@ -77,9 +77,15 @@
    "state": "FIXING",
    "seen_passes": [
     11,
-    12
+    12,
+    13
    ],
-   "adjudication": {},
+   "adjudication": {
+    "verdict": "real",
+    "reason": "Margaret's note text ('The main telephone in the library is a modern cordless...The tide is out at four o'clock. I am sorry...') must exactly match any later callback/quote of it; discrepancy persisted across 3 passes.",
+    "fix_directive": "Locate the later chapter where Margaret's note is quoted or referenced verbatim; edit that callback to reproduce the exact wording established in Chapter 4 ('The main telephone in the library is a modern cordless...The tide is out at four o'clock. I am sorry. I should have said something years ago.'), removing any invented phrases not present in this original note.",
+    "pass": 13
+   },
    "quotes": [
     "underlined *witness.*",
     "what i need.\u2026",
@@ -130,12 +136,18 @@
     16,
     31
    ],
-   "state": "FIXING",
+   "state": "ACCEPTED",
    "seen_passes": [
     11,
-    12
+    12,
+    13
    ],
-   "adjudication": {},
+   "adjudication": {
+    "verdict": "tolerable",
+    "reason": "Ages are consistent across cited chapters: Ch13 states Emma was 18, Ch31 (one year later) states she is 19. No '15' appears anywhere in the cited prose.",
+    "fix_directive": "",
+    "pass": 13
+   },
    "quotes": [
     "eighteen now",
     "a twelve-year-old"
@@ -171,13 +183,51 @@
     21,
     27
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     12
    ],
    "adjudication": {},
    "quotes": [
     "woman in her forties, graying hair in ponytail"
+   ]
+  },
+  {
+   "fp": "38b739da49ec935f",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Sophia Reyes (prose) vs Sophia Martinez (bible)",
+   "chapters": [
+    13,
+    16
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    13
+   ],
+   "adjudication": {},
+   "quotes": [
+    "sophia reyes",
+    "sophia martinez."
+   ]
+  },
+  {
+   "fp": "ee275f7660fc3a94",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Danny Morrison age vs bible",
+   "chapters": [
+    30,
+    31
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    13
+   ],
+   "adjudication": {},
+   "quotes": [
+    "s eleventh birthday in march; ch31 (october) says",
+    "s eleven now"
    ]
   }
  ]

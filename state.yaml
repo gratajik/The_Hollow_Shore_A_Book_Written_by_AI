@@ -312,45 +312,45 @@ chapters:
     cost: 0.0
     compliance_violations: 0
     fix_passes: 0
-review_pass: 12
+review_pass: 13
 review_converged: false
 review_stopped_unconverged: false
 force_full_panel: false
 review_stop_reason: null
 last_review_critical: 0
-last_review_major: 32
+last_review_major: 21
 last_review_hashes:
   1: 1502c909cb2ccc4e9acddea25c40ab10
-  2: a35c7cd943ac1742587ed44299501327
+  2: e61e4b8a958af93243418b5bfa82f08b
   3: 9231c363b4fe98ebfa7872bbd7fb99b3
-  4: 20b495bd6d6186a492ad684005de2b1a
+  4: 861c85a8bf3e51c25829e4fbad69dd81
   5: 52ae487a99f9e8b12ad91d23e7450d7f
-  6: 3844765e0c5edc6566f2ec19864b7f85
-  7: 3cc8dffe2976e0c57ed4773f3e2b828c
-  8: 92800504a1d93cb2f44e71a5d3d19bb5
+  6: 214fbaac77bb1b4c07ae9ad75427d4ef
+  7: 16b662b38829a3063fe0efb188cb7c4e
+  8: 83baa95174b6080aa64ef2e60285e7b9
   9: 61477e4c695c5873f9b1adaf346df303
   10: 3862ea0472b265e22bdbcf8046e4e690
-  11: a9d20355f5511d79a3f70b998bcd8feb
+  11: 67109ed4afe1b2a834e95287b12bd9e6
   12: 0dbf7a9cbd180e460a2eeaadce0ab747
-  13: 3908dda38dac99d4aca87cd95d2fd325
-  14: 4db40c776829fbc3054e15d60d3b39fa
+  13: e2d912158a3ada4c55b530d22bf3e2a9
+  14: 2917de34d853877dae069671c2d0b259
   15: 210cda38d19ef02d74526f79a47d4544
-  16: 6e834fa814b9a5145fab3096bb9a8275
-  17: da371fedd3222de9c0229985d5b4c6f5
+  16: a0bbc5ccf8d7adcdc0d753cc69fd1c51
+  17: 2e3353dd7b60ba5e8e7f76cffd27cdf2
   18: aec83f2acd2986e24ea074ee9323e972
   19: d721285616717aa5873c1f17ace28ce1
-  20: 03f67480157a45a1aef25a9c9a76d896
-  21: 5a7e500a9c42d5dfaa70560f353516fd
+  20: 9b5b0f8f81904880b380be54e9d85057
+  21: bfe4ff8690bf23cd1a94b2fce7f7ac45
   22: 77051c07daa6c94c97dc268fe0156c9c
   23: 75a2b9ac5334093d7285140ce18ee59f
   24: c8b6a49f4a304eeb1797eddc582d9b3a
   25: b3146df95e773a3e4344c5303bf233d8
   26: eb0fb771921c069ff0724362db714615
-  27: 773650ca0e9b6afa89fb28f200f35cfb
+  27: 42e49dc19fc2ae5664415cba5153deab
   28: 50c50f6f61434a6bf418778cfdb12da2
   29: 5f2db69cbe437cfcf4875497a66e854f
-  30: 30839ded9bf6b7b75ff12ff1244f109d
-  31: 0f16f70c9aca4797b70c34035412b2f4
+  30: 5492c39e72aabddab3b6a578f912bfb6
+  31: 25d466c31eba83a0d6a97a09f4defc40
 contract_verified: {}
 timeline_verified: {}
 knowledge_verified: {}
@@ -362,9 +362,9 @@ publishing_status:
   package: publishing/HollowShore_5.19.26.docx
 costs:
   writing: 0.0
-  review: 11.411699999999998
+  review: 12.8136
   publishing: 0.1527
-  total: 11.564399999999997
+  total: 12.966299999999999
 review_log:
 - pass: 11
   agent: mechanical
@@ -1023,9 +1023,72 @@ review_log:
   cache_read_tokens: 0
   cache_write_tokens: 0
   cost: 0.0064
+- pass: 13
+  agent: mechanical
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 72544
+  output_tokens: 4942
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.14
+- pass: 13
+  agent: story
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 115364
+  output_tokens: 2823
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 1.0339
+- pass: 13
+  agent: publisher
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 114431
+  output_tokens: 2478
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0467
+- pass: 13
+  agent: matrix
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 90125
+  output_tokens: 12795
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0724
+- pass: 13
+  agent: critical-verify
+  model: claude-opus-4-8
+  source: ''
+  input_tokens: 0
+  output_tokens: 0
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0568
+- pass: 13
+  agent: docket-adjudicate
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 8492
+  output_tokens: 160
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0186
+- pass: 13
+  agent: docket-adjudicate
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 16287
+  output_tokens: 97
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0335
 last_review_depth: ''
 last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-04-17T17:05:00.408323+00:00'
-updated_at: '2026-09-02T03:13:33.585748+00:00'
+updated_at: '2026-09-02T03:58:01.118351+00:00'
