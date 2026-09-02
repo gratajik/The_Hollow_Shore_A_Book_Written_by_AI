@@ -160,3 +160,17 @@
 
 **Prompt template (for automation):**
 > For a converged/published book with post-convergence edits: seed state.last_review_hashes with current hashes of all chapters EXCEPT those changed since the last review (derive from git log <last-review-commit>..HEAD, translating renames), then run one review pass. Afterward, verify every remaining blocker against the prose before accepting an unconverged verdict; classify real-vs-phantom and repair any fixer-introduced regressions before deciding disposition.
+
+---
+
+## Session 2026-09-01 (cont.) — Churn triage + failure-mode mechanization
+
+### Step: Hunk-level triage of fix-pass churn; ship the pipeline fixes
+
+**What I did:**
+- Walked the full 2,009-line chapter diff (pre-run 688c8c2 -> HEAD). Most churn was benign: paragraph splits (content preserved), Murphy voice-card contractions, AI-tell replacements. Root-caused the corruption: fixers._apply_literal_swaps_prepass ran an unbounded substring replace-all; a phantom "his"->"her" swap corrupted 32 lines in ch16/ch21/ch27 ("this"->"ther", "hissed"->"hersed", Ethan/Fairchild pronouns feminized).
+- Reverted programmatically (difflib pairing; only lines where current == old.replace("his","her")); restored Eleanor's uncontracted dialogue (ch06), the youth-center director's "We never knew who to thank" (ch25), removed an HTML review-note comment from ch20. Kept all four real regression fixes.
+- Shipped to BookForge (develop dbeac57): word-boundary anchoring + 3-occurrence cap on literal swaps; apostrophe-compound allowlist in the fused-word scanner; HISTORICAL-sections + evidence-verbatim protocols in review_matrix.md. Offline suites green; backlog Done entries with verify run.
+
+**Prompt template (for automation):**
+> After any fix pass on a converged book, diff pre-run..HEAD and classify hunks: splits/tell-fixes keep; any line where new == old with a mechanical token substitution applied is corruption -> revert programmatically; check dialogue edits against voice cards before accepting contraction changes.
