@@ -37,7 +37,7 @@ Maya’s finger tapped against the case file in her pocket. The commission lette
 
 The ferry captain had materialized beside her, his weathered face turned toward the island with an expression Maya couldn't quite read. Captain Murphy, according to the faded nameplate on his jacket. She'd tried to engage him when she'd first boarded, but he'd been taciturn, focused on navigating the channel. Now, with the island looming larger, he seemed inclined to talk.
 
-"Why's that?" Maya kept her voice professionally neutral, though something in his tone had sharpened her attention.
+"Why's that?" Maya forced her voice to stay neutral. Something in his tone had sharpened her attention.
 
 "Storm coming in tonight. Maybe tomorrow. You can smell it." He inhaled deeply, as if to demonstrate. "Course, might be fitting. The Blackwoods, they've always had a taste for drama."
 
@@ -49,13 +49,19 @@ Maya had read the police report three times on the drive up from Boston. Sarah B
 
 "Were you surprised?" Maya asked carefully. "When you heard about Sarah?"
 
-Murphy was quiet for a long moment, watching the island grow larger. When he spoke, his Maine accent thickened. "Some places, they hold onto things. Memories, maybe. Ghosts, if you're inclined to believe such foolishness. That island." He shook his head. "Let's just say I wasn't surprised to hear something tragic had happened there again."
+Murphy was quiet for a long moment, watching the island grow larger. When he spoke, his Maine accent thickened.
+
+"Some places, they hold onto things. Memories, maybe. Ghosts, if you're inclined to believe such foolishness. That island."
+
+He shook his head. "Let's just say I wasn't surprised to hear something tragic had happened there again."
 
 *Again.* Maya filed that away, her finger tapping faster against the file. "There've been other tragedies?"
 
 Murphy studied her for a long moment before he answered. His eyes were the color of the water. He had the look of a man taking a measurement with an instrument only he was aware of carrying.
 
-"There have been things," he said. "I am a ferry captain. I do not know the specifics. I know the specific kinds of quiet that come off that island in the fall. I have been reading that water for thirty years. That water has been quiet in a specific way since August of 1998. It has been quiet in a different specific way since September of last year. I am not going to say more than that to a woman getting off my ferry. But I am going to say that."
+"There've been things," he said.
+
+"I'm a ferry captain. Don't know the specifics. I know the kinds of quiet that come off that island in the fall. Been reading that water thirty years. It's been quiet a certain way since August of '98. Different quiet since September of last year. I'm not going to say more than that to a woman getting off my ferry. But I'll say that."
 
 "Captain Murphy."
 
@@ -65,7 +71,7 @@ Murphy studied her for a long moment before he answered. His eyes were the color
 
 He turned his head a quarter-inch to look at her full-on for the first time. His face gave nothing away. His mouth did the slightest thing that was not a smile.
 
-"You put your foot on my deck, miss, and something in your shoulders set itself the way my late wife's shoulders set when she was about to walk into a hospital room she did not want to walk into. I am old. I have made my peace with paying attention when that happens." He glanced back at the island. "Also, Sarah Blackwood's mother died in childbirth and her father raised her in a house full of people who did not raise her. I liked Sarah. I liked her the way a man who ferries a family for three decades can like a child he watches grow up from the deck of a boat. She is dead. I am telling you what I can tell you, which is very little, because I am not sure anyone else is going to bother."
+"You put your foot on my deck, miss, and something in your shoulders set itself the way my late wife's did when she was about to walk into a hospital room she didn't want to walk into. I'm old. I've made my peace with paying attention when that happens." He glanced back at the island. "Also, Sarah Blackwood's mother died in childbirth and her father raised her in a house full of people who didn't raise her. I liked Sarah. Liked her the way a man who ferries a family for three decades can like a child he watches grow up from the deck of a boat. She's dead. I'm telling you what I can, which is very little, because I'm not sure anyone else is going to bother."
 
 Maya did not answer immediately.
 
@@ -85,7 +91,9 @@ The ferry's engine changed pitch, and Maya automatically braced herself as they 
 
 Or it should have been.
 
-A figure was waiting on the dock as the ferry bumped against the pilings. Middle-aged, slight build, nervous energy radiating from him like heat shimmer. This would be James Blackwood, Sarah's father. Maya had done her research: investment banker, never married, raised his daughter alone after her mother's death in childbirth. The photographs she'd found online showed a confident professional in expensive suits. The man waiting for her looked like he hadn't slept in days.
+A figure was waiting on the dock as the ferry bumped against the pilings. Middle-aged, slight build, nervous energy radiating from him like heat shimmer. This would be James Blackwood, Sarah's father.
+
+Maya had done her research: investment banker, never married, raised his daughter alone after her mother's death in childbirth. The photographs she'd found online showed a confident professional in expensive suits. The man waiting for her looked like he hadn't slept in days.
 
 "Ms. Chen?" He stepped forward as she disembarked, extending a hand that trembled slightly. "I'm James Blackwood. I. We weren't expecting anyone today."
 
@@ -105,7 +113,7 @@ James took the letter, his frown deepening as he read. Behind him, Maya heard Ca
 
 They started up the path from the dock, James setting a quick pace despite the uneven ground. Maya followed, her investigator's instincts cataloging details even as her mind raced. The path was well-maintained but old, worn smooth by decades of foot traffic. Through the trees, she caught glimpses of structures: a gazebo overwhelmed by climbing roses, what might have been a child's playhouse now collapsed with age.
 
-"Your family has owned the island for a long time," she observed, partly to fill the uncomfortable silence, partly to gauge his response.
+"Your family has owned the island for a long time," she said, partly to fill the uncomfortable silence, partly to gauge his response.
 
 "Three generations." James didn't slow his pace. "My great-grandfather bought it in the twenties. We used to summer here when I was young, the whole family. Sarah loved it here when she was little. Before..."
 
@@ -179,7 +187,7 @@ The front door burst open, bringing with it a gust of cold air that smelled of r
 
 "Well, well." His voice carried a trace of Chicago in its directness, a no-nonsense tone that cut through the mansion's Gothic atmosphere. "Eleanor didn't mention we were expecting company. I'm Dr. Richard Blackwood. And you are...?"
 
-He extended his hand. His eyes, sharp and intelligent, the same gray as the gathering storm, assessed her with clinical care. She recognized the look. She had seen it in enough medical professionals during investigations, but there was something else there too. Something that made her want to take a step back.
+He extended his hand. His eyes, sharp and intelligent, the same gray as the gathering storm, assessed her with clinical care. She recognized the look. She had seen it in enough medical professionals during investigations, but this look held a second thing underneath. She stepped back.
 
 "Maya Chen. Private investigator." She shook his hand briefly, noting the firm grip, the way he held on just a fraction too long.
 
@@ -209,23 +217,25 @@ Eleanor's teacup touched the saucer with a click. James's leg stilled.
 
 "Depression, anxiety, paranoid ideation." Dr. Richard rattled off the diagnoses with clinical detachment. "I'd been her physician since she was a child. These conditions often worsen in early adulthood."
 
-"She wasn't paranoid." The words burst from James like water through a dam. His New York accent thickened with emotion. "She was scared. She kept saying she remembered things, things from when we were children that couldn't possibly."
+"She wasn't paranoid." The words burst from James like water through a dam. His New York accent thickened with emotion. "She was scared. She kept saying she remembered things, things from when she was a child that couldn't possibly."
 
 Eleanor's sharp look cut him off mid-sentence. The silence that followed was heavy with unspoken warnings.
 
 "What James means," Dr. Richard said smoothly, "is that Sarah had been experiencing false memories. It's not uncommon in certain conditions. The mind can play cruel tricks."
 
-Maya made a note, her finger tapping against her pen. Something was off here, some undercurrent she couldn't quite identify. "I'd like to see her room, if that's possible. Sometimes personal effects can provide insight into a person's state of mind."
+Maya made a note, her finger tapping against her pen. Eleanor's teacup had touched the saucer too sharply; James wouldn't look at his uncle. She filed both away. "I'd like to see her room, if that's possible. Sometimes personal effects can provide insight into a person's state of mind."
 
 Eleanor's jaw tightened. "Her room has been left exactly as it was. I'm not sure."
 
 "I'll show her." James stood abruptly. "I mean, if that's all right, Mother."
 
-Eleanor and Dr. Richard exchanged a look Maya couldn't read. Finally, Eleanor nodded. "Very well. But James, remember that Ms. Chen is here under... unusual circumstances. We don't know who sent her or why."
+Eleanor looked at Dr. Richard, and he looked back at her. Maya couldn't read either face. Finally, Eleanor nodded.
+
+"Very well. But James, remember that Ms. Chen is here under... unusual circumstances. We don't know who sent her or why."
 
 "I understand your concern," Maya said, standing as well. "I appreciate y'all's hospitality, given the situation."
 
-"Southern accent," he observed. "Where are you from originally, Ms. Chen?"
+"Southern accent," he said. "Where are you from originally, Ms. Chen?"
 
 "Columbia, South Carolina." She kept her tone light, but her defensive instincts were stirring. "Though I've been in Boston for fifteen years now."
 
@@ -269,11 +279,15 @@ James glanced toward the door nervously. "A therapist Sarah started seeing on th
 
 Maya carefully moved the sketch pad aside, revealing more pages. She lifted a second sheet. Dated five weeks before.
 
-*I went up to the attic today and found a box of photographs in the trunk. Grandmother's old things, supposedly. But there are pictures of me and another girl, eight or nine, at the beach on the island. I do not know this girl. I do not remember her. Uncle Richard says we never had visitors that summer. Mother says I am overtired. But the girl is in twelve different photographs and in three of them I am holding her hand.*
+*I went up to the attic today and found a box of photographs in the trunk. Grandmother's old things, supposedly. But there are pictures of me and another girl, eight or nine, at the beach on the island.
+
+I do not know this girl. I do not remember her. Uncle Richard says there were never any visitors that summer. Mother says I am overtired. But the girl is in twelve different photographs and in three of them I am holding her hand.*
 
 A third page. Her heart rate picking up.
 
-*I brought the photographs to Dr. Torres. She is a kind woman. She has me looking at one picture at a time. The girl has dark hair in pigtails. I keep wanting to call her something. Not her full name. A name you would call a friend. It is on the tip of my tongue. I cry every time.*
+*I brought the photographs to Dr. Torres. She is a kind woman. She has me looking at one picture at a time. The girl has dark hair in pigtails.
+
+I keep wanting to call her something. Not her full name. A name you would call a friend. It is on the tip of my tongue. I cry every time.*
 
 Maya turned the page. The handwriting was getting smaller, more frantic.
 
@@ -369,7 +383,7 @@ She stood, needing to move, to think. The room felt too small, the blue wallpape
 
 "Ms. Chen? Are you feeling well?"
 
-Maya jerked back to the present, breath caught in her throat. Dr. Richard stood in the hallway, having appeared as silently as a ghost. His expression was concerned, professional, but there was something else in his eyes. Something that might have been recognition.
+Maya jerked back to the present, breath caught in her throat. Dr. Richard stood in the hallway, having appeared as silently as a ghost. His expression was concerned, professional, but his eyes held a second thing. Something that might have been recognition.
 
 "You look like you've seen a ghost," he said softly.
 
@@ -577,13 +591,15 @@ Somewhere in the walls, water moved through old pipes, slow and patient, like br
 
 # Chapter 4: Morning Confrontations
 
-Maya woke before dawn, her body rigid with tension despite having slept only in fragments. The image from the night before would not settle. Eight-year-old Maya and Sarah hiding in the basement. Adult voices arguing about police. A promise, whispered, held between two small hands. She had no picture of what was promised. Only the shape of the promise itself, still sitting in her chest after twenty-five years.
+Maya woke before dawn, her body rigid with tension despite having slept only in fragments. The image from the night before would not settle. Eight-year-old Maya and Sarah hiding in the basement.
+
+Adult voices arguing about police. A promise, whispered, held between two small hands. She had no picture of what was promised. Only the shape of the promise itself, still sitting in her chest after twenty-five years.
 
 She sat up carefully, listening to the house around her. The storm had passed, leaving behind an eerie quiet broken only by the distant sound of waves and the occasional creak of old wood settling. Through her window she could see debris scattered across the grounds. Broken branches. Scattered roof tiles. Evidence of the night's violence.
 
 Maya pulled out her phone and scrolled through the photos she'd taken in the basement. Her own medical file documenting memory suppression. Childhood photographs proving her presence on the island at eight years old. Dozens of files on other children who had visited over the years. Some marked *deceased*.
 
-Her right index finger tapped once against the edge of the phone case. Again.
+She scrolled back to the top and made herself look at each file in turn.
 
 She dressed carefully in her most professional clothes. Dark slacks, crisp white shirt, blazer. Armor. She hid the printed photos inside her jacket and slipped her phone into an inner pocket where it couldn't be easily taken.
 
@@ -639,7 +655,7 @@ Dr. Richard leaned back in his chair, studying Maya with renewed interest. "That
 
 Maya stood as well, her hand moving instinctively toward her phone. "I don't need medication, Dr. Blackwood. What I need are answers."
 
-"Sometimes the mind needs guidance to process difficult situations properly." He opened his medical bag, revealing rows of vials and syringes. "I have something that will help you sleep, help you think more clearly. It's for your own good."
+He opened his medical bag, revealing rows of vials and syringes. "I have something that will help you sleep, help you think more clearly. It's for your own good."
 
 "I'm not your patient."
 
@@ -657,7 +673,7 @@ His mask slipped then, just for a moment, and Maya saw something predatory under
 
 "Ferry service is suspended indefinitely," Dr. Richard said, following her into the hallway. "You're not going anywhere, Maya. Not until we're certain you're stable."
 
-Maya felt her Southern drawl rise to the back of her tongue, coiled there, refusing to perform for him. Her finger tapped once against the phone in her pocket. "Y'all seem mighty concerned about my mental state for people who barely know me."
+Maya felt her Southern drawl rise to the back of her tongue, coiled there, refusing to perform for him. Her hand closed around the phone in her pocket. "Y'all seem mighty concerned about my mental state for people who barely know me."
 
 "We're concerned because you're clearly unwell," Eleanor said, joining them in the hallway. "Making wild accusations, claiming to remember things that never happened. Richard, perhaps you should."
 
@@ -731,9 +747,13 @@ And now she was trapped with him.
 
 Time passed. She did not know how much.
 
-After a while the voices downstairs stopped. A door closed, deep in the house. She waited for the sound of Dr. Richard's footsteps on the landing and they did not come. She waited for the sound of a key in the lock of her room and it did not come. Eleanor's steady, measured tread went past her door twice, to the linen closet at the end of the hall and back. Once she heard James on the stairs, a stumble of weight and recovery, and then silence.
+After a while the voices downstairs stopped. A door closed, deep in the house. She waited for the sound of Dr. Richard's footsteps on the landing and they did not come. She waited for the sound of a key in the lock of her room and it did not come.
 
-The storm had moved off. Weak October sun came through the blue wallpaper and made it lighter blue. Maya stood in the middle of the room for some part of an hour with the letter opener in her hand, waiting to be attacked, and no attack came. When her legs began to hurt she sat on the edge of the bed and kept waiting. When her eyes began to close she forced them open and kept waiting. The old house settled around her and said nothing about the people inside it.
+Eleanor's steady, measured tread went past her door twice, to the linen closet at the end of the hall and back. Once she heard James on the stairs, a stumble of weight and recovery, and then silence.
+
+The storm had moved off. Weak October sun came through the blue wallpaper and made it lighter blue. Maya stood in the middle of the room for some part of an hour with the letter opener in her hand, waiting to be attacked, and no attack came.
+
+When her legs began to hurt she sat on the edge of the bed and kept waiting. When her eyes began to close she forced them open and kept waiting. The old house settled around her and said nothing about the people inside it.
 
 They were letting her stew.
 
@@ -743,15 +763,25 @@ She forced herself to get up.
 
 She made a list on the back of a page from Sarah's journal, in a small steady hand.
 
-*What I have.* Photographs. Medical files. Dr. Richard's own signature on the memory-modification protocols. A phone with no signal, which would have a signal the moment she was off the island. James, who was fracturing. Margaret, who had looked at her strangely this morning. The brass letter opener, absurdly, because she had picked it up.
+*What I have.* Photographs. Medical files. Dr. Richard's own signature on the memory-modification protocols. A phone with no signal, which would have a signal the moment she was off the island.
 
-*What they have.* Complete control of the house. Keys to every door. Power over the medical supply. Lies pre-rehearsed with family lawyers and with the local police. Eleanor's social capital, which would not survive a federal investigation but which would buy them forty-eight hours of delay. Dr. Richard's clinical authority, which they would try to weaponize by calling Maya unstable.
+James, who was fracturing. Margaret, who had looked at her strangely this morning. The brass letter opener, absurdly, because she had picked it up.
 
-*What I need.* A way off the island. Or a phone signal. Or a boat. Or a witness who will not be called unstable.
+*What they have.* Complete control of the house. Keys to every door. Power over the medical supply. Lies pre-rehearsed with family lawyers and with the local police.
 
-She underlined *witness.*
+Eleanor's social capital, which would not survive a federal investigation but which would buy them forty-eight hours of delay. Dr. Richard's clinical authority, which they would try to weaponize by calling Maya unstable.
 
-Outside, a gull called once over the bay and did not call again. Somewhere downstairs, Margaret Swift was humming. It was a tune Maya did not know but that her body seemed to. A slow three-beat lullaby, unhurried, the kind of song a woman hums to herself when she is folding sheets by a window. Margaret had no reason to hum. Margaret was a woman who had worked for this family for twenty years and had survived by never asking questions. If she was humming now, it was because she had decided something and was steadying herself.
+*What I need.* A way off the island. A phone signal. A boat. A witness who would not be called unstable.
+
+Under *What I need*, below the boat and the phone signal, she wrote two more words and stopped.
+
+*A witness.*
+
+She underlined those two words, pressing the pen down until the paper dimpled.
+
+Outside, a gull called once over the bay and did not call again. Somewhere downstairs, Margaret Swift was humming. It was a tune Maya did not know but that her body seemed to. A slow three-beat lullaby, unhurried, the kind of song a woman hums to herself when she is folding sheets by a window.
+
+Margaret had no reason to hum. Margaret was a woman who had worked for this family for twenty years and had survived by never asking questions. If she was humming now, it was because she had decided something and was steadying herself.
 
 Maya crossed to the door and pressed her ear to the wood. The humming was coming from the hallway, two rooms down. She stayed where she was.
 
@@ -761,7 +791,9 @@ Maya watched it slide through the gap. A corner. Then half the page. Then all of
 
 Maya reached down and picked the paper up.
 
-*The main telephone in the library is a modern cordless. He cut the wire from the kitchen extension. He did not cut the library base. The study has a key to the boathouse in the middle desk drawer. The boat is fueled. The tide is out at four o'clock. I am sorry. I should have said something years ago.*
+*The main telephone in the library is a modern cordless. He cut the wire from the kitchen extension. He did not cut the library base.
+
+The study has a key to the boathouse in the middle desk drawer. The boat is fueled. The tide is out at four o'clock. I am sorry. I should have said something years ago.*
 
 No signature.
 
@@ -783,7 +815,7 @@ The footsteps in the walls were getting closer.
 
 The footsteps stopped just behind the wall near her bed.
 
-Maya held her breath and waited.
+Maya stopped breathing and waited.
 
 ---
 
@@ -823,7 +855,9 @@ Maya found the source. A larger peephole that looked down into the library. She 
 
 Eleanor's hands did not shake as she poured herself a drink. They never did. "The police will ask questions. That detective she spoke to."
 
-"Will be told that Maya had a psychological breakdown. That she became delusional, paranoid. Tragic, really, but these things happen to people with suppressed trauma." Dr. Richard's voice was clinical, detached. "We'll say she threw herself from the cliffs. Suicide, brought on by the stress of recovered memories."
+"Will be told that Maya had a psychological breakdown. That she became delusional, paranoid. Tragic, really, but these things happen to people with suppressed trauma."
+
+Dr. Richard's voice was clinical, detached. "We'll say she threw herself from the cliffs. Suicide, brought on by the stress of recovered memories."
 
 Maya's blood turned to ice. They were planning to kill her and make it look like suicide. Just like they'd done to Sarah.
 
@@ -875,7 +909,7 @@ A sound from the passage ahead cut him off. Footsteps, moving with purpose. Dr. 
 
 Maya grabbed James's arm. "We need to move. Now."
 
-They crept through the narrow corridors. She led by instinct she did not trust and could not name. The passages connected every room in the house. Her body seemed to know which branches led down and which led out, and she did not question it.
+They crept through the narrow corridors. She led by instinct she did not trust and could not name. The passages connected every room in the house. Her body knew which branches led down and which led out, and she did not question it.
 
 Behind them, she could hear Dr. Richard moving through the passages with the confidence of someone who knew them well. Of course he did.
 
@@ -891,7 +925,9 @@ The passage opened onto a landing behind the basement wall. Maya pressed her ear
 
 The door opened on a small chamber behind the basement wall. A chamber Maya had not entered at eight years old. She knew that too.
 
-The room was small and windowless, lit by a single bare bulb. Medical equipment lined the walls. Not the antique pieces from Dr. Richard's office but modern instruments. Restraints. Syringes, lined up in a cloth roll. A laminated schedule on a clipboard. And in the corner, a small bed with rumpled sheets.
+The room was small and windowless, lit by a single bare bulb. Medical equipment lined the walls. Not the antique pieces from Dr. Richard's office but modern instruments.
+
+Restraints. Syringes, lined up in a cloth roll. A laminated schedule on a clipboard. And in the corner, a small bed with rumpled sheets.
 
 "Jesus Christ." James's voice was flat, shocked past inflection.
 
@@ -923,7 +959,7 @@ The phone kept ringing.
 
 Maya stared at Dr. Richard, at the syringe in his hand, at the unconscious child on the bed. The IV line snaked from the boy's arm like a lifeline that could become a death sentence with one push of Dr. Richard's thumb.
 
-"Choose, Maya," he said softly, his voice carrying the same clinical detachment he'd used once before, a quarter of a century ago, when his hands had been busy with a bundle in a sheet. The memory was not a picture. It was the smell of damp stone and the shape of a weight she'd been told never to name. "Answer that phone, and I increase the sedation. The boy won't wake up. Ever."
+"Choose, Maya," he said softly, his voice carrying the same clinical detachment he'd used once before, a quarter of a century ago, when his hands had been busy with a bundle in a sheet. The memory was not a picture. It was the smell of damp stone and a weight she'd been told never to name. "Answer that phone, and I increase the sedation. The boy won't wake up. Ever."
 
 Eleanor stood behind him, her posture immaculate, her hands folded at her waist. "Richard." Two syllables, precise as enamel. "Do whatever is necessary."
 
@@ -939,7 +975,7 @@ The phone rang again.
 
 "Then she'll find your body on the cliffs tomorrow morning. Tragic suicide, brought on by recovered memories of childhood trauma." Dr. Richard adjusted his grip on the syringe. "The boy will simply disappear. Another runaway from the mainland. These things happen."
 
-Maya felt the weight of the brass letter opener in her hand. Twenty-five years ago she'd been a terrified eight-year-old who'd made a promise to keep terrible secrets. But she wasn't that little girl anymore.
+The brass letter opener sat heavy in her hand. Twenty-five years ago she'd been a terrified eight-year-old who'd made a promise to keep terrible secrets. But she wasn't that little girl anymore.
 
 "You know what, Dr. Blackwood?" Maya's Southern drawl emerged strong and clear. "Some promises are meant to be broken."
 
@@ -979,11 +1015,11 @@ Maya's phone rang again as they reached the passage. This time, she answered.
 
 "Maya, what do you mean armed? What."
 
-The line went dead as Dr. Richard yanked the phone from her hand and smashed it against the stone wall.
+The line went dead as Dr. Richard yanked the phone from Maya's hand and smashed it against the stone wall.
 
 "You've just signed that boy's death warrant," he said, pulling another syringe from his bag. "And your own."
 
-But Maya was already moving through the passage, James beside her, the boy's weight growing heavier in her arms. Behind them, she could hear Dr. Richard's footsteps. Too light. He was not following them. He was turning the other way.
+But Maya was already moving through the passage, James beside her, the boy's weight growing heavier in her arms. Behind them, she could hear Dr. Richard's footsteps. Too light. He wasn't following them. He was turning the other way.
 
 "The service stairs," James said, breathless, understanding before she did. "He's going for the dock."
 
@@ -993,7 +1029,7 @@ But Maya was already moving through the passage, James beside her, the boy's wei
 
 They emerged into the main house to find it eerily quiet. Through the windows, the gray afternoon light. In the distance, a boat. The Blackwood yacht, cutting away from the private dock toward the open water.
 
-"No." James's voice broke. "No, he's not."
+"No." James's voice broke. "No, he isn't."
 
 "He is." Maya laid the boy on the kitchen table, checking his pulse. Still steady, but his breathing was shallow. "He's gone. Let him go."
 
@@ -1003,13 +1039,15 @@ They emerged into the main house to find it eerily quiet. Through the windows, t
 
 "Maya."
 
-"James, listen to me. That boy needs a medic. We stay with him. We give Park everything. Richard runs. Richard gets caught later." Her drawl was hard as the iron pan on the stove. "He doesn't get to take this kid with him."
+"James, listen to me. That boy needs a medic. We stay with him. We give Park everything. Richard runs. Richard gets caught later."
+
+Her drawl was hard as the iron pan on the stove. "He doesn't get to take this kid with him."
 
 James nodded, his eyes wet. "Oh God. I thought he was treating disturbed children. Helping them with therapy."
 
 "Like he helped me. Like he helped Sarah."
 
-James's face crumpled. "Sarah tried to tell me. In her last weeks she kept saying she remembered things from when she was little. About the other children. But Mother said it was impossible, and Richard said it was just the medication making her confused."
+James's face crumpled. "In her last weeks she kept saying she remembered things from when she was little. About the other children. But Mother said it was impossible, and Richard said it was just the medication making her confused."
 
 "The medication that was supposed to help her remember, not forget."
 
@@ -1093,7 +1131,11 @@ The police station in Bar Harbor felt like a different world from the gothic man
 
 Maya looked down at her hands, still bearing small cuts from the brass letter opener. Twenty-four hours ago, she'd been a desperate private investigator running from her past. Now she was a witness in something she did not yet have the shape of.
 
-"I don't remember everything," she said. "I want to be clear about that. Fragments, mostly. More every hour. I was on that island as a child, that much I'm sure of. My parents were working for the Blackwood Foundation. There were other children there. Something happened." She paused. "I don't have it all yet. I'm telling you what I have."
+"I don't remember everything," she said.
+
+"I want to be clear about that. Fragments, mostly. More every hour. I was on that island as a child, that much I'm sure of. My parents were working for the Blackwood Foundation. There were other children there. Something happened."
+
+She paused. "I don't have it all yet. I'm telling you what I have."
 
 "Take whatever time it takes."
 
@@ -1165,11 +1207,13 @@ Maya looked at the folder. Photocopies of documents she did not remember creatin
 
 "How did you get access to Dr. Richard's therapy records? Those should have been sealed."
 
-Mark and Linda exchanged a glance.
+Mark looked at Linda. She looked back at him.
 
 "Our lawyer, Patricia Valdez, has connections. She said she had sources who could help." Linda's eyes slid away. "We didn't ask too many questions. We were just grateful for the help."
 
-Maya filed the evasion away. Her investigator's instincts were prickling. The forgery was good. Patricia was too well-sourced. Something about how cleanly the commission file had been built bothered her, and she did not yet have the word for it. She let it sit.
+Maya filed the evasion away. Her investigator's instincts were prickling. The forgery was good. Patricia was too well-sourced.
+
+Something about how cleanly the commission file had been built bothered her, and she did not yet have the word for it. She let it sit for now.
 
 "We're sorry we deceived you," Linda said. "But we were desperate. Tommy was ten years old when he died. The same age as Danny is now."
 
@@ -1179,11 +1223,11 @@ Danny nodded. "Mom showed me pictures of him. She said he would have been the be
 
 "He would have been."
 
-The next morning Maya found herself in a therapist's office in Portland. Dr. Sarah Chen, who had been careful to establish on the phone that she was no relation despite the shared surname, specialized in trauma recovery and memory integration.
+The next morning Maya sat in a therapist's office in Portland. Dr. Sarah Chen, who had been careful to establish on the phone that she was no relation despite the shared surname, specialized in trauma recovery and memory integration.
 
 "How are you processing everything that's happened?"
 
-Maya considered the question. "I feel like I've been carrying a weight my whole life without knowing it, and now I can feel the shape of it. Not the whole thing. Just the shape."
+Maya considered the question. "I feel like I've been carrying a weight my whole life without knowing it, and now I can finally feel it. Not the whole thing. Just the edges of it."
 
 "That's very common with recovered-memory cases. Your eight-year-old self and your adult self are trying to become the same person again, and that takes time. It doesn't happen in a week."
 
@@ -1237,7 +1281,7 @@ Agent Sarah Martinez appeared within minutes, a woman in her forties with grayin
 
 Maya followed Agent Martinez through a maze of cubicles to a conference room where the walls were covered with photographs, timelines, and connecting strings that looked like something from a crime thriller. At the center of it all was a large photograph of Dr. Richard Blackwood.
 
-"Lord have mercy." Maya's right index finger tapped once against her thigh, then again, the drawl sliding into her voice before she could catch it.
+"Lord have mercy." The drawl slid into her voice before she could catch it, and she felt her jaw tighten against it.
 
 "Twenty-three potential victims over twenty-five years," Agent Martinez said, gesturing to the evidence wall. "That we know of so far. Dr. Blackwood kept meticulous records, which is both helpful and horrifying."
 
@@ -1297,7 +1341,9 @@ After the call, Maya prepared for her first victim family contact. She reviewed 
 
 She drove to Burlington the next morning.
 
-The drive was six hours from Boston, up through New Hampshire in thin October sun. Maya made the whole trip without the radio on. The Hendricks file was on the passenger seat under a travel mug she had stopped drinking from an hour in. She had practiced the call a dozen times in her head on the way and had stopped practicing it somewhere outside Concord, because none of the practice worked. It was not a call. It was a sitting in someone's house.
+The drive was six hours from Boston, up through New Hampshire in thin October sun. Maya made the whole trip without the radio on. The Hendricks file was on the passenger seat under a travel mug she had stopped drinking from an hour in.
+
+She had practiced the call a dozen times in her head on the way and had stopped practicing it somewhere outside Concord, because none of the practice worked. It was not a call. It was a sitting in someone's house.
 
 The Hendricks house was a tidy Cape on a street of tidy Capes in a neighborhood that had probably not changed in thirty years. Robert Hendricks was in the driveway when she pulled up, pretending to do something with a rake. He walked over before she had the car door closed.
 
@@ -1317,7 +1363,9 @@ The kitchen was small and clean and the kind of yellow that had been fashionable
 
 "I know."
 
-Carol turned the photograph over. Sandy hair. A gap-toothed grin that had not yet grown into straightened teeth. "This is the school picture from the year he disappeared. I have a box of them upstairs. I made copies. I printed missing posters once a year for eleven years. We put them up in every truck stop between here and the Canadian border because Robert thought maybe somebody had seen him."
+Carol turned the photograph over. Sandy hair. A gap-toothed grin that had not yet grown into straightened teeth.
+
+"This is the school picture from the year he disappeared. I have a box of them upstairs. I made copies. I printed missing posters once a year for eleven years. We put them up in every truck stop between here and the Canadian border because Robert thought maybe somebody had seen him."
 
 "You did the work. I saw the posters in the file."
 
@@ -1331,15 +1379,21 @@ Carol's mouth went into a shape it did not have a name for. Robert put his hand 
 
 "Oh," Carol said. "Oh, yes. Yes, of course."
 
-Michael's bedroom was at the end of the upstairs hallway. Carol paused at the door with her hand on the knob for a moment before she opened it. Inside, the room was what Maya had expected and what she had not let herself expect: a twelve-year-old boy's bedroom preserved for fifteen years. A twin bed with a plaid comforter. A Red Sox poster thumbtacked above a small desk. A fish tank on a low stand, its water long since evaporated, a dried plastic plant still upright in the sand. A stack of Hardy Boys paperbacks beside the bed, bookmark still in place at chapter four of *The Melted Coins*. The smell of the room was the smell of a room that had been quietly cleaned every week for fifteen years.
+Michael's bedroom was at the end of the upstairs hallway. Carol paused at the door with her hand on the knob for a moment before she opened it. Inside, the room was what Maya had expected and what she had not let herself expect: a twelve-year-old boy's bedroom preserved for fifteen years.
 
-"We did not touch anything," Carol said. "After. Everybody told us to. Our pastor told us. My sister told us. We did not touch anything. I cleaned in here every Sunday. Every Sunday for fifteen years."
+A twin bed with a plaid comforter. A Red Sox poster thumbtacked above a small desk.
+
+A fish tank on a low stand, its water long since evaporated, a dried plastic plant still upright in the sand. A stack of Hardy Boys paperbacks beside the bed, bookmark still in place at chapter four of *The Melted Coins*. The smell of the room was the smell of a room that had been quietly cleaned every week for fifteen years.
+
+"We did not touch anything," Carol said.
+
+"After. Everybody told us to. Our pastor told us. My sister told us. We did not touch anything. I cleaned in here every Sunday. Every Sunday for fifteen years."
 
 "It's a good room."
 
 "It was a good room."
 
-Maya went in. She did not sit on the bed. She crouched beside the fish tank and put her hand on the glass. Her right index finger tapped once against the tank, and then she made it stop. She stood up and looked at the stack of paperbacks.
+Maya went in. She did not sit on the bed. She crouched beside the fish tank and put her hand on the glass. She held it there a moment, then stood up and looked at the stack of paperbacks.
 
 "Chapter four. He was right in the middle of it."
 
@@ -1389,7 +1443,9 @@ Maya sat with them at the yellow kitchen table for another hour. She asked the q
 
 She drove the six hours back to Boston without the radio on.
 
-By the time she got home it was past ten at night. She sat in her apartment and she did not unpack. She left the dish on the dining room table where she could see it from the couch. She thought about Carol stopping for four years. She thought about a twelve-year-old boy who had told his mother a story about a cove that was actually the name of his trauma. She thought about the bookmark in *The Melted Coins* at chapter four. Then she called her parents. Her mother picked up on the second ring.
+By the time she got home it was past ten at night. She sat in her apartment and she did not unpack. She left the dish on the dining room table where she could see it from the couch. She thought about Carol stopping for four years.
+
+She thought about a twelve-year-old boy who had told his mother a story about a cove that was actually the name of his trauma. She thought about the bookmark in *The Melted Coins* at chapter four. Then she called her parents. Her mother picked up on the second ring.
 
 "Maya, honey. Everything okay?"
 
@@ -1447,7 +1503,7 @@ Maya opened the file and saw a photograph of a girl with dark curls and serious 
 
 "Thank you for having the courage to come forward. Without your testimony and insights, Dr. Blackwood might never have been stopped."
 
-As Maya left the FBI office that day, the stack of victim case files weighed heavy against her ribs. She walked to her car in the parking garage, hearing the slap of her own footsteps on concrete, the twenty-three names inside the folders pressing against her arm like a held hand.
+As Maya left the FBI office that day, the stack of victim case files pressed heavy against her ribs. She walked to her car in the parking garage, hearing the slap of her own footsteps on concrete, the twenty-three names inside the folders pressing against her arm like a held hand.
 
 Her phone buzzed with a text from Detective Park: "Saw the news about the federal investigation. Proud of you for turning your pain into purpose. Those families are lucky to have you fighting for them."
 
@@ -1459,9 +1515,11 @@ Maya unlocked the car and set the files on the passenger seat. Michael Hendricks
 
 Dr. Sarah Chen's office was in a three-story brick building on Commercial Street in Portland that had been a bottling plant in 1912 and a photography studio in 1974 and for the last eleven years a group trauma-therapy practice with three therapists and one reception desk and a waiting room that smelled faintly of cinnamon. Maya had been there twice before. Both times briefly.
 
-The third time she sat in the waiting room for fifteen minutes without opening the magazine she had picked up. The magazine was the Maine *Sportsman*. She did not fish. Somebody had brought it in and left it and nobody had thrown it out. There was a boy on the cover, ten or eleven, holding up a rainbow trout. Maya put the magazine down on the side table, face-down.
+The third time she sat in the waiting room for fifteen minutes without opening the magazine she had picked up. The magazine was the Maine *Sportsman*. She did not fish.
 
-Dr. Chen came out of her office two minutes before the appointment. She was wearing black slacks and a dark-blue sweater and a small silver pendant of no obvious religious affiliation. She had the kind of face that did not give anything away, not because it was hiding anything but because it had done this work long enough to know that a therapist's face was, itself, a kind of instrument.
+Somebody had brought it in and left it and nobody had thrown it out. There was a boy on the cover, ten or eleven, holding up a rainbow trout. Maya put the magazine down on the side table, face-down.
+
+Dr. Sarah Chen came out of her office two minutes before the appointment. No relation to Maya, despite the shared surname, though the first time they had met Maya had asked and Dr. Chen had said her people were from Guangzhou by way of Vancouver, and Maya's were from Fujian by way of South Carolina, and that had been the end of it. She was wearing black slacks and a dark-blue sweater and a small silver pendant of no obvious religious affiliation. She had the kind of face that did not give anything away, not because it was hiding anything but because it had done this work long enough to know that a therapist's face was, itself, a kind of instrument.
 
 "Maya."
 
@@ -1469,7 +1527,9 @@ Dr. Chen came out of her office two minutes before the appointment. She was wear
 
 "Come on in."
 
-The office was small. One wall of books. One window onto the Fore River. A square of carpet in the middle of the hardwood. Two chairs facing each other across a low table with a tissue box on it. A clock on the wall positioned so Maya could see it but not be nagged by it. Dr. Chen's chair had a dog bed beside it, empty, and a scattering of dog hair on the rug. Maya had not asked about the dog. Dr. Chen had not offered.
+The office was small. One wall of books. One window onto the Fore River. A square of carpet in the middle of the hardwood. Two chairs facing each other across a low table with a tissue box on it.
+
+A clock on the wall positioned so Maya could see it but not be nagged by it. Dr. Chen's chair had a dog bed beside it, empty, and a scattering of dog hair on the rug. Maya had not asked about the dog. Dr. Chen had not offered.
 
 Maya sat in the patient chair. Dr. Chen sat in her own. Neither of them said anything for ten full seconds.
 
@@ -1503,7 +1563,7 @@ Dr. Chen did not interrupt. When Maya stopped, Dr. Chen let the silence be silen
 
 "Two glasses of wine two nights ago. Nothing since."
 
-"Okay. I am not going to give you a lecture about any of that. I want to try something with you today. It is a protocol I use with recovered-memory cases. It is called bilateral stimulation. Also sometimes called EMDR, though we are going to keep it simpler than the formal version. I am going to ask you to think about a specific sensory fragment, and while you do, I am going to tap the back of your hand. Left, right, left, right. The tapping occupies one part of your brain so another part can look at the fragment without drowning in it. If we do this correctly, you are not going to feel ambushed. You are going to feel like a person looking at something from across a room. Is that something you are willing to try."
+"Okay. I'm not going to give you a lecture about any of that. I want to try something with you today. It is a protocol I use with recovered-memory cases. It is called bilateral stimulation. Also sometimes called EMDR, though we are going to keep it simpler than the formal version. I am going to ask you to think about a specific sensory fragment, and while you do, I am going to tap the back of your hand. Left, right, left, right. The tapping occupies one part of your brain so another part can look at the fragment without drowning in it. If we do this correctly, you are not going to feel ambushed. You are going to feel like a person looking at something from across a room. Is that something you are willing to try."
 
 "Yes."
 
@@ -1575,7 +1635,9 @@ Maya did not speak for a moment.
 
 "Sarah. I wanted to ask you. How do I. The mother call."
 
-Dr. Chen leaned forward. "You are going to ask her one question. Not five. One. You are going to pick the question before you call. You are going to ask it. She is going to answer or she is not going to answer. Whichever she does, it is information. It is not a verdict on whether she loves you. It is information about what she is willing to say out loud today. You are not calling to resolve your childhood. You are calling to collect one data point."
+Dr. Chen leaned forward.
+
+"You are going to ask her one question. Not five. One. You are going to pick the question before you call. You are going to ask it. She is going to answer or she is not going to answer. Whichever she does, it is information. It is not a verdict on whether she loves you. It is information about what she is willing to say out loud today. You are not calling to resolve your childhood. You are calling to collect one data point."
 
 "One question."
 
@@ -1585,7 +1647,7 @@ Dr. Chen leaned forward. "You are going to ask her one question. Not five. One. 
 
 "I have been holding it for three weeks. I was waiting until you were ready to hear it."
 
-Maya sat with it for a long time.
+Maya sat with it until the tide sound outside changed.
 
 "Okay."
 
@@ -1607,7 +1669,11 @@ Dr. Chen glanced at the clock. Forty-two minutes. "I am going to let you go a li
 
 "Thank me in ten years. Not now."
 
-Maya stood. Dr. Chen stood. They did not shake hands. Maya walked out into the waiting room, and past the receptionist, and down the three flights of stairs, and out the front door onto Commercial Street in the afternoon wind. The Fore River was gray and moving fast with the tide going out. She found a bench along the Eastern Promenade and sat on it for the ten minutes Dr. Chen had asked for. A gull landed on the railing and looked at her and went away again without waiting for food, and Maya hummed the children's song about the crab very quietly to herself. On her phone was the recording of herself humming it, forty-seven seconds long, marked *Chen-Maya-Session-2-2026-04* in Dr. Chen's careful typing.
+Maya stood. Dr. Chen stood. They did not shake hands. Maya walked out into the waiting room, and past the receptionist, and down the three flights of stairs, and out the front door onto Commercial Street in the afternoon wind.
+
+The Fore River was gray and moving fast with the tide going out. She found a bench along the Eastern Promenade and sat on it for the ten minutes Dr. Chen had asked for.
+
+A gull landed on the railing and looked at her and went away again without waiting for food, and Maya hummed the children's song about the crab very quietly to herself. On her phone was the recording of herself humming it, forty-seven seconds long, marked *Chen-Maya-Session-2-2026-04* in Dr. Chen's careful typing.
 
 She drove back to Boston that night. She did not call her mother.
 
@@ -1619,7 +1685,7 @@ Four of them did.
 
 # Chapter 10: The Pattern Emerges
 
-Maya's apartment had become a makeshift command center for grief. Three computer monitors displayed video call windows, each showing a different family's pain etched in pixels and sorrow. She'd been at this for six hours straight, and the weight of their collective loss pressed against her chest like a physical thing.
+Maya's apartment had become a makeshift command center for grief. Three computer monitors displayed video call windows, each showing a different family's pain etched in pixels and sorrow. She'd been at this for six hours straight, and their collective loss pressed against her chest like a physical thing.
 
 "Emma loved to draw," Mrs. Washington was saying, her voice thin with years of unanswered questions. "She'd fill sketchbooks with these elaborate underwater scenes. After the therapy with Dr. Blackwood, she started drawing the same thing over and over. Children sleeping in dark places. She called it 'the hollow shore.'"
 
@@ -1689,7 +1755,9 @@ Maya looked at the truck. Then at Mark Morrison. He had not shaved in at least a
 
 They moved the boxes into a secured conference room on the third floor. It took two hours. Agent Kim brought up a second pallet jack from the evidence bay. Patricia Valdez made phone calls from the corner, rescheduling three depositions. When the last box came off the truck, Mark Morrison sat down in a folding chair beside the conference table and put his head in his hands and did not move for a long minute. Nobody said anything.
 
-"I have kept this for twenty-three years," he said, not looking up. "I have paid a dozen private investigators. I have slept on the couch of a man named Ben Osbourne, who was my brother's best friend growing up, who became a lawyer in New York, who said if anybody in my family ever figured out what happened to Tommy he wanted to be called first. He is seventy-one. He is at home right now. I should have called him before I drove up here. I did not. I am sorry. I am very tired."
+"I have kept this for twenty-three years," he said, not looking up.
+
+"I have paid a dozen private investigators. I have slept on the couch of a man named Ben Osbourne, who was my brother's best friend growing up, who became a lawyer in New York, who said if anybody in my family ever figured out what happened to Tommy he wanted to be called first. He is seventy-one. He is at home right now. I should have called him before I drove up here. I did not. I am sorry. I am very tired."
 
 "Mr. Morrison."
 
@@ -1717,7 +1785,9 @@ Maya's right index finger tapped once against the rim of the banker's box.
 
 Mark Morrison opened the box. He found the folder. He opened it and turned the page. He pointed.
 
-*Interviewee visibly fearful. Declined to comment on the family. Stated, quote, "Some places hold on to things." Unquote. I asked her what she meant. She apologized and walked away. I did not press. She looked at me for a long time from the far end of the dock before the ferry came in.*
+*Interviewee visibly fearful. Declined to comment on the family. Stated, quote, "Some places hold on to things." Unquote. I asked her what she meant.
+
+She apologized and walked away. I did not press. She looked at me for a long time from the far end of the dock before the ferry came in.*
 
 Maya read the note twice. She took a photograph of it on her phone.
 
@@ -1789,7 +1859,7 @@ Maya read through it again, this time with fresh eyes. Certain phrases jumped ou
 
 Maya felt a chill run down her spine. "They knew I'd take this case."
 
-Back in her apartment that night, Maya pulled out boxes she hadn't opened in years. Old files, photographs, documents from her childhood. If someone had manipulated her into taking this case, there had to be a reason. Something in her past that connected her to the Blackwood family.
+Back in her apartment that night, Maya pulled out boxes she hadn't opened in years. Old files, photographs, documents from her childhood. If someone had manipulated her into taking this case, there had to be a reason. A thread in her past that connected her to the Blackwood family.
 
 She found her childhood medical records, noting a gap between ages seven and nine. The records picked up again with notations about "successful therapeutic intervention" and "childhood anxiety resolved." But there were no details about what the therapy was for or who had provided it.
 
@@ -1885,7 +1955,7 @@ Maya nodded. She'd used the eye movement technique with trauma victims during he
 
 "Focus on the strongest sensory memory," Dr. Chen instructed, beginning the bilateral stimulation. "Let your mind follow where it wants to go."
 
-Maya closed her eyes, following the therapist's guidance. The smell came first: salt and decay, the particular mustiness of spaces that never saw sunlight. Then the feeling of Sarah's small hand in hers.
+Maya closed her eyes, following the therapist's guidance. The smell came first: salt and decay, the mustiness of spaces that never saw sunlight. Then the feeling of Sarah's small hand in hers.
 
 The crab song was there too, underneath the smell, humming on some channel her body had never fully closed. Kim had emailed her yesterday. Four children at Maine Medical Center had recognized the forty-seven-second recording. Emma Washington had been the first. Tyler Park had hummed the second verse, which Maya had not known existed.
 
@@ -1991,13 +2061,13 @@ The FBI search team prepared their equipment behind them with military efficienc
 
 The ferry's horn echoed across the gray water like a funeral bell.
 
-Maya stood at the rail, her hands gripping the cold metal so tightly her knuckles had gone white. The dark smudge of Blackwood Island grew larger through the morning mist.
+Maya stood at the rail, her hands gripping the cold metal until her fingers went bloodless. The dark smudge of Blackwood Island grew larger through the morning mist.
 
 "You don't have to do this," Agent Martinez said quietly, joining her at the rail. "We have your drawings, your testimony. You could wait on the mainland."
 
 Maya's laugh came out bitter. "Twenty-three children are counting on me remembering the way. I can't fail them like I failed." She stopped, her Southern drawl thickening, her right index finger tapping once against the cold metal of the rail. "Like I failed before."
 
-The island materialized from the fog like something from her nightmares. The mansion's Gothic towers pierced the low-hanging clouds, and Maya's body remembered what her mind had tried to forget: the weight of terror, the taste of salt and earth, the sound of children singing in the dark.
+The island materialized from the fog like something from her nightmares. The mansion's Gothic towers pierced the low-hanging clouds, and Maya's body remembered what her mind had tried to forget: the terror closing her throat, the taste of salt and earth, the sound of children singing in the dark.
 
 "Miss." Captain Murphy's voice made her jump. "Figured you would be back. Some things won't stay buried, no matter how deep you put them."
 
@@ -2021,7 +2091,9 @@ Eleanor Blackwood stood in the doorway like a queen surveying her conquered king
 
 "My brother has devoted his life to this family's good name."
 
-"Mother, stop." James appeared behind Eleanor, looking haggard but determined. "Just stop. Sarah knew the truth. She tried to tell us." He held out a leather journal. "This was Sarah's. From when she was young. She wrote about the caves, about the other children. I... I should have listened."
+"Mother, stop." James appeared behind Eleanor, looking haggard but determined. "Just stop. Sarah knew the truth. She tried to tell us."
+
+He held out a leather journal. "This was Sarah's. From when she was young. She wrote about the caves, about the other children. I... I should have listened."
 
 Maya took the diary with careful hands. Sarah's childish scrawl described "the hollow shore where lost children go" and "Uncle Richard's special place underground." The entries stopped abruptly after their eighth summer.
 
@@ -2029,7 +2101,9 @@ Maya took the diary with careful hands. Sarah's childish scrawl described "the h
 
 Agent Martinez stepped forward. "Ma'am, anything you can tell us."
 
-"I kept quiet for twenty years," Margaret's voice broke. "Told myself it wasn't my business. But Sarah was asking questions before she died. About the old smuggling tunnels. About why we weren't allowed in the north woods anymore." She met Maya's eyes. "I should have said something twenty-three years ago when a man named Holcomb asked me at the dock. I should have said something the night of the storm when you were in my house. I'll show you now. It's time."
+"I kept quiet for twenty years," Margaret's voice broke. "Told myself it wasn't my business. But Sarah was asking questions before she died. About the old smuggling tunnels. About why we weren't allowed in the north woods anymore."
+
+She met Maya's eyes. "I should have said something twenty-three years ago when a man named Holcomb asked me at the dock. I should have said something the night of the storm when you were in my house. I'll show you now. It's time."
 
 "Margaret."
 
@@ -2041,11 +2115,11 @@ Agent Martinez stepped forward. "Ma'am, anything you can tell us."
 
 "I didn't get to use it. But I kept it." Maya reached into her jacket, past the notebook, to the inside breast pocket where she had been carrying the folded paper for three weeks. She held it up between two fingers.
 
-"Keep it," Margaret said. "Put it with the evidence. Or don't. It does not matter now."
+"Keep it," Margaret said. "Put it with the evidence. Or don't. It doesn't matter now."
 
 "It matters. You broke the silence for me first. Then for Sarah. Now for them." Maya put the note back inside her jacket. "Show us the entrance."
 
-The path through the woods felt both foreign and familiar. Maya's feet seemed to know the way even as her mind recoiled. The FBI team followed in a careful line, but she barely heard their chatter over the roar of memory.
+The path through the woods felt both foreign and familiar. Maya's feet knew the way even as her mind recoiled. The FBI team followed in a careful line, but she barely heard their chatter over the roar of memory.
 
 *Small hands linked together. Sarah's laugh echoing through the trees. "Come on, Maya! I'll show you the secret way!"*
 
@@ -2099,7 +2173,7 @@ Somewhere in the darkness below, voices were singing.
 
 # Chapter 13: The Integration Suite
 
-The passage went down for a long time before it stopped looking like rock.
+The passage went down a long way before it stopped looking like rock.
 
 Maya's helmet light tracked the change as they descended. Smuggler's stone gave way to poured concrete and then to drywall on a steel frame. A run of conduit appeared along the ceiling. Somebody had run plumbing down here forty years ago and somebody had updated it inside the last decade.
 
@@ -2107,9 +2181,11 @@ Maya's helmet light tracked the change as they descended. Smuggler's stone gave 
 
 Maya traced the laminated map without looking at it. Her eight-year-old hand had drawn this map from the inside.
 
-"Lord," she said quietly, and her finger tapped once against the map's plastic sleeve as they came through into the first chamber.
+"Lord," she said quietly, as they came through into the first chamber.
 
-The room was set up like a clinic. Two examination tables along one wall, leather restraints folded against the headrests. An IV stand in the corner. A small refrigerator humming to itself. A binder of paperwork on a steel cart, neatly tabbed. Maya stood in the doorway and did not go in.
+The room was set up like a clinic. Two examination tables along one wall, leather restraints folded against the headrests. An IV stand in the corner.
+
+A small refrigerator humming to itself. A binder of paperwork on a steel cart, neatly tabbed. Maya stood in the doorway and did not go in.
 
 "Preparation room," she said. "He sedated children here before he moved them deeper. The paperwork is going to read like a pediatric clinic. That was the point of the paperwork."
 
@@ -2185,9 +2261,11 @@ Kim was reading over her shoulder. "He has five children listed as 'successfully
 
 The extraction took four hours.
 
-The medical team worked in pairs, one paramedic and one agent per child, from the deepest chamber outward. Emma Washington had to be convinced to let go of the chalk before she would stand up; the paramedic sat beside her on the stone floor for seven minutes until she put the chalk down on her own. A girl named Lisa, nine years old, had been in the caves so long she did not know how to walk more than ten feet without stopping to listen for the next instruction. Michael Hendricks, twenty-seven now, had grown into a thin, quiet man who stood up when he was asked to, and walked when he was asked to, and said, when one of the paramedics put a blanket around his shoulders, "Thank you, ma'am. I know this is your job." His voice was the voice of the twelve-year-old on Carol Hendricks's school-picture photograph, grown into a man but not much.
+The medical team worked in pairs, one paramedic and one agent per child, from the deepest chamber outward. Emma Washington had to be convinced to let go of the chalk before she would stand up; the paramedic sat beside her on the stone floor for seven minutes until she put the chalk down on her own. A girl named Lisa, nine years old, had been in the caves so long she did not know how to walk more than ten feet without stopping to listen for the next instruction. Michael Hendricks, twenty-seven now, the Vermont boy his parents had searched fifteen years for, had grown into a thin, quiet man who stood up when he was asked to, and walked when he was asked to, and said, when one of the paramedics put a blanket around his shoulders, "Thank you, ma'am. I know this is your job." His voice was the voice of the twelve-year-old on Carol Hendricks's school-picture photograph, grown into a man but not much.
 
-Maya walked out with the third group. She was not a paramedic. She was not a tactical agent. She was a consultant and she had a badge on a lanyard. But Emma Washington had taken Maya's hand inside the chamber and had not let go. The paramedics had exchanged a look and decided not to argue. Maya walked the quarter mile from the Integration Suite to the old cove entrance with Emma's small chalk-dusted hand in hers, and halfway through the passage Emma stopped and said, "I cannot go outside."
+Maya walked out with the third group. She was not a paramedic. She was not a tactical agent. She was a consultant and she had a badge on a lanyard. But Emma Washington had taken Maya's hand inside the chamber and had not let go.
+
+The paramedics glanced at each other and decided not to argue. Maya walked the quarter mile from the Integration Suite to the old cove entrance with Emma's small chalk-dusted hand in hers, and halfway through the passage Emma stopped and said, "I cannot go outside."
 
 "Emma."
 
@@ -2213,7 +2291,9 @@ Emma looked at her for a long moment with eyes that had not seen daylight in twe
 
 She took one more step. Then another. Then Maya walked her the rest of the way out, and Emma blinked up at the sky for the first time since she was six years old, and she did not cry. She only looked. Maya stood beside her and let her look as long as she needed.
 
-The helipad the FBI had cleared on the north side of the island was a square of flattened grass and two Coast Guard medevac helicopters running. The rotors were a low constant sound. Paramedics were loading children onto stretchers in a careful rotation: the worst first, then by age, then by how far they had been able to walk on their own. Ashley Brennan, ten, who had been in the Preparation Chamber coma two weeks, went on the first bird to Maine Medical Center in Portland. Marcus Hale, nine, three weeks under, went with her. Sophia Reyes, eight, five days gone, held the paramedic's thumb in her small fist the whole twenty-three-minute flight.
+The helipad the FBI had cleared on the north side of the island was a square of flattened grass and two Coast Guard medevac helicopters running. The rotors were a low constant sound. Paramedics were loading children onto stretchers in a careful rotation: the worst first, then by age, then by how far they had been able to walk on their own.
+
+Ashley Brennan, ten, who had been in the Preparation Chamber coma two weeks, went on the first bird to Maine Medical Center in Portland. Marcus Hale, nine, three weeks under, went with her. Sophia Reyes, eight, five days gone, held the paramedic's thumb in her small fist the whole twenty-three-minute flight.
 
 Emma Washington went on the third bird. Maya climbed in beside her. Agent Martinez stayed on the island with the cave team and the forensics crew. Maya put her headset on and Emma's hand stayed in hers, and across the cabin a boy named Tyler Park, who had been in the caves for four years, sat silently beside a paramedic who was holding his other hand and saying, over and over, in a soft voice, "You are safe. You are safe. You are safe."
 
@@ -2227,7 +2307,9 @@ An ER nurse with her hair in a tight bun came up to her. "Ms. Chen. Agent Kim ca
 
 "Three already. How."
 
-"The Bureau called the families when the extraction started. The Brennans drove eight hours from Vermont to beat the helicopter. Mrs. Washington flew in from Hartford this afternoon. The Reyes family lives in Portland. They walked." She paused. "Do you want coffee. I can have someone bring coffee."
+"The Bureau called the families when the extraction started. The Brennans drove eight hours from Vermont to beat the helicopter. Mrs. Washington flew in from Hartford this afternoon. The Reyes family lives in Portland. They walked."
+
+She paused. "Do you want coffee. I can have someone bring coffee."
 
 "No. Yes. Please."
 
@@ -2261,13 +2343,15 @@ Emma did not say anything else for some minutes. Then she held out her hand, the
 
 She stood in the hallway afterward for twenty minutes. She was still standing there when Ashley Brennan's mother came out of the next room and walked up to Maya and hugged her without asking, fiercely, for five full seconds, and then let go without speaking, and went back in to her daughter.
 
-Maya sat down on a plastic chair in the corridor. She did not get up for a long time.
+Maya sat down on a plastic chair in the corridor. She did not get up until a nurse touched her shoulder.
 
 ---
 
 # Chapter 14: The Hunt
 
-Maya flew back from Portland the next morning on the seven a.m. FBI charter. Agent Martinez picked her up on the tarmac at Bar Harbor. They drove back to the estate in silence. The ferry had been running since first light. Four federal vehicles were parked on the gravel drive. A Coast Guard cutter was visible half a mile offshore.
+Maya flew back from Portland the next morning on the seven a.m. FBI charter. Agent Martinez picked her up on the tarmac at Bar Harbor. They drove back to the estate in silence.
+
+The ferry had been running since first light. Four federal vehicles were parked on the gravel drive. A Coast Guard cutter was visible half a mile offshore.
 
 Through the mansion's tall windows, Maya caught movement. Eleanor Blackwood stood in the library, watching the work of the federal agents moving through her hallway. Then she turned away, and Maya saw the flicker of flames.
 
@@ -2317,7 +2401,7 @@ Agent Martinez stepped forward. "Check her laptop. Kim, get our tech people on t
 
 As they led Eleanor away, she paused beside Maya and looked at her as one might look at a dent in a piece of furniture. Then she walked on without a word.
 
-The laptop yielded immediate results. "Encrypted communications," Agent Kim reported. "But I can see travel bookings. Private jet scheduled to depart from Thomaston Airfield. Destination: São Paulo, Brazil."
+The laptop yielded immediate results. "Encrypted communications," Agent Kim reported. "But I can see travel bookings. Private jet scheduled to depart from Thomaston Airfield. Destination: São Paulo."
 
 "When?" Martinez's head snapped toward him.
 
@@ -2337,11 +2421,15 @@ Murphy's mouth pulled tight. "He went out through the service tunnel under the d
 
 "South. But here's the thing. He wasn't heading for open water. Stayed close to the coast. If he wanted international waters, he'd have gone east."
 
-Maya's mind raced. Something about the route nagged at her, a memory just out of reach. "He's not trying to sail to Brazil. He's going somewhere else first."
+Maya's mind raced. Something about the route nagged at her, a memory just out of reach. "He's not trying to sail overseas. He's going somewhere else first."
 
 "Where?" Martinez asked.
 
-The memory clicked. "The summer house. What in the Sam Hill, I can't believe I forgot. The Blackwoods have a mainland property. Sarah and I went there once as children. It's isolated, private beach access..." She grabbed Martinez's arm. "That's where he's staging from. He'll have supplies there, documents, everything he needs for a longer run."
+The memory clicked.
+
+"The summer house. What in the Sam Hill, I can't believe I forgot. The Blackwoods have a mainland property. Sarah and I went there once as children. It's isolated, private beach access..."
+
+She grabbed Martinez's arm. "That's where he's staging from. He'll have supplies there, documents, everything he needs for a longer run."
 
 Martinez was already on her radio. "All units, we need immediate transport to." She looked at Maya.
 
@@ -2369,9 +2457,9 @@ Agent Kim was checking the documents. "Correspondence from Brazil, Thailand, Rom
 
 "Trail's still warm," the tactical team leader reported. "Maybe thirty minutes ahead of us."
 
-Maya found herself at the window, looking out at the view she'd seen twenty-five years ago. Sarah beside her, both of them eight years old, playing while the adults talked in serious voices. She remembered now. Dr. Richard meeting with other men, discussing "the project" while Eleanor served tea.
+Maya stood at the window, looking out at the view she'd seen twenty-five years ago. Sarah beside her, both of them eight years old, playing while the adults talked in serious voices. She remembered now. Dr. Richard meeting with other men, discussing "the project" while Eleanor served tea.
 
-"The airfield." Maya's right index finger tapped once against the window frame. "He's not driving to Thomaston. There's a private strip about ten miles inland. The family used it for..."
+"The airfield." Maya turned from the window. "He's not driving to Thomaston. There's a private strip about ten miles inland. The family used it for..."
 
 Martinez was already moving. "All units converge on..."
 
@@ -2383,7 +2471,7 @@ The race to the airfield was a blur of sirens and speed. Maya gripped the door h
 
 They crested a hill and saw it: a small Cessna on the runway, props already spinning. A figure in a dark coat was climbing the stairs.
 
-"That's him," Maya said, her voice flattened against the windshield.
+"That's him," Maya said, her voice flat against the windshield.
 
 The FBI vehicles roared onto the airfield as the plane began to taxi. For a moment, it seemed they were too late. Then the pilot saw the convoy of law enforcement vehicles surrounding the runway. The plane slowed, stopped.
 
@@ -2465,7 +2553,9 @@ Park nodded once, stayed at the fence another minute, and walked back toward the
 
 Agent Martinez drove Maya back to Bar Harbor. They did not speak for most of the forty-minute trip. The heater in the SUV smelled of federal upholstery and spilled coffee. Somewhere past Damariscotta, Maya unlocked her phone and looked at it, and looked away, and looked at it again. Martinez did not ask.
 
-At the Bar Harbor police station, Maya gave a supplemental statement for forty-five minutes to a state police detective she did not know. She signed three forms. She drank a cup of coffee somebody gave her. She signed two more forms. Eleanor Blackwood was in a conference room down the hall, visible through a glass panel, not visible through her attorney's body; she did not look up. Maya did not go into the room. Maya did not need to.
+At the Bar Harbor police station, Maya gave a supplemental statement for forty-five minutes to a state police detective she did not know. She signed three forms. She drank a cup of coffee somebody gave her.
+
+She signed two more forms. Eleanor Blackwood was in a conference room down the hall, visible through a glass panel, not visible through her attorney's body; she did not look up. Maya did not go into the room. Maya did not need to.
 
 By eight in the evening Maya was standing in the parking lot of the Bar Harbor Holiday Inn with her go-bag on her shoulder and her car key in her hand and she was the only person in the parking lot. The moon was out. The air was cold enough to scrape. She got into her car and she sat in it without starting the engine.
 
@@ -2613,7 +2703,9 @@ She called Dr. Chen in the morning. Not before. She wanted to carry it by hersel
 
 The drive back to Portland took four hours Maya did not remember. She knew she stopped for gas in Ellsworth because the receipt was in the cupholder in the morning. She knew she ate half a granola bar because the wrapper was on the passenger seat. The rest of the drive was a long dark line of trees under headlights, and a phone she kept reaching for and then not calling.
 
-She had dialed her mother's number twice. Once from the Bar Harbor hotel parking lot before she started the engine. Once somewhere past Ellsworth, on a stretch of Route 1 where the cell signal was good enough to hold a call she was not going to make. Both times she hung up before her mother's voice could reach her. The second time her finger stayed on the red button for a long minute. Then she put the phone face-down on the center console and drove.
+She had dialed her mother's number twice. Once from the Bar Harbor hotel parking lot before she started the engine. Once somewhere past Ellsworth, on a stretch of Route 1 where the cell signal was good enough to hold a call she was not going to make.
+
+Both times she hung up before her mother's voice could reach her. The second time her finger stayed on the red button for a long minute. Then she put the phone face-down on the center console and drove.
 
 Her hotel room was the same hotel room as the week before. The housekeeper had replaced the soap and refolded the towels. The bed was made. Maya stood in the doorway with her key card still in her hand and looked at the bed and knew she was not going to sleep.
 
@@ -2669,9 +2761,9 @@ Maya's right index finger was tapping against the comforter. She made it stop.
 
 "What if they did not know."
 
-"Then they will tell you they did not know, and you will decide whether you believe them. This is a separate question from whether you were wrong to ask. You were not wrong to ask."
+"Then they will tell you they did not know, and you will decide whether you believe them. That is a separate question from whether you were wrong to ask. You were not wrong to ask."
 
-Maya did not say anything for a long time.
+Maya did not say anything until the ventilation fan cycled off.
 
 "You still there," Dr. Chen said.
 
@@ -2701,13 +2793,15 @@ When the FBI's Portland field office opened its main doors at 7:15, she was the 
 
 The FBI's Portland field office was a maelstrom of controlled chaos. The air hummed with the energy of a massive, unfolding investigation, the kind that agents spent entire careers hoping for or dreading. For Maya, it was both.
 
-Agent Martinez, looking like she hadn’t slept in a week but running on pure adrenaline, led her through the bustling main floor. "Welcome to the hornet's nest," she said, her voice pitched low against the noise. "We've got teams spinning up to run down every lead from the 'Collectors' Circle.' Agent Kim's tech squad is working around the clock on the encrypted drives. What they pulled off those drives will keep us busy for years."
+Agent Martinez, looking like she hadn't slept in a week but running on pure adrenaline, led her through the bustling main floor. "Welcome to the hornet's nest," she said, her voice pitched low against the noise. "We've got teams spinning up to run down every lead from the 'Collectors' Circle.' Agent Kim's tech squad is working around the clock on the encrypted drives. What they pulled off those drives will keep us busy for years."
 
-She pointed to a large bulletin board that had been cleared for their case. It was covered with the faces of the twenty-three children Dr. Richard had documented. Eighteen of them now had green checkmarks. Five had red crosses. Beside each photo, agents were pinning names, dates, and the status of family notifications. Seeing them all together, the living and the dead, was a physical blow.
+She pointed to a large bulletin board that had been cleared for their case. It was covered with the faces of the twenty-three children Dr. Richard had documented. Eighteen of them now had green checkmarks.
+
+Five had red crosses. Beside each photo, agents were pinning names, dates, and the status of family notifications. Seeing them all together, the living and the dead, was a physical blow.
 
 "You're officially lead consultant on this, Maya," Martinez said, handing her a badge. "Full access. Your insights have been invaluable. No one else has your perspective."
 
-Maya's right index finger tapped once against the edge of the badge. She was one of them. A survivor. But she was also the investigator who had brought the darkness to light. She pressed her thumb against the badge's plastic edge until it hurt.
+Maya turned the badge over in her hand. She was one of them. A survivor. But she was also the investigator who had brought the darkness to light. She pressed her thumb against the badge's plastic edge until it hurt.
 
 "What's the latest on the international front?" she asked, her voice all business.
 
@@ -2727,13 +2821,13 @@ She was right. For an hour, Eleanor deflected every question with practiced ease
 
 "Belief is a powerful shield," Maya said. "She's not just protecting Richard; she's protecting the entire worldview that allowed her to live with herself. We need to pierce that shield. Not break it, just poke a hole."
 
-Maya’s mind drifted back to the summer house, to that long-ago afternoon. The smell of salt and roses. The sound of men's voices from the veranda, low and serious. She remembered a name, a strange one that had stuck in her eight-year-old mind.
+Maya's mind drifted back to the summer house, to that long-ago afternoon. The smell of salt and roses. The sound of men's voices from the veranda, low and serious. She remembered a name, a strange one that had stuck in her eight-year-old mind.
 
 She leaned forward, pressing the button to speak into Martinez's earpiece. "Ask her about 'Project Nightingale.' Ask her who Mr. Alistair was."
 
 Martinez, trusting her completely, straightened up and re-entered the room. "Mrs. Blackwood," she said, her tone casual, "we have just one more area to cover today. Can you tell us about Project Nightingale?"
 
-The change was instantaneous and profound. Eleanor’s regal composure shattered. Her teacup rattled in its saucer. Her eyes, for the first time, showed a flicker of genuine fear.
+The change was instantaneous and profound. Eleanor's regal composure shattered. Her teacup rattled in its saucer. Her eyes, for the first time, showed a flicker of genuine fear.
 
 "I." Eleanor's teacup rattled against the saucer. "I don't know what you're talking about."
 
@@ -2763,13 +2857,15 @@ Maya took this, correctly, as an invitation. She sat on the edge of the plastic 
 
 The sun on the windowsill moved two inches across the vinyl. The hospital ventilation cycled once, twice. A nurse paused in the doorway, saw Maya's badge, and moved on. Emma drew. She was using the cheap hospital crayons with the waxy tips, and her small thumbnail was already green.
 
-After a long time Emma set the second drawing down next to the first and lifted it so Maya could see. It was the same cave as the first drawing, but from a different angle. The dark-haired girl was still there at the mouth of the cave. But now there was a second figure beside her, taller, with lighter hair and a pair of round-lens glasses. The second figure was Emma herself. Older. An adult-sized stick figure. She was holding the hand of a smaller child and walking the smaller child out toward the sun.
+After the sun had moved another inch, Emma set the second drawing down next to the first and lifted it so Maya could see. It was the same cave as the first drawing, but from a different angle. The dark-haired girl was still there at the mouth of the cave.
+
+But now there was a second figure beside her, taller, with lighter hair and a pair of round-lens glasses. The second figure was Emma herself. Older. An adult-sized stick figure. She was holding the hand of a smaller child and walking the smaller child out toward the sun.
 
 Emma's finger rested on the second figure for a second. Then she looked at Maya.
 
 "When I'm big," Emma said.
 
-It was the first time Maya had heard her voice not-through-a-rehearsed-ritual. Small. Hoarse from disuse. Flatter than a twelve-year-old's voice should be, but her own.
+It was the first time Maya had heard her voice not-through-a-rehearsed-ritual. Small. Hoarse from disuse. Flatter than it should have been, but her own.
 
 "When you're big," Maya said.
 
@@ -2781,9 +2877,9 @@ Maya's right index finger tapped once against the edge of her badge. "More caves
 
 "More places with children. He said. The man with the candles."
 
-"Arthur Fairchild."
+Maya kept her face still. "Do you remember his name?"
 
-Emma's crayon paused. She nodded.
+"No. Just the candles."
 
 "Did he come to you?"
 
@@ -2813,7 +2909,9 @@ Emma thought. "There was a girl named Ana. She had a burn on her hand. He said s
 
 "Tomorrow."
 
-Emma went back to her drawing. Maya stood. She kissed the top of Emma's head, quickly, almost without deciding to, and said, "Emma. When you are big. When you are grown. Come find me. If you want to. I will still be here."
+Emma went back to her drawing. Maya stood.
+
+She kissed the top of Emma's head, quickly, almost without deciding to, and said, "Emma. When you are big. When you are grown. Come find me. If you want to. I will still be here."
 
 "I know," Emma said.
 
@@ -2853,15 +2951,19 @@ Maya closed her eyes. "Tell me, Dad."
 
 "You were... a sensitive child," he began, his voice cracking. "After that last summer on the island, you weren't the same. You wouldn't sleep. You drew... awful pictures. You talked about the 'hollow shore' and a boy named Tommy. You said you saw... you saw something bad happen in the caves."
 
-He took a shaky breath. "We were scared. We didn't know what to do. Richard Blackwood was a respected doctor. He said he knew a specialist in Columbia, a Dr. Webb, who could help with childhood trauma. He said he could help you... forget the bad dreams."
+He took a shaky breath.
+
+"We were scared. We didn't know what to do. Richard Blackwood was a respected doctor. He said he knew a specialist in Columbia, a Dr. Webb, who could help with childhood trauma. He said he could help you... forget the bad dreams."
 
 "So you let him," Maya said, the words tasting like ash on her tongue. "You let him erase my memories because you were scared."
 
-"We didn't understand what he was really doing, honey, I swear," her father pleaded. "We just wanted our happy little girl back. The one who didn't see monsters in the dark."
+"We didn't understand what he was really doing, honey, I swear," her father said, his voice desperate. "We just wanted our happy little girl back. The one who didn't see monsters in the dark."
 
 The tragedy of it settled on her, a cold, heavy weight. They weren't malicious. They were just weak. They had chosen the easy lie over the hard truth. They had sacrificed her memory for their own peace of mind.
 
-Marcus Williams surfaced unbidden. The Columbia case. Five years old now, and still the knot in her chest when she thought of it hadn't loosened. She'd been so sure. She'd been wrong about a stranger, and a man had gone to prison for eleven months before the real killer confessed. And now her own parents. She'd been wrong about them too, though in the other direction. She'd just never applied the doubt at home.
+Marcus Williams surfaced unbidden. The Columbia case. Five years old now, and still the knot in her chest when she thought of it hadn't loosened. She'd been so sure.
+
+She'd been wrong about a stranger, and a man had gone to prison for eleven months before the real killer confessed. And now her own parents. She'd been wrong about them too, though in the other direction. She'd just never applied the doubt at home.
 
 "I have to go," she said, her voice devoid of emotion.
 
@@ -2895,9 +2997,9 @@ His smile registered the correction.
 
 "Please. Sit."
 
-She sat. His lawyer, a tired man in a grey suit, was in the chair at the end of the table with a legal pad he was not yet writing on. Richard did not gesture the lawyer away. The lawyer stayed.
+She sat. His lawyer, a tired man in a grey suit, was in the chair at the end of the table with a legal pad he wasn't yet writing on. Richard didn't gesture the lawyer away. The lawyer stayed.
 
-"Ms. Chen. I would like to say, before we begin, that I understand how this must look. I understand the chain of inferences the Bureau has drawn. I would like to clarify, for the record, that a number of those inferences are wrong."
+"Ms. Chen. I would like to say, before we begin, that I understand how this must look. I understand the chain of inferences the Bureau has drawn. I would like to clarify that a number of those inferences are wrong."
 
 "We are not here to discuss your inferences."
 
@@ -2905,7 +3007,7 @@ She sat. His lawyer, a tired man in a grey suit, was in the chair at the end of 
 
 "Tommy Morrison," Maya said.
 
-Richard's face did not change. His lawyer wrote one word on the legal pad.
+Richard's face didn't change. His lawyer wrote one word on the legal pad.
 
 "I would like to answer that question," Richard said, after a second. "I am instructed not to."
 
@@ -2943,11 +3045,11 @@ Richard's hands moved on the table. Not much. He put them back where they had be
 
 *Be sure,* Maya told herself. Her right index finger tapped once against her thigh beneath the table. *Be sure you are hearing him and not yourself.*
 
-Marcus Williams had been six foot two, with a scar above his right eyebrow from a childhood bicycle accident, and Maya had identified him from a hundred-yard glance down a moonlit Columbia alley with the absolute certainty of a woman who had just watched a victim's sister point and say *that one.* The real killer had been shorter and blonde and had confessed eleven months into Marcus Williams's sentence. Maya had been at Marcus Williams's funeral fourteen months after his release. His mother had not spoken to her. Maya had not expected her to.
+Marcus Williams had been six foot two, with a scar above his right eyebrow from a childhood bicycle accident, and Maya had identified him from a hundred-yard glance down a moonlit Columbia alley with the absolute certainty of a woman who had just watched a victim's sister point and say *that one.* The real killer had been shorter and blonde and had confessed eleven months into Marcus Williams's sentence. Maya had been at Marcus Williams's funeral fourteen months after his release. His mother hadn't spoken to her. Maya hadn't expected her to.
 
 She had thought about Marcus Williams every day for five years. She was thinking about him now, across a federal interrogation room from a man she had been certain of since the day she had pressed her hand to a doorknob in a guest room in Blackwood House and felt twenty-five years open up in her chest.
 
-Marcus Williams had given her a look across that alley that she had read as guilt, and that she had slowly, across five years, come to understand had been confusion. Richard Blackwood was not confused. Richard Blackwood was working.
+Marcus Williams had given her a look across that alley that she had read as guilt, and that she had slowly, across five years, come to understand had been confusion. Richard Blackwood wasn't confused. Richard Blackwood was working.
 
 "What do we have in common, Dr. Blackwood."
 
@@ -2987,7 +3089,7 @@ Richard paused. Then his eyes did the thing Maya had been waiting for them to do
 
 "You killed her because she was remembering."
 
-He did not answer this either. But the silence that followed was not a performed silence. He was holding something he did not want to speak into the room.
+He did not answer this either. But the silence that followed wasn't a performed silence. He was holding something he didn't want to speak into the room.
 
 "She asked me," Richard said, finally, "about the summer when she was eight. She asked me whether there had been other children on the island that summer. I told her there had not been."
 
@@ -3067,7 +3169,9 @@ Maya walked back to the observation room and sat down in the chair Martinez had 
 
 The day after the interrogation, Maya felt like she was living in two separate worlds. In one, Interpol was moving on the Alistair name Eleanor's interrogation had surfaced three days earlier. In the other, she was a daughter adrift, carrying the small ugly thing Dr. Richard had told her about her parents and not yet knowing what to do with it.
 
-Agent Martinez slid the Richard transcript across her desk. "He did not give us the network. He gave us the shape of it. His lawyer kept him in his lane. But he confirmed there is a backer, and he confirmed the backer is in the Nightingale transfers, and he confirmed that Kim is pointed at the right archive. That is enough for Kim."
+Agent Martinez slid the Richard transcript across her desk.
+
+"He did not give us the network. He gave us its outline. His lawyer kept him in his lane. But he confirmed there is a backer, and he confirmed the backer is in the Nightingale transfers, and he confirmed that Kim is pointed at the right archive. That is enough for Kim."
 
 "I know what he was doing," Maya said, her voice flat as she stared at Richard's printed words. "He wanted me to know there is more."
 
@@ -3075,21 +3179,25 @@ Agent Martinez slid the Richard transcript across her desk. "He did not give us 
 
 "All right."
 
-Martinez turned her toward the main operations room. Phones were ringing. Analysts moved between terminals. On a bank of screens the first Interpol operations were underway. A tactical team in Bucharest raiding a lavish villa outside the city. An elderly, cultured man named Alistair was led out of the front door in handcuffs, protesting his innocence in three languages. News anchors in Brazil and Thailand were running footage of separate arrests of prominent businessmen. The Collectors' Circle, for the first time in forty years, was being read into the record.
+Martinez turned her toward the main operations room. Phones were ringing. Analysts moved between terminals. On a bank of screens the first Interpol operations were underway. A tactical team in Bucharest raiding a lavish villa outside the city.
 
-Agent Kim was at a terminal with a printout in his hand. "Alistair's house had a wing Romanian police were not expecting. Sealed behind a biometric door. Inside were forty-seven display cases. Each case held a single personal object. A pair of child's shoes. A doll. A hand-drawn birthday card. A jersey from a Little League team in Ohio. Each case had a single-word plaque. No names. Romanian police have photographed every case and sent the set over. Patricia is running the objects against the old missing-persons databases."
+An elderly, cultured man named Alistair was led out of the front door in handcuffs, protesting his innocence in three languages. News anchors in Brazil and Thailand were running footage of separate arrests of prominent businessmen. The Collectors' Circle, for the first time in forty years, was being read into the record.
+
+Agent Kim was at a terminal with a printout in his hand.
+
+"Alistair's house had a wing Romanian police were not expecting. Sealed behind a biometric door. Inside were forty-seven display cases. Each case held a single personal object. A pair of child's shoes. A doll. A hand-drawn birthday card. A jersey from a Little League team in Ohio. Each case had a single-word plaque. No names. Romanian police have photographed every case and sent the set over. Patricia is running the objects against the old missing-persons databases."
 
 "He was buying them from Richard."
 
 "He was buying them from a network. Richard was the supplier in Maine. There will have been others. The plaques are the same format as the boxes we are going to find in Wyoming. Same typography. Same engraver, probably."
 
-Maya's finger tapped once against the edge of Kim's monitor.
+Maya read the plaque format over his shoulder without a word.
 
-The professional victory felt vast and impersonal. The personal wound, however, was intimate and sharp. That evening, she sat in her quiet hotel room, the city lights of Portland twinkling below, and dialed her therapist.
+The professional victory felt vast and impersonal. The personal wound, however, was intimate and sharp. That evening, she sat in her quiet hotel room, the city lights of Portland twinkling below, and dialed Dr. Sarah Chen. Same surname, no relation, a coincidence that had made Maya smile the first time she'd read the intake paperwork and now felt like nothing at all.
 
 "I don't know where to stand anymore," she told Dr. Chen, the words coming out rough, the syllables slower than she wanted. "I thought I knew who hurt me and I thought I knew who kept me safe and turns out the second one ain't true either. My abuser, my parents... there's no clean ground left."
 
-Dr. Chen's voice was a calm anchor in the storm of Maya's thoughts. "Or maybe," she suggested gently, "you've just discovered you were never on an island at all. You were standing on the wreckage of other people's choices. Now you can finally see the whole picture and decide where to build your own solid ground."
+Dr. Chen's voice was a calm anchor in the storm of Maya's thoughts. "Or maybe," she said gently, "you've just discovered you were never on an island at all. You were standing on the wreckage of other people's choices. Now you can finally see the whole picture and decide where to build your own solid ground."
 
 Maya was quiet for a long moment, letting the words sink in. "He said my past was a weakness. He tried to use it against me."
 
@@ -3103,7 +3211,11 @@ A superpower. The idea was so absurd it almost made her laugh. But as she ended 
 
 After the call she pulled Sarah's notebook from her bag. She had not read it since the night she'd taken it from the hidden compartment under Sarah's baseboard. She turned to an entry dated twelve days before Sarah's drowning.
 
-> *Dr. Torres asked me today what I would say to Maya if I could. I said I would say I was sorry I didn't remember sooner. Dr. Torres said you can't be sorry for a thing a doctor put inside your head to keep you quiet. I said I know. I said I still have to be sorry anyway. I said Maya will remember better than me. She always did. She was the one who wrote down where we had been in her notebook. I was the one who drew the mermaid on the wall.*
+> *Dr. Torres asked me today what I would say to Maya if I could. I said I would say I was sorry I didn't remember sooner. Dr. Torres said you can't be sorry for a thing a doctor put inside your head to keep you quiet.
+
+I said I know. I said I still have to be sorry anyway. I said Maya will remember better than me. She always did.
+
+She was the one who wrote down where we had been in her notebook. I was the one who drew the mermaid on the wall.*
 
 Maya closed the notebook and sat with her hand flat on the cover. She had not, until this moment, been entirely able to believe Sarah's journal was real in the way a childhood photograph was real. It had been a document she had recovered from a house. It had been, in some quiet corner of her mind, still not fully hers.
 
@@ -3151,9 +3263,13 @@ Kim pointed to a black, redacted box on the screen. "The name is protected by a 
 
 "What do we know about the signatory right now. Anything."
 
-Kim pulled up a new panel. A pattern of transactions laid out on a timeline. "Whoever it is, they authorized a major transfer every August twenty-second for the last twenty-five years. Same date, every year. That is not a business schedule. That is a personal anniversary. A death date, probably. Somebody this person lost."
+Kim pulled up a new panel. A pattern of transactions laid out on a timeline.
 
-Maya stared at the redacted name. Not just a patron. Not just a client. A partner with a death date. The man who had hired her, knowing she was the only one who could unravel this. The one who had set all these dominoes up, waiting for the right person to push.
+"Whoever it is, they authorized a major transfer every August twenty-second for the last twenty-five years. Same date, every year. That is not a business schedule. That is a personal anniversary. A death date, probably. Somebody this person lost."
+
+Maya stared at the redacted name. Not just a patron. Not just a client. A partner with a death date.
+
+The man who had hired her, knowing she was the only one who could unravel this. The one who had set all these dominoes up, waiting for the right person to push.
 
 Her right index finger tapped once against the screen, over the black rectangle where the name should have been.
 
@@ -3175,7 +3291,9 @@ While Kim's team kept working the modern transactions, Maya came at it sideways.
 
 "Forget the references for a minute," she told Kim and Martinez on the second day. "Look at the rhythm. The payments are not random. They are triggered."
 
-She pulled up transaction logs, cross-referencing them with the dates of the disappearances. "A large payment lands in the Nightingale Fund three days after Emma Washington disappears. A larger one a week after Sarah Blackwood was supposed to have been preserved. The targets are always the same. Children with documented talents. Artists, musicians, math prodigies."
+She pulled up transaction logs, cross-referencing them with the dates of the disappearances.
+
+"A large payment lands in the Nightingale Fund three days after Emma Washington disappears. A larger one a week after Sarah Blackwood was supposed to have been preserved. The targets are always the same. Children with documented talents. Artists, musicians, math prodigies."
 
 Maya tapped the screen once with her right index finger.
 
@@ -3187,7 +3305,11 @@ The theory was useful. It did not give them a name. The references on the transf
 
 At her urging, Martinez arranged a secure video call with the Morrison family's legal team. Patricia Valdez appeared first, sharp-eyed, a coffee in her left hand and a pen in her right. Beside her sat a man in his late forties with tired eyes and the dark hair of the boy in the case file photo. Mark Morrison.
 
-"For twenty-five years we have been chasing a ghost," Patricia said. She summarized a quarter-century of work: private investigators, lawsuits, dead ends. Mountains of data. Financial records. Witness statements. Corporate filings. "We had pieces. Strange donations to the Blackwood Foundation. Shell corporations with no clear purpose. Whispers of other missing children. Nothing that tied it together."
+"For twenty-five years we have been chasing a ghost," Patricia said. She summarized a quarter-century of work: private investigators, lawsuits, dead ends. Mountains of data. Financial records.
+
+Witness statements. Corporate filings.
+
+"We had pieces. Strange donations to the Blackwood Foundation. Shell corporations with no clear purpose. Whispers of other missing children. Nothing that tied it together."
 
 Mark Morrison spoke for the first time. His voice was quiet and did not shake.
 
@@ -3201,7 +3323,11 @@ Maya listened without interrupting. She tapped the edge of the conference table 
 
 "Send us everything you have."
 
-Hours later, the FBI servers were taking the Morrison files. Twenty-three years of documents, photographs, notebook scans, and PI reports, indexed by Patricia's paralegals in Boston and arriving in the Portland server room in a rolling transfer that Kim watched without moving. The files were in no consistent format. Some were born-digital PDFs. Some were scans of typewritten pages. Some were photographs of paper index cards taken on a flip phone in 2003. They started flowing at midnight. They were still flowing at six.
+Hours later, the FBI servers were taking the Morrison files. Twenty-three years of documents, photographs, notebook scans, and PI reports, indexed by Patricia's paralegals in Boston and arriving in the Portland server room in a rolling transfer that Kim watched without moving.
+
+The files were in no consistent format. Some were born-digital PDFs. Some were scans of typewritten pages.
+
+Some were photographs of paper index cards taken on a flip phone in 2003. They started flowing at midnight. They were still flowing at six.
 
 For two and a half days Kim did not leave the tech division except to sleep in ninety-minute blocks on the cot by the printer. Maya brought him a sandwich at midnight on the second night. He ate it without looking at it. At four in the morning on the third day she found him in the document-comparison room with three printouts laid out side by side under a desk lamp.
 
@@ -3233,7 +3359,9 @@ Kim laid down the third printout. The Morrisons' family PI had also flagged a si
 
 He pushed up his glasses. They left a small red mark on the bridge of his nose.
 
-"The donation was anonymous," Kim said, louder now, for Martinez, who had come in with a fresh pot of coffee. "But the bookkeeper who set it up was not. He has been routing money for thirty-two years through the same accounting habits. Every Nightingale Fund transfer is the same hand. The reference style is on file with the Treasury for the 2003 transaction, because the family's lawsuit attached the photographed ledger page as an exhibit. The exhibit number is on the modern transfer. He has been using a reference style that the courts already have an exhibit for."
+"The donation was anonymous," Kim said, louder now, for Martinez, who had come in with a fresh pot of coffee.
+
+"But the bookkeeper who set it up was not. He has been routing money for thirty-two years through the same accounting habits. Every Nightingale Fund transfer is the same hand. The reference style is on file with the Treasury for the 2003 transaction, because the family's lawsuit attached the photographed ledger page as an exhibit. The exhibit number is on the modern transfer. He has been using a reference style that the courts already have an exhibit for."
 
 "Whose hand."
 
@@ -3257,11 +3385,11 @@ Kim pushed up his glasses. "We are going to need the Wyoming site to tell us wha
 
 The room was quiet. Maya stared at the screen, at the kind, grandfatherly face of Arthur Fairchild.
 
-"He believed he was trying to get his son back," she said, her voice barely above a count. "Over and over again."
+"He believed he was trying to get his son back," she said, her voice low. "Over and over again."
 
 Fairchild was not a patron. He was the commissioner. He had found in Richard Blackwood a man whose clinical authority could be bent to serve a private grief, and he had paid Richard in money and in quiet protection for twenty-five years.
 
-Maya's eyes went to the photograph at the corner of the screen. Thomas Fairchild, ten years old, school portrait, a date of death in small type beneath it. A small square on a large screen. She stared at it until the date stopped being numbers and became only the size of the boy's face.
+Maya's eyes went to the photograph at the corner of the screen. Thomas Fairchild, ten years old, school portrait, a date of death in small type beneath it. A small square on a large screen. She stared at it until the date stopped being numbers.
 
 ---
 
@@ -3269,25 +3397,27 @@ Maya's eyes went to the photograph at the corner of the screen. Thomas Fairchild
 
 Arthur Fairchild was a ghost. For three days, the combined might of the FBI and the Department of Justice threw itself against the fortress of his life and found nothing. He was a phantom of philanthropy, a specter of wealth so vast it had become abstract. His lawyers, a team of smiling, polite assassins in tailored suits, issued a statement claiming Mr. Fairchild was the victim of a monstrous identity theft by the now-infamous Dr. Richard Blackwood, and that he was cooperating fully with all inquiries.
 
-In the first forty-eight hours after Ch17's identification, that cooperation took the following forms: a five-hundred-page binder of reconstructed philanthropic tax filings delivered to the Portland field office by courier at seven in the morning on day one; a video deposition in which Fairchild, seated in a different chair in a different room of the same Wyoming estate, answered twelve carefully pre-screened questions in the voice of a man who had never done anything wrong; a motion filed in federal court to quash any subpoena directed at Fairchild's primary residence pending evaluation of Dr. Richard's credibility; and the simultaneous filing of a civil suit against the estate of Dr. Richard Blackwood for reputational damages in the amount of fifteen million dollars. The signal was unmistakable. Fairchild's attorneys had done this before. They had a choreography. They intended to outlast the Bureau on the clock.
+In the first forty-eight hours after Fairchild was identified, that cooperation took the following forms: a five-hundred-page binder of reconstructed philanthropic tax filings delivered to the Portland field office by courier at seven in the morning on day one; a video deposition in which Fairchild, seated in a different chair in a different room of the same Wyoming estate, answered twelve carefully pre-screened questions in the voice of a man who had never done anything wrong; a motion filed in federal court to quash any subpoena directed at Fairchild's primary residence pending evaluation of Dr. Richard's credibility; and the simultaneous filing of a civil suit against the estate of Dr. Richard Blackwood for reputational damages in the amount of fifteen million dollars. The signal was unmistakable. Fairchild's attorneys had done this before. They had a choreography. They intended to outlast the Bureau on the clock.
 
-"Cooperating fully," Agent Martinez said on the morning of day three, tossing the five-hundred-page binder onto the war-room table hard enough that the corner of it hit the coffee ring, "means he's letting us watch him sip tea on his Wyoming estate via satellite while his lawyers stonewall us into oblivion. We have the architect of a global child exploitation ring, and we can't even get a warrant to search his trash."
+"Cooperating fully," Agent Martinez said on the morning of day three, tossing the five-hundred-page binder onto the war-room table hard enough that the corner of it hit the coffee ring, "means he's letting us watch him sip tea on his Wyoming estate via satellite while his lawyers stonewall us into oblivion. We have the man who built a global child exploitation ring, and we can't even get a warrant to search his trash."
 
 The frustration in the room was a palpable thing. On one screen, surveillance footage showed Fairchild, a frail-looking man in his late eighties, walking through a garden of impossible beauty. He moved slowly. He paused at specific plants. He bent sometimes to touch a leaf. He did not look up at the camera. He never had.
 
 On another screen, Agent Kim's team showed the legal shroud Fairchild had built over fifty years: a web of shell corporations and offshore accounts so complex it was practically theoretical. Kim had been at his terminal for thirty of the previous forty-eight hours. There was a cot behind the server rack now. Kim had not used it. He had moved a second chair beside his and was sleeping in that instead, for reasons Maya had stopped asking about.
 
-"He's a ghost," Martinez said again, quieter, sinking into a chair. "For fifty years, he's been building a fortress of plausible deniability."
+Martinez sank into a chair, quieter now. "Fifty years. He's had fifty years to build a fortress of plausible deniability. And we've got a satellite feed of him touching leaves."
 
 "Every fortress has a flaw," Maya said, her voice a quiet counterpoint to the room's angry energy. "A human element. We just haven't found it yet."
 
-She retreated to a quiet corner of the room with Agent Kim and Mark Morrison, who had flown up from Boston on the evening of day one, refusing to be a voice on a screen any longer. Patricia Valdez had flown up with him. She was two floors down in the federal prosecutor's office, assembling the warrant framework in advance of a probable-cause break they did not yet have. Patricia had told Mark, when they landed, that his job for the next three days was to sit in a conference room and think about his brother. She had gotten him a chair. She had gotten him coffee. She had then walked away to work on the warrant.
+She retreated to a quiet corner of the room with Agent Kim and Mark Morrison, who had flown up from Boston on the evening of day one, refusing to be a voice on a screen any longer. Patricia Valdez had flown up with him. She was two floors down in the federal prosecutor's office, assembling the warrant framework in advance of a probable-cause break they did not yet have.
+
+Patricia had told Mark, when they landed, that his job for the next three days was to sit in a conference room and think about his brother. She had gotten him a chair. She had gotten him coffee. She had then walked away to work on the warrant.
 
 For two days, Maya and Kim and Mark sifted, not for legal loopholes, but for psychological ones.
 
 "He's not just a criminal; he's a grieving father," Maya said, her own words from her therapy session echoing in her mind. Her right index finger tapped once against the tabletop. "Grief isn't logical. It has rituals. It has patterns. We already have one."
 
-Kim pulled up the August 22 transaction log they had built out in the Ch16 ledger break. For the last two days he had been chasing where the grief-date money went. He had the answer now. He pointed at the screen. A single line of transfer metadata, repeated twenty-five times in identical form, one instance per year.
+Kim pulled up the August 22 transaction log they had built out the night he first cracked the Nightingale references. For the last two days he had been chasing where the grief-date money went. He had the answer now. He pointed at the screen. A single line of transfer metadata, repeated twenty-five times in identical form, one instance per year.
 
 "It goes to Zurich," he said. "A high-end, climate-controlled storage facility on the Limmatquai. Twenty-five years of annual payments. The work order on every invoice is for 'archival maintenance and preservation.'" He looked at Maya. "Something of value is sitting in that vault and Fairchild has been paying rent on it since his son died."
 
@@ -3353,7 +3483,9 @@ Mark stood up. His eyes were wet but he was not crying. He went.
 
 No one spoke for several seconds. The cursor on Kim's screen blinked against the paused transaction log.
 
-Patricia called at five o'clock. The judge had read the warrant. The judge had wanted ten minutes alone with the August-twenty-second email and the Zurich storage facility and the transfer log. The judge had taken twenty. The warrant was signed at six-fifteen. Search of the Wyoming primary residence to commence at dawn local. The Bureau had until ten the following morning to be on the ground.
+Patricia called at five o'clock. The judge had read the warrant. The judge had wanted ten minutes alone with the August-twenty-second email and the Zurich storage facility and the transfer log.
+
+The judge had taken twenty. The warrant was signed at six-fifteen. Search of the Wyoming primary residence to commence at dawn local. The Bureau had until ten the following morning to be on the ground.
 
 Martinez took the call standing up and set the phone down without saying anything for a moment.
 
@@ -3367,7 +3499,9 @@ Martinez took the call standing up and set the phone down without saying anythin
 
 Maya walked over to the evidence board and stood in front of it. She did not tap. She looked at the crime-scene photograph of the Integration Suite on Blackwood Island, and at the translated page from Dr. Richard's journal that she had read a dozen times.
 
-"He kept anchors," she said. "Richard's journal. After every session a personal object from each child went to Fairchild. A photograph. A toy. A piece of clothing. Richard called them physical anchors. Fairchild believed they would hold the child's essence for the preservation he believed was happening. The tech was never going to work. The ritual, to him, did."
+"He kept anchors," she said.
+
+"Richard's journal. After every session a personal object from each child went to Fairchild. A photograph. A toy. A piece of clothing. Richard called them physical anchors. Fairchild believed they would hold the child's essence for the preservation he believed was happening. The tech was never going to work. The ritual, to him, did."
 
 Martinez had come up beside her. "Then there's a room in that house with twenty-three objects in it."
 
@@ -3377,7 +3511,9 @@ Martinez had come up beside her. "Then there's a room in that house with twenty-
 
 "That is what we are walking into."
 
-On a side monitor, the standing surveillance feed of Fairchild's garden was cycling. The old man stopped beside a row of white roses and bent to touch one. His hand trembled faintly in the wind. He did not look up at the camera. The feed cycled; the timestamp rolled over. He straightened and walked on.
+On a side monitor, the standing surveillance feed of Fairchild's garden was cycling. The old man stopped beside a row of white roses and bent to touch one.
+
+His hand trembled faintly in the wind. He did not look up at the camera. The feed cycled; the timestamp rolled over. He straightened and walked on.
 
 ---
 
@@ -3385,7 +3521,9 @@ On a side monitor, the standing surveillance feed of Fairchild's garden was cycl
 
 The convoy moved through the Wyoming dawn like a line of trucks in mourning. Black SUVs against a sky the color of coal at its core, warming to a thin iron at the horizon. Inside the lead vehicle Maya sat with her gloved hands on her knees and watched the Teton Range grow closer on the windshield. She had slept three hours on the plane and she did not feel rested. She did not feel anything in particular, which was, Dr. Chen had warned her, what a body did when it was keeping itself upright for a job.
 
-"Our target is eighty-eight years old," Agent Martinez said into the shared comms. Her voice carried flat through all nine vehicles in the convoy. "We are not here to kill him. We are not here to scare him. He is frail and he is going to be frailer when we take him into custody. Our priority is the sub-level room. Ms. Chen will guide us once we are inside the house."
+"Our target is eighty-eight years old," Agent Martinez said into the shared comms. Her voice carried flat through all nine vehicles in the convoy.
+
+"We are not here to kill him. We are not here to scare him. He is frail and he is going to be frailer when we take him into custody. Our priority is the sub-level room. Ms. Chen will guide us once we are inside the house."
 
 "Understood," a dozen voices answered, overlapping.
 
@@ -3393,7 +3531,11 @@ The convoy moved through the Wyoming dawn like a line of trucks in mourning. Bla
 
 The access road narrowed. The estate came into view around a bend.
 
-It was not what Maya had expected. Her body had been braced for a glass-and-steel compound of the kind that turned up in prestige thrillers. What she got was a low, gray-shingled house built long into the hillside, two stories high where it faced the valley and single-story where the land rose behind it. A chimney of rough mountain stone. A plain slate roof. A stand of lodgepole pine on the uphill side that had been there longer than Fairchild had owned the property. The only sign of wealth was the paved road all the way to the door, and the long single-track driveway that forked half a mile back to a helipad Maya had read about in Kim's satellite report but could not see from here. The house itself was the house of a man who had chosen a quiet place to live alone with a grief he did not intend to share.
+It was not what Maya had expected. Her body had been braced for a glass-and-steel compound of the kind that turned up in prestige thrillers. What she got was a low, gray-shingled house built long into the hillside, two stories high where it faced the valley and single-story where the land rose behind it.
+
+A chimney of rough mountain stone. A plain slate roof. A stand of lodgepole pine on the uphill side that had been there longer than Fairchild had owned the property.
+
+The only sign of wealth was the paved road all the way to the door, and the long single-track driveway that forked half a mile back to a helipad Maya had read about in Kim's satellite report but could not see from here. The house itself was the house of a man who had chosen a quiet place to live alone with a grief he did not intend to share.
 
 "It's not a fortress," Maya said, to herself more than to Martinez.
 
@@ -3407,7 +3549,9 @@ It was not what Maya had expected. Her body had been braced for a glass-and-stee
 
 "Yes."
 
-The tactical teams moved with quiet efficiency. Power lines were cut at the junction box on the poles. A jammer went live in the rear SUV. Two agents walked up to the front door and did not knock. The door was unlocked. This was what Fairchild's lawyers had negotiated at five that morning. The unlocked door was, on its face, the old man's single concession. Everyone in the convoy understood that it was also a statement.
+The tactical teams moved with quiet efficiency. Power lines were cut at the junction box on the poles. A jammer went live in the rear SUV. Two agents walked up to the front door and did not knock. The door was unlocked.
+
+That was what Fairchild's lawyers had negotiated at five that morning. The unlocked door was, on its face, the old man's single concession. Everyone in the convoy understood that it was also a statement.
 
 They found Arthur Fairchild in a plain chair beside a cold fireplace in what would have been called a sitting room in a house with more staff. He was dressed in a charcoal wool robe over flannel pajamas and felt slippers. He was eighty-eight. His hair was pure white and thinning to the point of transparency. He had a book open on his lap, face-down, his thumb holding the page. The room was silent except for the tick of a long-case clock in a corner and the faint sigh of the wind against the slate roof.
 
@@ -3419,7 +3563,11 @@ He did not stand up.
 
 "Ms. Chen."
 
-Maya did not answer. Her eyes were moving across the room. A reading lamp. A side table with an unmarked mug on it. A shelf of books that were not arranged for display. A rug worn thin at the doorway where Fairchild had clearly walked across it ten thousand times to the kitchen. There was no artwork on the walls. There was no stereo. There was a framed black-and-white photograph on the mantel of a boy of about ten, gap-toothed, squinting at the sun. The boy was Thomas Fairchild. The photograph was the only thing in the room that had been placed by design rather than by habit.
+Maya did not answer. Her eyes were moving across the room. A reading lamp. A side table with an unmarked mug on it.
+
+A shelf of books that were not arranged for display. A rug worn thin at the doorway where Fairchild had clearly walked across it ten thousand times to the kitchen.
+
+There was no artwork on the walls. There was no stereo. There was a framed black-and-white photograph on the mantel of a boy of about ten, gap-toothed, squinting at the sun. The boy was Thomas Fairchild. The photograph was the only thing in the room that had been placed by design rather than by habit.
 
 "You didn't answer when Martinez spoke to you, Maya," Fairchild said, gently. "That is all right. I was not expecting a conversation. I was expecting a morning, and it has arrived."
 
@@ -3427,7 +3575,9 @@ Maya's voice, when she found it, was flatter than she meant it to be. "We are go
 
 Fairchild's eyebrows moved, the smallest motion. He did not correct the word.
 
-"The study," he said. "Behind the bookshelf on the north wall. The bookshelf pulls out if you lift the third shelf from the floor and rotate the brass lock inside it a quarter turn to the left. There is a staircase behind. Please don't damage the books. Some of them are not replaceable."
+"The study," he said.
+
+"Behind the bookshelf on the north wall. The bookshelf pulls out if you lift the third shelf from the floor and rotate the brass lock inside it a quarter turn to the left. There is a staircase behind. Please don't damage the books. Some of them are not replaceable."
 
 "Thank you."
 
@@ -3435,7 +3585,9 @@ Fairchild's eyebrows moved, the smallest motion. He did not correct the word.
 
 Martinez: "We're not agreeing to requests today, Mr. Fairchild."
 
-"Let me finish." His voice stayed level. "I would like my robe. If I am to be taken into federal custody today, I would like to be dressed in something warmer than this. It is a twenty-minute drive to the airport and the cars will be cold. My daughter gave me the robe I am wearing. If you can allow me to wear it under whatever jacket your officers provide, I will go with you without friction. That is the request."
+"Let me finish." His voice stayed level.
+
+"I would like my robe. If I am to be taken into federal custody today, I would like to be dressed in something warmer than this. It is a twenty-minute drive to the airport and the cars will be cold. My daughter gave me the robe I am wearing. If you can allow me to wear it under whatever jacket your officers provide, I will go with you without friction. That is the request."
 
 "Your daughter?"
 
@@ -3447,7 +3599,9 @@ Martinez looked at him. Maya looked at her. Martinez, after a second, nodded.
 
 "Yes ma'am."
 
-Maya was already moving. The study was down a short hallway. The bookshelf on the north wall was floor-to-ceiling and held what looked like forty years of science journals, leather-bound clinical volumes, a run of philosophy going back to Epictetus and forward to Simone Weil. The third shelf from the floor had a brass lock sunk into the wood where a reader would rest a finger. Maya knelt. She turned the lock a quarter turn to the left. The bookshelf came out of the wall on a quiet hinge, and behind it was a staircase of unfinished pine descending into dim warm light.
+Maya was already moving. The study was down a short hallway. The bookshelf on the north wall was floor-to-ceiling and held what looked like forty years of science journals, leather-bound clinical volumes, a run of philosophy going back to Epictetus and forward to Simone Weil.
+
+The third shelf from the floor had a brass lock sunk into the wood where a reader would rest a finger. Maya knelt. She turned the lock a quarter turn to the left. The bookshelf came out of the wall on a quiet hinge, and behind it was a staircase of unfinished pine descending into dim warm light.
 
 No elevator. No hydraulics. A stairwell in a rich man's mountain house.
 
@@ -3471,7 +3625,9 @@ There was no pod. There was no fluid. There was no mannequin. The boy the room w
 
 "Tell me what I'm looking at."
 
-"A father." Maya's voice was not even. She made it even. "Who carried his grief down into this room for thirty-two years and who decided, somewhere along the way, that his son should not be alone. The boxes are the anchors. Each contains a physical object from one of the children Dr. Richard took for him. The boxes have the names he gave them. Not the children's real names. The names he used when he thought of them."
+"A father." Maya's voice was not even. She made it even.
+
+"Who carried his grief down into that room for thirty-two years and who decided, somewhere along the way, that his son should not be alone. The boxes are the anchors. Each contains a physical object from one of the children Dr. Richard took for him. The boxes have the names he gave them. Not the children's real names. The names he used when he thought of them."
 
 "Specimens."
 
@@ -3479,7 +3635,9 @@ There was no pod. There was no fluid. There was no mannequin. The boy the room w
 
 She walked down the bench. The tactical team stayed at the foot of the stair, weapons now lowered. The forensics lead, a woman named Esperanza Ortiz who had come up on the middle of three planes from Washington, came down the stair with an evidence case and stopped beside Maya.
 
-"Agent Ortiz," Maya said. "I am going to read these aloud, with the names we have. I am not going to open the boxes. You are. In your own time. Please take photographs first. These are memorial objects. They have been held a lot. I would like us to hold them carefully."
+"Agent Ortiz," Maya said.
+
+"I am going to read these aloud, with the names we have. I am not going to open the boxes. You are. In your own time. Please take photographs first. These are memorial objects. They have been held a lot. I would like us to hold them carefully."
 
 "Understood."
 
@@ -3527,7 +3685,9 @@ Upstairs, when she and Martinez came back into the sitting room, Fairchild was s
 
 His eyes filled and stopped. He did not sob. He lifted his hand slightly from the arm of the chair and set it back down. That was all.
 
-"You may leave the room as you found it," he said, to Martinez, softly. "If your people can. The wooden train was his. He had it from the age of four. The shoes were his. The photograph was his mother's. That is all I ask."
+"You may leave the room as you found it," he said, to Martinez, softly.
+
+"If your people can. The wooden train was his. He had it from the age of four. The shoes were his. The photograph was his mother's. That is all I ask."
 
 "That is what we will do."
 
@@ -3657,9 +3817,11 @@ She did not move for a long time.
 
 *When she wakes, it is a week later and she is in her own bed in Columbia, South Carolina, and the wooden bird is on her nightstand. Her mother does not explain how it got there. Her father does not mention it. Maya, who was told she had a bad fever at the Blackwood Foundation and had to be sent home early, does not remember packing it. She does not remember Ethan. She does not remember Tommy. She does not remember a cathedral with a mermaid drawn in chalk on the wall.*
 
-*She does remember the bird is hers, the way children know a toy is theirs without being told. She puts it in the bottom drawer of her jewelry box, in the velvet slot meant for a ring, and she carries it with her from apartment to apartment for the next twenty-five years. A piece of driftwood she assumes she picked up on a beach somewhere, once, as a child.*
+*She does remember the bird is hers, the way children know a toy is theirs without being told. She puts it in the bottom drawer of her jewelry box, in the velvet slot meant for a ring, and there it stays. It travels with the jewelry box through every move of her life. Dorm room to first apartment to Boston to the place she rents now. She carries it for twenty-five years and never once asks herself where it came from, a piece of driftwood she assumes she picked up on some childhood beach.*
 
-*She never throws it away.*
+*She does not remember Ethan pressing it into her palm. She does not remember the word he made of it. The bird rides in her jewelry drawer through all of it, unexplained and unquestioned, the one true thing she keeps without knowing it is true. And when, at thirty-five, she begins to remember a cave and a boy and the shape of wings against her skin, her mother, who has known all along what the bird is, will finally say so. She will mail it north to Portland, to a grown woman who has started to remember, so that the bird can do at last what Ethan meant it to do.*
+
+*But that is a long way off. For now the bird only waits, and the child forgets, and the waves go on breaking against the hollow shore.*
 
 ---
 
@@ -3685,9 +3847,9 @@ Maya put her hand over her mouth. She did not cry. She breathed.
 
 After some minutes she said, out loud, to the empty hotel room: "She looked away."
 
-Her hand went to her jacket pocket. The small wooden bird Ethan had pressed into her palm twenty-five years ago had been in the evidence box for three weeks and she had been carrying it in her pocket for two days for reasons she had not examined. She took it out now and held it in her hand. The carved wings pressed into her skin. *Remember.*
+Her hand went to her jacket pocket. The small wooden bird Ethan had pressed into her palm twenty-five years ago had lived in the bottom drawer of her jewelry box for most of that time, carried apartment to apartment, a piece of driftwood she had always assumed she'd picked up on a beach as a child. When the memories began to surface, her mother had mailed it up to her without explanation, the way her mother did everything to do with the island. Maya had logged it into the evidence box three weeks ago and then, two days back, signed it out again and slipped it into her pocket for reasons she had not examined. She took it out now and held it in her hand. The carved wings pressed into her skin. *Remember.*
 
-She did not know how long she sat there. Twenty minutes. An hour. The afternoon light had moved across the carpet once when she became aware of it again. Her phone had gone from missed-call state to voicemail state to message state. Dr. Chen had called twice. Martinez had called three times. Park had sent a text. A new message from Patricia Valdez sat at the top of the stack. The bird was in her fist and the fist had printed the shape of the bird into her palm.
+She did not know how long she sat there. Twenty minutes. An hour. The afternoon light had moved across the carpet once when she became aware of it again. Her phone had gone from missed-call state to voicemail state to message state. Dr. Chen had called twice. Martinez had called three times. Park had sent a text. A new message from Patricia Valdez sat at the top of the stack. The bird was in her fist and the fist had printed the shape of the bird into her palm. She would have to log it back into evidence. She had signed it out two days ago and she had known even then she would end up holding it exactly like this.
 
 She stood up slowly. She put the bird on the dresser. She went into the bathroom and she ran cold water on her face until the water no longer felt cold. She dialed Dr. Chen.
 
@@ -3783,17 +3945,23 @@ The ghost had a name.
 
 In the sterile, climate-controlled air of the FBI's Portland field office, the name felt like an incantation, a word of power that shifted the very architecture of the investigation. *Ethan Renault.* The briefing room, which had for weeks been a chaotic collage of the Blackwood family's dark history and Arthur Fairchild's corporate monstrosity, had been wiped clean. Now, a single, grainy school photograph from 1998 occupied the main screen. A boy with serious eyes and a quiet, almost invisible presence stared out at them, a ghost resurrected in pixels.
 
-"Our primary objective has changed." Agent Sarah Martinez's voice cut through the low hum of servers and ventilation. She stood beside the screen, her posture radiating a renewed, focused energy. The exhaustion that had settled deep into the lines around her eyes during the Fairchild raid had been replaced by the sharp glint of a new hunt. "Dr. Richard Blackwood and Arthur Fairchild are in federal custody. The Collectors' Circle is being dismantled, piece by piece, by our international partners. But the architect of their downfall, the man who set this all in motion, is still in the wind. We find Ethan Renault."
+"Our primary objective has changed." Agent Sarah Martinez's voice cut through the low hum of servers and ventilation. She stood beside the screen, her posture radiating a renewed, focused energy. The exhaustion that had settled deep into the lines around her eyes during the Fairchild raid had been replaced by the sharp glint of a new hunt.
+
+"Dr. Richard Blackwood and Arthur Fairchild are in federal custody. The Collectors' Circle is being dismantled, piece by piece, by our international partners. But the architect of their downfall, the man who set this all in motion, is still in the wind. We find Ethan Renault."
 
 A murmur went through the assembled agents. It was a sound Maya recognized: the collective exhale of a team that had just summited a mountain, only to find a vast, unknown ocean stretching before them.
 
-Agent David Kim, ever the pragmatist, stepped forward to frame the challenge. He gestured to the screen, where the boy's photo was now flanked by empty data fields. "I've been running his name since we identified him twelve hours ago," he began, his tone flat and academic. "Ethan Renault, for all practical purposes, ceased to exist on August 14, 1998. That was the day his family left Blackwood Island. There is no Social Security activity. No driver's license issued in any state or province. No credit history. No property records. No social media presence under his own name or any of the five hundred most common aliases. He's been living under another name for twenty-five years."
+Agent David Kim, ever the pragmatist, stepped forward to frame the challenge. He gestured to the screen, where the boy's photo was now flanked by empty data fields. "I've been running his name since we identified him twelve hours ago," he began, his tone flat and academic.
 
-Kim clicked through a sequence of search queries on the main screen. Every result was empty. No passport. No driver's license. No arrest record. No marriage license. No death certificate. No employment tax filing. No bank account opened under his original name. No online presence, which was unusual for a 37-year-old in 2026 even if the name had changed. Kim had run him through the Bureau's five hundred most common aliases. He had run him through a dictionary attack on close-phonetic variants. He had run him through maritime records for Nova Scotia and the eastern seaboard on the theory that a boy raised by a shipping consultant might have gone to sea.
+"Ethan Renault, for all practical purposes, ceased to exist on August 14, 1998. That was the day his family left Blackwood Island. There is no Social Security activity. No driver's license issued in any state or province. No credit history. No property records. No social media presence under his own name or any of the five hundred most common aliases. He's been living under another name for twenty-five years."
+
+Kim clicked through his search queries. Passport, license, arrest record, tax filing: every field came back empty. He had run the name through the Bureau's alias sets and through maritime records for the eastern seaboard, on the theory that a boy raised by a shipping consultant might have gone to sea.
 
 Nothing.
 
-"We are not just looking for a man who is hiding," Kim said, pushing his glasses up his nose. "We are looking for a man whose entire adult life has been a careful exercise in not being found. We do not know what he looks like now, what he sounds like, or what continent he is on. Odds are he speaks another language. Odds are he has built a biography that withstands a background check. Odds are he has been prepared for this moment for a long time."
+"We are not just looking for a man who is hiding," Kim said, pushing his glasses up his nose.
+
+"We are looking for a man whose entire adult life has been a careful exercise in not being found. We do not know what he looks like now, what he sounds like, or what continent he is on. Odds are he speaks another language. Odds are he has built a biography that withstands a background check. Odds are he has been prepared for this moment for a long time."
 
 "Does he have a work visa anywhere," Martinez asked.
 
@@ -3809,19 +3977,29 @@ Maya had been standing at the edge of the room. She had the small carved wooden 
 
 "He's not hiding from us," she said. Every eye turned. "He's a survivor. And survivors don't move randomly. They move with purpose."
 
-She looked at Agent Kim. "You're looking for patterns of existence. You need to be looking for patterns of observation. He didn't just disappear. He went to ground and he started watching. He's been doing this for twenty-five years. He wouldn't have set me on this path without knowing he could guide the outcome."
+She looked at Agent Kim.
+
+"You're looking for patterns of existence. You need to be looking for patterns of observation. He didn't just disappear. He went to ground and he started watching. He's been doing this for twenty-five years. He wouldn't have set me on this path without knowing he could guide the outcome."
 
 "Meaning."
 
 "Meaning a man who hides while watching leaves different traces than a man who hides. Kim, forget the name. Forget the Social Security registry. Who in the last twenty-five years has been asking the right questions of the wrong people."
 
-Maya began to pace, the Southern underside of her voice surfacing the way it did when a case began to click. "Don't you see? He's been patient. A man with a long memory and a longer list. He's been building a case, same as we would, only quieter. So where would he look? Court records. Regulatory filings. Newspaper archives. Estate sales. He'd be asking for files under research pretexts, writing to small-town librarians, buying used books on shell companies at library sales. Look for a man who read a lot, traveled on foot or by bus, paid cash, and left paper trails instead of digital ones. He's a watcher, not a hacker."
+Maya began to pace, the Southern underside of her voice surfacing the way it did when a case began to click.
+
+"Don't you see? He's been patient. A man with a long memory and a longer list. He's been building a case, same as we would, only quieter. So where would he look? Court records. Regulatory filings. Newspaper archives. Estate sales. He'd be asking for files under research pretexts, writing to small-town librarians, buying used books on shell companies at library sales. Look for a man who read a lot, traveled on foot or by bus, paid cash, and left paper trails instead of digital ones. He's a watcher, not a hacker."
 
 She had their full attention now. Martinez was nodding slowly, a thoughtful expression on her face.
 
-Maya held up the bird. "And this… this isn't just a clue. It's a message. It's the first move in a conversation." She turned to the forensics expert in the corner. "What have we got on the bird itself?"
+Maya held up the bird. "And this… this isn't just a clue. It's a message. It's the first move in a conversation."
 
-The expert, a woman named Dr. Anya Sharma, pulled up her own findings. "The wood is a specific type of North Atlantic driftwood, consistent with the coastline of Maine and Nova Scotia. The carving style is distinctive. And the maker's mark, that small 'R'… we got a hit. It matches the mark used by the 'Renault Artisan Collective,' a small group of woodcarvers that was active in a little fishing village in Nova Scotia. They disbanded in the late nineties."
+Martinez frowned at the small carving in Maya's palm. "Walk me through the custody on that. Twenty-five years is a long time for a piece of driftwood to survive. If it's going into evidence, I need to know where it's been."
+
+"My mother kept it," Maya said. "After the island, she found it in my childhood things and she could not throw it out any more than I could. She slipped it into the bottom drawer of my jewelry box before I woke up in South Carolina, and I carried it from apartment to apartment for twenty-five years without knowing what it was. When I started recovering memories this spring, she mailed it up to me in Portland. I had it in my coat pocket two days before I understood why." She turned it once in her palm. "It went into the evidence box three weeks ago. I signed it back out to carry it. Everything's logged." She looked to the forensics expert in the corner. "What have we got on the bird itself?"
+
+The expert, a woman named Dr. Anya Sharma, pulled up her own findings.
+
+"The wood is a specific type of North Atlantic driftwood, consistent with the coastline of Maine and Nova Scotia. The carving style is distinctive. And the maker's mark, that small 'R'… we got a hit. It matches the mark used by the 'Renault Artisan Collective,' a small group of woodcarvers that was active in a little fishing village in Nova Scotia. They disbanded in the late nineties."
 
 The first concrete lead. A location. A place to start.
 
@@ -3843,7 +4021,9 @@ Nova Scotia in late autumn felt like the edge of the world. The wind that swept 
 
 Maya stood on a bluff overlooking a churning, slate-gray sea, the FBI-chartered SUV parked a respectful distance behind her. Agent Martinez was inside, finalizing their operational details with a stern-faced officer from the Royal Canadian Mounted Police. The air here was different from Blackwood Island, cleaner and colder, without the cloying scent of decay that had clung to the Blackwood estate. But the ocean was the same. It was the same vast, indifferent witness.
 
-Their first stop had been the community youth center in the tiny fishing village of Peggy’s Cove. The building was a testament to maritime resilience, hunkered down against the wind, its paint peeling in long, salty strips. The director, a woman with kind eyes and a healthy skepticism of American federal agents, remembered the donation from fifteen years ago. “Felt like a miracle at the time,” she’d said, her Canadian accent rounding the edges of her words. “Kept the lights on for a whole winter. But it was just a wire transfer. Anonymous. We never knew who to thank.”
+Their first stop had been the community youth center in the tiny fishing village of Peggy’s Cove. The building hunkered down against the wind, its paint peeling in long, salty strips. The director, a woman with kind eyes and a healthy skepticism of American federal agents, remembered the donation from fifteen years ago.
+
+“Felt like a miracle at the time,” she’d said, her Canadian accent rounding the edges of her words. “Kept the lights on for a whole winter. But it was just a wire transfer. Anonymous. We never knew who to thank.”
 
 It was a dead end, just as Kim had predicted. A confirmed link, but no human face to attach to it.
 
@@ -3851,7 +4031,9 @@ It was a dead end, just as Kim had predicted. A confirmed link, but no human fac
 
 “He needed to be invisible,” Maya said. “But he needed to learn. He needed a trade. Something quiet. Something with his hands.” She thought of the bird, the impossible detail in its tiny, carved feathers. “He needed to learn how to make things that could hold a memory.”
 
-That was the thread that led them to Silas. The RCMP liaison, a man named Corporal Dubois, had done his homework. The Renault Artisan Collective was long gone, scattered by time and tide, but one of its founding members was still alive. “Silas Renault,” Dubois had said. “He’s a bit of a hermit. Lives up the coast. Doesn’t much care for visitors.”
+That was the thread that led them to Silas. The RCMP liaison, a man named Corporal Dubois, had done his homework.
+
+The Renault Artisan Collective was long gone, scattered by time and tide, but one of its founding members was still alive. “Silas Renault,” Dubois had said. “He’s a bit of a hermit. Lives up the coast. Doesn’t much care for visitors.”
 
 Silas’s cabin was tucked into a cove, accessible only by a winding dirt track. It looked as if it had grown out of the rock, its driftwood walls and seaweed-thatched roof a part of the landscape itself. Smoke curled from a stone chimney, the only sign of life.
 
@@ -3869,17 +4051,25 @@ Maya saw the wall go up, thick and impenetrable. She held up a hand to Martinez,
 
 She opened her hand and showed him the small wooden bird.
 
-Silas’s stormy eyes fixed on it. He squinted, his head tilting. He put down his seal carving and reached out a calloused, trembling hand. He didn’t take the bird, but his finger traced its wing. “Well, I’ll be.” His voice had gone soft. “The boy’s work. Haven’t seen one of these in twenty years.”
+Silas’s stormy eyes fixed on it. He squinted, his head tilting. He put down his seal carving and reached out a calloused, trembling hand.
+
+He didn’t take the bird, but his finger traced its wing. “Well, I’ll be.” His voice had gone soft. “The boy’s work. Haven’t seen one of these in twenty years.”
 
 He looked at Maya then, truly looked at her, and the suspicion in his eyes was replaced by a deep, ancient sadness. “You’d best come inside,” he said.
 
-The cabin was one room, smelling of woodsmoke, salt, and turpentine. Silas settled into a rocking chair by the fire and began to talk. The boy, he said, had called himself Leo. He’d shown up one summer, a quiet, haunted-looking teenager, looking for work. He was a natural carver, his hands steady and precise, his focus absolute. “It was like he was carving his own ghosts out of the wood,” Silas said, his voice distant. “Putting the hurt into something beautiful so he could look at it. I understood that.”
+The cabin was one room, smelling of woodsmoke, salt, and turpentine. Silas settled into a rocking chair by the fire and began to talk. The boy, he said, had called himself Leo. He’d shown up one summer, a quiet, haunted-looking teenager, looking for work.
+
+He was a natural carver, his hands steady and precise, his focus absolute. “It was like he was carving his own ghosts out of the wood,” Silas said, his voice distant. “Putting the hurt into something beautiful so he could look at it. I understood that.”
 
 “Leo” had stayed for two years, saving every penny he made. He learned the trade, mastered the tools, and then, as quietly as he’d arrived, he’d left. “Said he had a promise to keep,” Silas recalled, his eyes on the fire. “Never said what it was. Never said where he was going.”
 
 Maya felt a thrill run through her, the thrill of a trail growing warm. “Was there anything else? Anything he was interested in?”
 
-Silas nodded slowly. “Funny thing. For a boy who worked with his hands, his head was always in books. Always reading. Legal journals. Corporate filings. Old newspapers he’d send away for. Said he wanted to understand how certain men built their lives. How those lives came apart.” He paused, thinking. “Had a post office box in the village. Used to get mail from universities. Records requests. Kept a little black ledger he never let anyone see.”
+Silas nodded slowly.
+
+“Funny thing. For a boy who worked with his hands, his head was always in books. Always reading. Legal journals. Corporate filings. Old newspapers he’d send away for. Said he wanted to understand how certain men built their lives. How those lives came apart.”
+
+He paused, thinking. “Had a post office box in the village. Used to get mail from universities. Records requests. Kept a little black ledger he never let anyone see.”
 
 Martinez, who had been listening from the doorway, gave a sharp, almost imperceptible nod to Dubois.
 
@@ -3887,11 +4077,17 @@ Martinez, who had been listening from the doorway, gave a sharp, almost impercep
 
 Silas set down his mug and stood up. “I have something you should see. It has been waiting too.”
 
-He led Maya out the back door of the cabin to a small outbuilding Maya had taken for a woodshed. It was not a woodshed. It was a workshop. Inside were two long benches, a pegboard of chisels and gouges hung in perfect order, a barrel of driftwood sorted by density, and a single piece of work on a wood stand in the middle of the room. A half-carved bird. Larger than the one in Maya's pocket. Of the same species.
+He led Maya out the back door of the cabin to a small outbuilding Maya had taken for a woodshed. It was not a woodshed. It was a workshop.
 
-“He came back,” Silas said. “Once. I did not mention it to your people inside because I was trying to decide if I was going to. He came back on a Tuesday in the summer of 2014. He was a man by then. Thirty years old. European clothes. An accent like nowhere. He did not say where he had been. He asked if he could use the shop for an afternoon. I let him. He worked on this for six hours. Did not finish it. Said he would come back and finish. Never did.”
+Inside were two long benches, a pegboard of chisels and gouges hung in perfect order, a barrel of driftwood sorted by density, and a single piece of work on a wood stand in the middle of the room. A half-carved bird. Larger than the one in Maya's pocket. Of the same species.
 
-Maya walked to the stand. The carving was rough in places where the final detail had not been cut. The head was there. One wing was there. The other wing was half a wing. A small *R* was already carved into the underside.
+“He came back,” Silas said.
+
+“Once. I did not mention it to your people inside because I was trying to decide if I was going to. He came back on a Tuesday in the summer of 2014. He was a man by then. Thirty years old. European clothes. An accent like nowhere. He did not say where he had been. He asked if he could use the shop for an afternoon. I let him. He worked on this for six hours. Did not finish it. Said he would come back and finish. Never did.”
+
+Maya walked to the stand. The carving was rough in places where the final detail had not been cut. The head was there.
+
+One wing was there. The other wing was half a wing. A small *R* was already carved into the underside.
 
 “He signed it before he finished it,” Maya said.
 
@@ -3947,7 +4143,9 @@ Toronto was a city of glass and steel, a place where a ghost could dissolve into
 
 Maya had spent the flight from Halifax reading a thesis. Kim had printed it off for her at the Ottawa connection, a spiral-bound three-hundred-page document from the University of Toronto Department of Computer Science, submitted in 2009 by a student named Leo Morin. *Audit Trails and Evidence Preservation in Long-Form Investigations.* The title was dull. The work was not. It read, once Maya was past the first chapter, like a methodology paper for exactly what she had just watched Agent Kim spend two and a half days doing in Portland: reconstructing a decades-old paper trail from a mix of primary documents, private investigator notes, and institutional archives, using techniques that worked backward from known endpoints to establish chains of custody for information that had never been formally filed.
 
-It was a beautifully constructed piece of work. It was also, once Maya saw what it was, a set of instructions. Ethan Renault had written, at the age of twenty-three, a handbook for the exact investigation that would finish Arthur Fairchild seventeen years later. He had written it publicly, for the record, and filed it in the one library in the world where nobody who mattered was going to read it. The Morrison family's private investigators should have been reading it in 2010. The FBI should have been reading it in 2015. They were reading it now.
+It was a beautifully constructed piece of work. It was also, once Maya saw what it was, a set of instructions. Ethan Renault had written, at the age of twenty-three, a handbook for the exact investigation that would finish Arthur Fairchild seventeen years later.
+
+He had written it publicly and filed it in the one library in the world where nobody who mattered was going to read it. The Morrison family's private investigators should have been reading it in 2010. The FBI should have been reading it in 2015. They were reading it now.
 
 Maya underlined a passage in the second chapter. *The longer an evidentiary trail has been allowed to sit, the more each document becomes load-bearing on three axes: the fact it asserts, the existence of the fact's recording, and the existence of someone who thought the fact worth recording. An investigator who loses any one of these will compromise the other two.*
 
@@ -3957,7 +4155,9 @@ She closed the thesis. She drank the bad airplane coffee. The plane began its de
 
 The University of Toronto's main library was a cathedral of knowledge, its hushed halls a stark contrast to the city outside. Agent Kim was in his element here, his fingers working across his laptop at the library's general-delivery desk. Maya sat two chairs down and waited. This was a different kind of hunt than Bar Harbor, one fought with archivists and form requests, and she was willing to wait at the pace the library moved.
 
-The university archivist, a woman with a passion for order that bordered on religious, had pulled the records. For four years, *Leo Morin* had received a steady stream of mail at the library's general-delivery window. She brought out a single acid-free box of the envelopes that had not been forwarded to a new address when the account closed in 2010. Most of the mail was technical journals, academic papers on cryptography, manuals for advanced electronics. But near the bottom of the box was a long brown envelope, unopened, postmarked September 14, 2004. The envelope was addressed in a handwriting Maya now knew.
+The university archivist, a woman with a passion for order that bordered on religious, had pulled the records. For four years, *Leo Morin* had received a steady stream of mail at the library's general-delivery window. She brought out a single acid-free box of the envelopes that had not been forwarded to a new address when the account closed in 2010.
+
+Most of the mail was technical journals, academic papers on cryptography, manuals for advanced electronics. But near the bottom of the box was a long brown envelope, unopened, postmarked September 14, 2004. The envelope was addressed in a handwriting Maya now knew.
 
 The return address was a law firm in Boston.
 
@@ -3987,15 +4187,25 @@ Maya signed the chain-of-custody form. She set the letter back inside its acid-f
 
 Their next stop was the office of Dr. Henry Finch, Leo's former thesis advisor. Finch vibrated with intellectual energy, his office a chaotic explosion of books and half-finished equations. He remembered Leo Morin instantly.
 
-"Ah, the one with the files," he said, rummaging through a stack of papers on his desk, apparently looking for something else entirely. "Quietest student I ever had. Most of them want to build things. Leo wanted to catalogue them. Spent his nights in the records room. Came in one morning with a box of court filings he'd driven four hours to copy by hand because the fax was broken. Have you seen my. Never mind." He pulled a folder from under a coffee mug, frowned at it, set it aside. "Where was I?"
+"Ah, the one with the files," he said, rummaging through a stack of papers on his desk, apparently looking for something else entirely.
+
+"Quietest student I ever had. Most of them want to build things. Leo wanted to catalogue them. Spent his nights in the records room. Came in one morning with a box of court filings he'd driven four hours to copy by hand because the fax was broken. Have you seen my. Never mind."
+
+He pulled a folder from under a coffee mug, frowned at it, set it aside. "Where was I?"
 
 "His thesis," Maya said.
 
-"Right. Right. Dull title. *Audit Trails and Evidence Preservation in Long-Form Investigations.* Methodical piece of work. Not flashy. I kept telling him to publish something sexier. He said he wasn't in a hurry. Said he had a project waiting for him." Finch opened a drawer, rifled through it, closed it. "You know what I remember? He thanked me for teaching him how to keep a proper index."
+"Right. Right. Dull title. *Audit Trails and Evidence Preservation in Long-Form Investigations.* Methodical piece of work. Not flashy. I kept telling him to publish something sexier. He said he wasn't in a hurry. Said he had a project waiting for him."
+
+Finch opened a drawer, rifled through it, closed it. "You know what I remember? He thanked me for teaching him how to keep a proper index."
 
 "Did he ever mention the project?"
 
-"Never. Not once. I asked him twice. He changed the subject both times. I did not press. You learn not to, in my line of work. Some students are running from something. You give them the skills and you do not ask what they are running from." Finch stopped rummaging. He looked at Maya straight-on for the first time. "Is he all right, Ms. Chen? The boy I knew. I have been following the news. I know what the Bureau is asking about. Is he alive?"
+"Never. Not once. I asked him twice. He changed the subject both times. I did not press. You learn not to, in my line of work. Some students are running from something. You give them the skills and you do not ask what they are running from."
+
+Finch stopped rummaging. He looked at Maya straight-on for the first time.
+
+"Is he all right, Ms. Chen? The boy I knew. I have been following the news. I know what the Bureau is asking about. Is he alive?"
 
 "He is alive, Professor Finch. I cannot tell you more than that. He is cooperating with a federal investigation. His work here contributed materially to the case."
 
@@ -4019,17 +4229,23 @@ The student records had given them an address, a nondescript walk-up in an older
 
 It was an archive.
 
-The walls of the main room were papered over with files. Maps pinned up in overlapping sheets. Newspaper clippings yellowing at the edges. Photocopies of property records, old incorporation filings, the glossy prints of private investigator photographs. Printed emails with their headers intact. Strings of red yarn ran between pushpins like the work of a patient country lawyer. It was all there, laid out in ink on paper: Fairchild's corporate empire, the Blackwood family's finances, the offshore accounts of the Nightingale Fund. And in a small, circled corner of a printed sheet tacked near the window, a name that made her blood run cold: *Maya Chen, Private Investigator, Boston, MA.*
+The walls of the main room were papered over with files. Maps pinned up in overlapping sheets. Newspaper clippings yellowing at the edges.
+
+Photocopies of property records, old incorporation filings, the glossy prints of private investigator photographs. Printed emails with their headers intact. Strings of red yarn ran between pushpins like the work of a patient country lawyer.
+
+It was all there, laid out in ink on paper: Fairchild's corporate empire, the Blackwood family's finances, the offshore accounts of the Nightingale Fund. And in a small, circled corner of a printed sheet tacked near the window, a name that made her blood run cold: *Maya Chen, Private Investigator, Boston, MA.*
 
 Maya's right index finger began to tap against her thigh.
 
 The room was the inside of Ethan's mind turned out and pinned to drywall. Legal pads filled with handwritten notes were stacked on a card table, each one labeled in the same tidy script: COURT FILINGS BWF 1999-2004. MORRISON FAMILY CORRESPONDENCE. NIGHTINGALE SHELLS. A four-drawer filing cabinet stood against the far wall, the drawers labeled by year. On the card table, a small black ledger lay open to a page of double-entry bookkeeping, every line cross-referenced to a document number.
 
-Maya moved slowly through the room. She took it one wall at a time. The east wall was the Blackwood family: Eleanor's shell companies, Dr. Richard's patient files, the Morrison lawsuit timeline. The north wall was Fairchild: the Nightingale Fund shells, the Swiss holding companies, the philanthropic foundations laid out in a flow chart that ended, at its root, in a single name printed in block capitals. The south wall was the international Circle: the names Maya had seen in the interrogation of Eleanor, a map of the world with pins in eleven countries, a folder for each pin labeled with dates of suspected activity. The west wall was the work Ethan had not finished. Empty notes. Question marks in red pencil. A single photograph of Danny Morrison at eight years old.
+Maya moved slowly through the room. She took it one wall at a time. The east wall was the Blackwood family: Eleanor's shell companies, Dr. Richard's patient files, the Morrison lawsuit timeline. The north wall was Fairchild: the Nightingale Fund shells, the Swiss holding companies, the philanthropic foundations laid out in a flow chart that ended, at its root, in a single name printed in block capitals.
+
+The south wall was the international Circle: the names Maya had seen in the interrogation of Eleanor, a map of the world with pins in eleven countries, a folder for each pin labeled with dates of suspected activity. The west wall was the work Ethan had not finished. Empty notes. Question marks in red pencil. A single photograph of Danny Morrison at eight years old.
 
 "He knew Danny was going to be taken," Martinez said, at her shoulder. "He had a photograph of Danny on this wall before Danny was taken."
 
-"He must have known Richard was planning it. He could not stop it from Switzerland. He could do the work that would finish Richard after."
+"He must have known Richard was planning it. He was buried inside Fairchild's empire in Geneva, an ocean away. He could not stop it. He could only do the work that would finish Richard after."
 
 "He could not stop it."
 
@@ -4039,9 +4255,13 @@ Martinez did not say anything for a long moment. Then: "That is going to go hard
 
 "He already knows. He put it in the sworn statement the Swiss prosecutor has."
 
-On the card table, Maya picked up the legal pad nearest to her. It was labeled in Ethan's script: MAYA CHEN HANDOFF. The first page of notes was dated March of the year before the current one. The handwriting was careful. Each entry was dated. Each entry had a document number. Maya read the first page, and the second, and the third.
+On the card table, Maya picked up the legal pad nearest to her. It was labeled in Ethan's script: MAYA CHEN HANDOFF. The first page of notes was dated March of the year before the current one.
 
-He had written out her agency's financial decline over eighteen months. He had written out the case history that had driven her off the Boston force. He had written out her mother's and father's addresses and the number of times she had called home in the past three years, cross-referenced against the dates of her own birthdays and her parents' anniversaries. He had written out her Columbia PD record. He had written out a transcript of a conversation she had had with a potential client in September, two days before the conversation had happened. The last detail stopped her.
+The handwriting was careful. Each entry was dated. Each entry had a document number. Maya read the first page, and the second, and the third.
+
+He had written out her agency's financial decline over eighteen months. He had written out the case history that had driven her off the Boston force. He had written out her mother's and father's addresses and the number of times she had called home in the past three years, cross-referenced against the dates of her own birthdays and her parents' anniversaries.
+
+He had written out her Columbia PD record. He had written out a transcript of a conversation she had had with a potential client in September, two days before the conversation had happened. The last detail stopped her.
 
 She read it three times. She set the pad down.
 
@@ -4065,7 +4285,9 @@ Kim came over. He read the transcript. He looked at her.
 
 "Adding."
 
-Maya sat down at the card table. Her hands were not shaking. She looked at the pad. *MAYA CHEN HANDOFF.* Beneath the first page, in the same careful script, a list of the eighteen actions Ethan had taken, between September and the October Maya had walked onto Blackwood Island, to arrive at the moment when Maya would open a forged commission letter and board a ferry to Bar Harbor. Every action was dated. Every action had a document number. The last line of the list read: *She accepted. The work is now hers.*
+Maya sat down at the card table. Her hands were not shaking. She looked at the pad. *MAYA CHEN HANDOFF.* Beneath the first page, in the same careful script, a list of the eighteen actions Ethan had taken, between September and the October Maya had walked onto Blackwood Island, to arrive at the moment when Maya would open a forged commission letter and board a ferry to Bar Harbor.
+
+Every action was dated. Every action had a document number. The last line of the list read: *She accepted. The work is now hers.*
 
 "He was not improvising," Maya said, quietly.
 
@@ -4085,7 +4307,7 @@ Tucked inside the black ledger, Maya found something that didn't belong. Not a f
 
 "An orchid," Maya said. "A very specific one."
 
-Kim was already running a search on his phone. His eyes widened. "Vanda Rothschildiana. A rare hybrid. Exclusively developed at one place in the world: the Rothschild Botanical Garden in Geneva, Switzerland." He paused, his eyes meeting Maya's. "A garden that has received significant funding from one of Arthur Fairchild's philanthropic foundations for the last thirty-two years."
+Kim was already running a search on his phone. His eyes widened. "Vanda Rothschildiana. A rare hybrid. Exclusively developed at one place in the world: the Rothschild Botanical Garden in Geneva." He paused, his eyes meeting Maya's. "A garden that has received significant funding from one of Arthur Fairchild's philanthropic foundations for the last thirty-two years."
 
 The final breadcrumb. The last piece of the trail. Ethan was not in Toronto. He was in Europe, at the center of the empire he had taken apart from the inside.
 
@@ -4307,13 +4529,19 @@ His voice went quieter.
 
 "What."
 
-"I am choosing to make a decision for them. Again. For a second time, after Fairchild made the first one. I am deciding what they do and do not get to know about what was done to them. And whatever I tell myself about protecting them, the honest version of that sentence is: I am protecting me. I am protecting my conscience. I am protecting my ability to say I freed them." His mouth went into something that was not quite a smile. "Which is a thing Fairchild used to say about what he was doing."
+"I am choosing to make a decision for them. Again. For a second time, after Fairchild made the first one. I am deciding what they do and do not get to know about what was done to them. And whatever I tell myself about protecting them, the honest version of that sentence is: I am protecting me. I am protecting my conscience. I am protecting my ability to say I freed them."
+
+His mouth went into something that was not quite a smile. "Which is a thing Fairchild used to say about what he was doing."
 
 Maya tapped her index finger once against the edge of the oak table.
 
 "The argument against burning."
 
-"The argument against burning is theirs. The children own their pasts. If we burn these files, we have stolen their pasts a second time. The first time was Dr. Richard. The second time was us. They may never want to know what is in these folders. But they deserve the right to want to." He looked at the packet. "A clean slate is a lie. You and I both know what a clean slate looks like. You lived inside a clean slate for twenty-five years. It did not heal you. It made you a ghost to yourself. You told me that in a letter you did not know you were writing, the day you walked into the Morrisons' commission. I have read your old therapy records, Maya. I read them the year Dr. Richard was writing them. I know the shape of the clean slate. It is not a mercy."
+"The argument against burning is theirs. The children own their pasts. If we burn these files, we have stolen their pasts a second time. The first time was Dr. Richard. The second time was us. They may never want to know what is in these folders. But they deserve the right to want to."
+
+He looked at the packet.
+
+"A clean slate is a lie. You and I both know what a clean slate looks like. You lived inside a clean slate for twenty-five years. It did not heal you. It made you a ghost to yourself. You told me that in a letter you did not know you were writing, the day you walked into the Morrisons' commission. I have read your old therapy records, Maya. I read them the year Dr. Richard was writing them. I know the shape of the clean slate. It is not a mercy."
 
 "I drove five years wearing the clean slate. You are right."
 
@@ -4333,7 +4561,11 @@ Ethan's face changed. It did not crack. It loosened, the way earth loosens when 
 
 "Tell me."
 
-"He taught me to skip stones. My first week on the island. My grandmother's family were Rouville fishermen, not stone-skippers. He said the secret was finding the flat ones. He made me practice until I got one to bounce three times." Ethan's voice did not change register, but it slowed. "He was ten. He was ten years old when he died. He gave my sandwich from his own lunchbox on the first ferry, because my mother had packed me something I could not eat. He told me he did not like cheese anyway. That was a lie. He liked cheese."
+"He taught me to skip stones. My first week on the island. My grandmother's family were Rouville fishermen, not stone-skippers. He said the secret was finding the flat ones. He made me practice until I got one to bounce three times."
+
+Ethan's voice did not change register, but it slowed.
+
+"He was ten. He was ten years old when he died. He gave my sandwich from his own lunchbox on the first ferry, because my mother had packed me something I could not eat. He told me he did not like cheese anyway. That was a lie. He liked cheese."
 
 "He swapped with me on my first ferry too," Maya said. "She'd packed me some whole-wheat monstrosity. He saw the look on my face and swapped without asking."
 
@@ -4363,7 +4595,7 @@ Ethan closed his eyes for a second. When he opened them, he nodded.
 
 "The prosecution will fight you."
 
-"The prosecution will fight me and I will win, because the alternative is that the FBI confiscates the files and leaks half of them through civil discovery inside eighteen months, and I will tell them that on the record. These files come with me under attorney-client seal until the trust is established. Patricia Valdez has been waiting for a case like this her whole career. She will set it up."
+"The prosecution will fight me and I will win, because the alternative is that the FBI confiscates the files and leaks half of them through civil discovery inside eighteen months, and I will tell them so directly. These files come with me under attorney-client seal until the trust is established. Patricia Valdez has been waiting for a case like this her whole career. She will set it up."
 
 Ethan looked at her for a long moment.
 
@@ -4383,7 +4615,9 @@ The archive was quiet. In the Orchid Room behind the service door a single bell-
 
 Ethan walked to the table in the middle of the room. On the oak surface sat a single hard-sided briefcase, plain, the kind a lawyer carries to depositions. He snapped the clasps. Opened it.
 
-"This is the spine," he said. "Financials. Membership. Wyoming guest lists. The ritual calendars. A sworn statement from me, attested, notarized in a jurisdiction that will hold up. It is all here in certified copies. Originals are in a bank vault in Zurich with instructions to release to the Justice Department on confirmation of my cooperation. The key is clipped inside the lid. The custody-of-medical-records trust I can help you set up in the morning."
+"This is the spine," he said.
+
+"Financials. Membership. Wyoming guest lists. The ritual calendars. A sworn statement from me, attested, notarized in a jurisdiction that will hold up. It is all here in certified copies. Originals are in a bank vault in Zurich with instructions to release to the Justice Department on confirmation of my cooperation. The key is clipped inside the lid. The custody-of-medical-records trust I can help you set up in the morning."
 
 "You are turning yourself in."
 
@@ -4417,7 +4651,9 @@ He looked at her. Whatever had settled behind his eyes stayed.
 
 Then he opened the service door and walked back into the Orchid Room, and Maya came out behind him with the briefcase in her left hand and her right hand open at her side, and Martinez fell in with them.
 
-The Swiss tactical team came through the main door in the same moment. Eight men in black, their flashlights cutting long lines through the humid air. The commander's French was precise and low. Ethan did not move except to put his hands slowly at the back of his head. He did not say anything. He did not resist. Two commandos crossed the room and took him by the elbows and walked him past Maya toward the door without looking at her.
+The Swiss tactical team came through the main door in the same moment. Eight men in black, their flashlights cutting long lines through the humid air. The commander's French was precise and low.
+
+Ethan did not move except to put his hands slowly at the back of his head. He did not say anything. He did not resist. Two commandos crossed the room and took him by the elbows and walked him past Maya toward the door without looking at her.
 
 Maya stood in the center of the Orchid Room with the briefcase against her shin, and her finger tapping once against the handle, and the orchid scent pressing at her throat, and she did not move until Martinez had her elbow.
 
@@ -4431,7 +4667,7 @@ They walked out together into the cold white Swiss corridor. Maya did not look b
 
 # Chapter 29: The Ghost's Gambit
 
-The safe house the Swiss gave them sat three floors above the Rhône and had a window that did not open. Maya set the briefcase on the low table beside the window and did not let go of it. The Geneva federal prosecutor's courier would arrive in fourteen minutes, and she was not taking her hand off the briefcase before that.
+The safe house the Swiss gave them sat three floors above the Rhône and had a window that did not open. Maya set the briefcase Ethan had handed her at the door on the low table beside the window and did not let go of it. The Geneva federal prosecutor's courier would arrive in fourteen minutes, and she was not taking her hand off the briefcase before that.
 
 "Kim."
 
@@ -4447,7 +4683,7 @@ The laptop was silent for a second.
 
 "If this is clean paper, that is the prosecution of the decade."
 
-"It is clean paper. Kim, listen. Start warmin' up a task force. We are going to lose the window if the Circle's people hear about the arrest before the indictments are sealed. They will move money. They will move themselves. They will move children if any are still moving, and there might be. You have four hours. Six at the outside."
+"It's clean, Kim. Listen. Start warmin' up a task force. We are going to lose the window if the Circle's people hear about the arrest before the indictments are sealed. They will move money. They will move themselves. They will move children if any are still moving, and there might be. You have four hours. Six at the outside."
 
 "Martinez is three steps ahead of you. She's been on the phone to Washington since we got off the Swiss perimeter. They've already got the task force spun up. Treasury is lining up asset seizures in eleven jurisdictions. Interpol is prepositioning. Europol is prepositioning. We were waiting on confirmation that the evidence existed, which apparently now you are, plus a physical briefcase."
 
@@ -4463,7 +4699,9 @@ She heard him type something. She heard him stop. She heard him type again.
 
 Maya watched the Rhône through the sealed window. The water looked mercury-colored under the streetlights.
 
-The doorbell of the safe house rang at 22:56. The Swiss federal prosecutor's courier and the U.S. Special Agent in Charge for this case stood in the hallway with two more armed men behind them. Martinez watched Maya's face for one second and then opened the door. The SAC signed for the briefcase in triplicate. The Swiss prosecutor signed his side. A chain-of-custody form got stapled to the evidence tag. The briefcase left the room. It was in the prosecutor's car at 23:02, and in a diplomatic-status pouch at Geneva Airport's secure cargo area at 23:34, and on a U.S. government plane by 00:15.
+The doorbell of the safe house rang at 22:56. The Swiss federal prosecutor's courier and the U.S. Special Agent in Charge for this case stood in the hallway with two more armed men behind them. Martinez watched Maya's face for one second and then opened the door. The SAC signed for the briefcase in triplicate.
+
+The Swiss prosecutor signed his side. A chain-of-custody form got stapled to the evidence tag. The briefcase left the room. It was in the prosecutor's car at 23:02, and in a diplomatic-status pouch at Geneva Airport's secure cargo area at 23:34, and on a U.S. government plane by 00:15.
 
 Maya made herself stop looking at her watch.
 
@@ -4489,17 +4727,31 @@ Not a second copy of the sworn statement. That was on the plane. This was someth
 >
 > *The statement the prosecutor is reading right now will tell them what I did. This will tell you why.*
 >
-> *I was twelve the night Dr. Richard shot Tommy. You were eight. When I woke in a Halifax children's home four months later with a new last name, I understood that someone had decided the shape of my life. It took me a year to remember Tommy's face. By then I had been told my family was dead and I had no proof to contradict it.*
+> *I was twelve the night Dr. Richard shot Tommy. You were eight. When I woke in a Halifax children's home four months later with a new last name, I understood that someone had decided the shape of my life.
+
+It took me a year to remember Tommy's face. By then I had been told my family was dead and I had no proof to contradict it.*
 >
-> *Fairchild's scouts found me at thirteen. He flew me to Lake Geneva and sat me in a conservatory of orchids and told me I had a gift. He said children in his care sometimes had bad dreams about things that had not happened, and that if the dreams became unbearable he had people who could help. I understood the threat. I smiled and said I had no dreams.*
+> *Fairchild's scouts found me at thirteen. He flew me to Lake Geneva and sat me in a conservatory of orchids and told me I had a gift.
+
+He said children in his care sometimes had bad dreams about things that had not happened, and that if the dreams became unbearable he had people who could help. I understood the threat. I smiled and said I had no dreams.*
 >
-> *I made a decision that night. Stay alive inside his house. Learn everything he was. Build a record somewhere he would not look. Wait for someone who could finish what I started. I did not know who. I only knew I had pressed a wooden bird into the palm of a girl named Maya Chen, and that if she remembered, someday, she would know.*
+> *I made a decision that night. Stay alive inside his house. Learn everything he was.
+
+Build a record somewhere he would not look. Wait for someone who could finish what I started. I did not know who. I only knew I had pressed a wooden bird into the palm of a girl named Maya Chen, and that if she remembered, someday, she would know.*
 >
-> *Sarah started remembering six weeks before he killed her. I tried to warn Dr. Torres indirectly, through a fabricated client referral. The letter reached her two days late. Sarah drowned on a Tuesday. I sat in this chair the night I heard and decided it was time.*
+> *Sarah started remembering six weeks before he killed her.
+
+I tried to warn Dr. Torres indirectly, through a fabricated client referral. The letter reached her two days late. Sarah drowned on a Tuesday. I sat in this chair the night I heard and decided it was time.*
 >
-> *The Morrisons were the natural vehicle. Your name was in Dr. Webb's file, which I had read the year I was seventeen. I did not forge Eleanor's stationery myself. I routed it through a man at Fairchild's Boston foundation who owed me favors for reasons I would rather not put on paper. He thought he was performing a routine administrative cleanup for a grieving family. In a sense he was.*
+> *The Morrisons were the natural vehicle.
+
+Your name was in Dr. Webb's file, which I had read the year I was seventeen. I did not forge Eleanor's stationery myself. I routed it through a man at Fairchild's Boston foundation who owed me favors for reasons I would rather not put on paper.
+
+He thought he was performing a routine administrative cleanup for a grieving family. In a sense he was.*
 >
-> *The fifty thousand dollars was the minimum I could get you to take the case. I apologize for that specifically. I did not want to put you in a corner with money. I did it because your agency was failing and you were not going to come otherwise. The fifty thousand was from my own account.*
+> *The fifty thousand dollars was the minimum I could get you to take the case. I apologize for that specifically. I did not want to put you in a corner with money.
+
+I did it because your agency was failing and you were not going to come otherwise. The fifty thousand was from my own account.*
 >
 > *You were the only person I could have asked to finish this. I know that is a heavy thing to say after the fact.*
 >
@@ -4515,7 +4767,9 @@ Kim fed the feeds from Portland. Maya and Martinez sat in a borrowed conference 
 
 London. A townhouse on Eaton Square. Two plainclothes officers walking up to the front door with a search warrant while armed teams came over the back garden wall. The door opening. A man in a silk bathrobe. Handcuffs.
 
-Bucharest. The house of Mr. Alistair. The same house that had been on Eleanor Blackwood's hand-drawn map from the interrogation three weeks ago. Romanian special police coming through the gate. A man in his sixties opening the door in pajamas. A smaller man beside him reaching for something inside the front hall closet. One of the Romanian officers moving faster than him. No shot fired. Both in custody.
+Bucharest. The house of Mr. Alistair. The same house that had been on Eleanor Blackwood's hand-drawn map from the interrogation three weeks ago. Romanian special police coming through the gate.
+
+A man in his sixties opening the door in pajamas. A smaller man beside him reaching for something inside the front hall closet. One of the Romanian officers moving faster than him. No shot fired. Both in custody.
 
 Grand Cayman. A small office park. A lawyer's office with the name MCLELLAN & PARTNERS on the door. Two Cayman officers and an American forensic accountant walking in with a warrant and a truck. The lawyer protesting in a hallway. Files already going into boxes.
 
@@ -4543,7 +4797,9 @@ At the end of the first wave, Martinez stood up and stretched her back and said,
 
 It was the first time Maya had used her first name. Martinez did not mention it. She went to get a sandwich.
 
-Maya sat alone in the conference room with the Portland feed on the laptop beside her. Kim had muted his mic. He was watching the same monitors she was, from ten thousand kilometers away, a small digital shield. She could see his coffee cup on the edge of his desk. She could see his reflection in his screen. She could see him push his glasses up his nose.
+Maya sat alone in the conference room with the Portland feed on the laptop beside her. Kim had muted his mic. He was watching the same monitors she was, from ten thousand kilometers away, a small digital shield.
+
+She could see his coffee cup on the edge of his desk. She could see his reflection in his screen. She could see him push his glasses up his nose.
 
 Her phone buzzed.
 
@@ -4561,7 +4817,9 @@ Inside: a single folded sheet of archival paper. Six lines of ink.
 
 > *Maya,*
 > *You chose right. Thank you for letting them have their names back when they want them.*
-> *I meant everything I said tonight. I will keep my end. Twelve years. I will not run.*
+> *I meant everything I said tonight. I will keep my end. Twelve years.
+
+I will not run.*
 > *Tell Emma Washington her mermaid on the Cathedral wall was still there when I went back last year. I made sure nobody painted over it. She may want to see it someday.*
 > *Ethan*
 
@@ -4615,13 +4873,17 @@ She just let it rest there.
 
 Maya came home from Geneva in February.
 
-The depositions had kept her in Switzerland for six weeks. Ethan's plea had gone through on the last day of December, witnessed by a federal prosecutor and the Geneva courts, and Maya had spent the following weeks giving statements to four different national investigative bodies and watching the Collectors' Circle unravel in real time on the European news. By the time her plane landed at Logan she had been away from Boston for fifty-three days and her apartment smelled like the inside of somebody's grandmother's closet. She stood in the middle of the living room with her coat still on and she smelled the dust and the cold radiator and the faint chemical edge of whatever the cleaning service had used eight weeks ago, and she stood there for a long minute before she took the coat off.
+The depositions had kept her in Switzerland for six weeks. Ethan's plea had gone through on the last day of December, witnessed by a federal prosecutor and the Geneva courts, and Maya had spent the following weeks giving statements to four different national investigative bodies and watching the Collectors' Circle unravel in real time on the European news. By the time her plane landed at Logan she had been away from Boston for fifty-three days and her apartment smelled like the inside of somebody's grandmother's closet. She stood in the middle of the living room with her coat still on and she smelled the dust and the cold radiator and the faint chemical edge of whatever the cleaning service had used eight weeks ago, and she stood there until the radiator ticked before she took the coat off.
 
 The city was gray. The Charles was frozen solid from Watertown to the Museum of Science. She slept for fourteen hours on her first night home, woke at three in the afternoon, ate a bowl of instant oatmeal because her refrigerator was empty, and sat on the couch in a blanket watching the light fade without turning on any lamps. Her phone had two hundred and forty-one unread messages. She did not look at them.
 
-On day two she finally opened the box she had shipped ahead from Geneva. Inside it were the personal effects the prosecutor had released once the chain-of-custody evidence had been duplicated. The half-finished bird from Silas's Nova Scotia workshop, still heavy in the unfinished wing, was wrapped in a sock. Sarah's second sketchbook, the one James had given her at the Augusta safe house, was wrapped in a sweater. The sweater had belonged to her mother and had been sent up from Columbia in the fall and Maya had not yet unwrapped it since. She set the sketchbook on the dining room table and the half-bird on the bookshelf above the couch and the sweater she put on.
+On day two she finally opened the box she had shipped ahead from Geneva. Inside it were the personal effects the prosecutor had released once the chain-of-custody evidence had been duplicated. The half-finished bird from Silas's Nova Scotia workshop, still heavy in the unfinished wing, was wrapped in a sock. The original, the one Ethan had pressed into her hand at eight and that she had carried unknowing through a dozen apartments, was in federal evidence in Switzerland now.
 
-She read the sketchbook for the third time that night. The comma-birthmark entry was still there. Sarah had written down a dozen other specifics from the summer Maya had lost. The way Maya had pronounced *banana*. The song about the crab. A blue glass marble Maya had kept in her sock. Maya took off her right shoe. There was no marble in her sock now, but she remembered it in the shape of a thing her eight-year-old fingers had pressed through cotton.
+Sarah's second sketchbook, the one James had given her at the Augusta safe house, was wrapped in a sweater. The sweater had belonged to her mother and had been sent up from Columbia in the fall and Maya had not yet unwrapped it since. She set the sketchbook on the dining room table and the half-bird on the bookshelf above the couch and the sweater she put on.
+
+She read the sketchbook for the third time that night. The comma-birthmark entry was still there. Sarah had written down a dozen other specifics from the summer Maya had lost. The way Maya had pronounced *banana*.
+
+The song about the crab. A blue glass marble Maya had kept in her sock. Maya took off her right shoe. There was no marble in her sock now, but she remembered it in the shape of a thing her eight-year-old fingers had pressed through cotton.
 
 She did one more thing before she slept. She wrote a letter to Ethan's prosecutor, sealed and personal, requesting that Silas Renault's folded note be delivered through the federal-corrections channel for unread-by-prosecutor personal correspondence. The prosecutor had already established that channel at Maya's request the week before. Silas had written three lines in October. Ethan was owed them.
 
@@ -4629,7 +4891,9 @@ On day three she drove to Vermont.
 
 ---
 
-Michael Hendricks had moved into a small rental house outside Burlington with Carol and Robert four weeks into his transitional program. He needed his own door. He had explained this to Carol, quietly, and Carol had found the house within a day. The house was a single-story ranch on a quiet street, two blocks from the rental where Carol and Robert had been living since they sold the big house in 2009. Michael's room was the first room off the hallway. It had a twin bed and a desk and a small fish tank with two live goldfish in it, which Michael had wanted, and a bookshelf half-filled with Hardy Boys paperbacks that Carol had replaced one by one as Michael worked through them. He was on number fourteen.
+Michael Hendricks had moved into a small rental house outside Burlington with Carol and Robert four weeks into his transitional program. He needed his own door. He had explained this to Carol, quietly, and Carol had found the house within a day. The house was a single-story ranch on a quiet street, two blocks from the rental where Carol and Robert had been living since they sold the big house in 2009.
+
+Michael's room was the first room off the hallway. It had a twin bed and a desk and a small fish tank with two live goldfish in it, which Michael had wanted, and a bookshelf half-filled with Hardy Boys paperbacks that Carol had replaced one by one as Michael worked through them. He was on number fourteen.
 
 "Ms. Chen."
 
@@ -4649,7 +4913,9 @@ Michael asked her about Danny Morrison. Maya told him. He asked about Emma Washi
 
 Then he said, "Would you hum the song for me. The one Dr. Chen played me before I left the hospital. I have been trying to remember the second verse."
 
-Maya hummed. Her voice was not good. Michael hummed with her on the second verse. He did not know all the words. Carol came into the kitchen doorway and stayed there, leaning against the frame, and she did not cry. Her eyes got wet but she did not cry. Michael got to the end of the second verse, and hummed a third verse Maya had not heard before, and stopped.
+Maya hummed. Her voice was not good. Michael hummed with her on the second verse. He did not know all the words. Carol came into the kitchen doorway and stayed there, leaning against the frame, and she did not cry.
+
+Her eyes got wet but she did not cry. Michael got to the end of the second verse, and hummed a third verse Maya had not heard before, and stopped.
 
 "I remember it ended," Michael said. "There was a third verse. About the crab coming home."
 
@@ -4703,11 +4969,15 @@ Maya took home an entire hammerhead. She ate it over four days in her Boston apa
 
 ---
 
-Emma Washington's first painting class was on a Saturday in April at the Children of the Hollow Shore Trust building, which was still unfinished and which would not be officially open until August. The Trust had rented a conference space on the mainland while the mansion was being converted. Emma was fifteen now. The class was five kids, ages six to nine, all either survivors or siblings of survivors. Emma had asked if she could teach.
+Emma Washington's first painting class was on a Saturday in April at the Children of the Hollow Shore Trust building, which was still unfinished and which would not be officially open until August. The Trust had rented a conference space on the mainland while the mansion was being converted. Emma was nineteen now. The class was five kids, ages six to nine, all either survivors or siblings of survivors. Emma had asked if she could teach.
 
-Maya watched from the back of the room. The Trust's director, a woman named Diane Park who was no relation to Detective Lisa Park, had invited her. Maya sat on a plastic chair and watched Emma move around the room, kneeling beside each child's easel, showing them how to hold the brush so the bristles did not bend the wrong way. Emma's voice was steadier than it had been in the hospital hallway. Her hair was longer. She wore a blue hoodie that said *Hollow Shore Art Fair 2027*, which was a thing that did not yet exist but which the Trust had printed as aspirational sweatshirts for the pilot program.
+Maya watched from the back of the room. The Trust's director, a woman named Diane Park who was no relation to Detective Lisa Park, had invited her. Maya sat on a plastic chair and watched Emma move around the room, kneeling beside each child's easel, showing them how to hold the brush so the bristles did not bend the wrong way.
 
-One of the six-year-olds, a girl named Mia, could not get the water on her brush to behave. She was holding the brush too tight. Emma sat beside her on the floor and took the brush and did it slowly, her wrist loose, and handed the brush back. Mia tried again. Mia got the water on the brush to behave. Mia looked at Emma with the specific gratitude of a six-year-old who had just learned that a problem had a solution. Emma smiled at her, small and private. It was not a smile for the adults in the room.
+Emma's voice was steadier than it had been in the hospital hallway. Her hair was longer. She wore a blue hoodie that said *Hollow Shore Art Fair 2027*, which was a thing that did not yet exist but which the Trust had printed as aspirational sweatshirts for the pilot program.
+
+One of the six-year-olds, a girl named Mia, could not get the water on her brush to behave. She was holding the brush too tight. Emma sat beside her on the floor and took the brush and did it slowly, her wrist loose, and handed the brush back.
+
+Mia tried again. Mia got the water on the brush to behave. Mia looked at Emma with the specific gratitude of a six-year-old who had just learned that a problem had a solution. Emma smiled at her, small and private. It was not a smile for the adults in the room.
 
 Maya stayed at the back for the whole ninety minutes and did not move.
 
@@ -4747,9 +5017,11 @@ She did not say it out loud. She did not put it in a diary. It was not a promise
 
 She went back to the island in May.
 
-The ferry still ran on Tuesdays. Captain Murphy still ran the morning crossing. The mansion was covered in scaffolding. Workmen were stripping the old black paint back to bare clapboard, which would be primed and repainted a soft blue-gray. The grounds were being cleared of fifty years of accumulated underbrush. A new gravel drive was being laid along the path from the dock. Where the old boathouse had been, a small reception building was going up, its framing already complete.
+The ferry still ran on Tuesdays. Captain Murphy still ran the morning crossing. The mansion was covered in scaffolding. Workmen were stripping the old black paint back to bare clapboard, which would be primed and repainted a soft blue-gray.
 
-Margaret Swift met her at the dock in a blue canvas jacket with a small sea-bird logo on the pocket. She had taken the Trust's caretaker job on her own request. The board had offered her a pension and an exit. She had declined.
+The grounds were being cleared of fifty years of accumulated underbrush. A new gravel drive was being laid along the path from the dock. Where the old boathouse had been, a small reception building was going up, its framing already complete.
+
+Margaret Swift met her at the dock in a blue canvas jacket with a small sea-bird logo on the pocket. She had taken the Trust's caretaker job, and she was not going anywhere.
 
 "Ms. Chen."
 
@@ -4781,7 +5053,9 @@ Margaret sat down beside her.
 
 "Good."
 
-They went into the house. The portraits were down. The hallway was empty except for a folding chair where the conservator had been sitting. Maya walked the length of the grand entrance hall, and she did not feel what she had braced herself to feel, which was dread. She felt the house was empty. The house was empty. The ghosts of the family had gone out of it with the portraits, and the house was quiet the way a room is quiet after a long argument.
+They went into the house. The portraits were down. The hallway was empty except for a folding chair where the conservator had been sitting. Maya walked the length of the grand entrance hall, and she did not feel what she had braced herself to feel, which was dread.
+
+She felt the house was empty. The house was empty. The ghosts of the family had gone out of it with the portraits, and the house was quiet the way a room is quiet after a long argument.
 
 Margaret waited at the door.
 
@@ -4801,7 +5075,7 @@ Maya walked out of the hall and up the path to the Cathedral. The workman's path
 
 Sarah's mermaid was still there. The chalk crown. The small girl beside the mermaid with the round crown. An M and an S in chalk. A fierce line drawn between them. A string. A thing connecting the two.
 
-Maya stood in front of the drawing and she read the names she had written in her own eight-year-old hand and she did not cry. She had done her crying in a Geneva safe house in October. She stood there for a long time and then she turned and walked back out into the sun.
+Maya stood in front of the drawing and she read the names she had written in her own eight-year-old hand and she did not cry. She had done her crying in a Geneva safe house in October. She stood there until her legs went stiff and then she turned and walked back out into the sun.
 
 Captain Murphy was sitting on the Tommy Morrison bench when she came back down the path.
 
@@ -4823,7 +5097,7 @@ They walked. Neither of them spoke for the first two minutes. Maya's right index
 
 "You knew."
 
-"I knew the shape of it. I did not know the specifics. I carried that for forty-one years. I did not tell because a man named my grandfather knew and did not tell, and because the family had three generations of lawyers and I was not going to go up against three generations of lawyers with a set of suspicions. I am not proud of that. I am telling you because I am eighty-two years old and I am going to be dead in two or three years and the only thing I owe the world before I go is honest words about the shape of what I kept quiet about."
+"I knew enough. I did not know the specifics. I carried that for forty-one years. I did not tell because a man named my grandfather knew and did not tell, and because the family had three generations of lawyers and I was not going to go up against three generations of lawyers with a set of suspicions. I am not proud of that. I am telling you because I am eighty-two years old and I am going to be dead in two or three years and the only thing I owe the world before I go is honest words about the shape of what I kept quiet about."
 
 "Captain Murphy."
 
@@ -4847,11 +5121,15 @@ Maya stopped walking. Captain Murphy stopped beside her.
 
 "What's the shape of the question, miss."
 
-"Whether a survivor's inheritance should look like something completed or something left how it was."
+"Whether a survivor's inheritance should look like something completed or something left how it was. The first bird, the one Ethan gave me, is gone into Swiss evidence and will end its days in a records vault. This one is the only one I get to decide about."
 
 Captain Murphy thought about it. The wind came off the water.
 
 "I think a survivor's inheritance looks like a choice she gets to make," he said. "Either one is honest. That is the thing people forget. Either one is honest."
+
+"Then I will leave it unfinished on the Cathedral shelf, next to Sarah's mermaid," Maya said. "It goes into the Hollow Shore Trust archive, logged and permanent, right beside Emma's cave drawing when the glass frame goes in. The first bird will live out its days in a Swiss records vault. This one belongs here, where the children who come can see it. Whoever comes to the island and needs to see a thing that was carved partway and stopped, and understand that stopping is not the same as breaking, can see it there."
+
+"Good," Captain Murphy said. "That is a good place for it."
 
 "Thank you, Captain."
 
@@ -4875,7 +5153,9 @@ Captain Murphy's old hand came up briefly to his eye and went back down.
 
 "All right, miss," he said. "I have my words now."
 
-They walked the rest of the way down to the dock. The ferry was at the pier, its engine running. Captain Murphy got on. He did not wave. He did not look back. He turned at the wheelhouse door, and he nodded at Maya, once, slowly. Then he went inside and the door closed.
+They walked the rest of the way down to the dock. The ferry was at the pier, its engine running. Captain Murphy got on. He did not wave.
+
+He did not look back. He turned at the wheelhouse door, and he nodded at Maya, once, slowly. Then he went inside and the door closed.
 
 Maya stood on the dock and watched the ferry pull away. Margaret Swift came up behind her without speaking and stood beside her until the ferry was out of the cove.
 
@@ -4917,13 +5197,19 @@ Maya sat on the bench for a second. Margaret waited.
 
 "Danny too?"
 
-"Danny too. He's twelve now. He wants to see the bench."
+"Danny too. He's eleven now. He wants to see the bench."
 
 "Good."
 
-They kept walking. The house, as they came up to it, was not the house Maya remembered. It was painted a soft blue-gray instead of the Gothic tar-black of a year ago. The broken shutters had been repaired. The wraparound porch had been reinforced. A sign on the door that had once said *Blackwood House, est. 1890* now said *Children of the Hollow Shore, Trust Retreat & Archive.* A small copper bell hung beside the door. A handwritten index card was pinned below the bell: *Please ring, we sometimes have sessions.* The handwriting was Emma Washington's.
+They kept walking. The house, as they came up to it, was not the house Maya remembered. It was painted a soft blue-gray instead of the Gothic tar-black of a year ago. The broken shutters had been repaired. The wraparound porch had been reinforced.
 
-Inside, the entrance hall had been gutted. The portraits were gone. Maya had handled that personally. The walls were now hung with children's paintings and, at the far end, with a mounted display of a single chalk drawing, preserved under glass. The drawing was of two small figures beside a mermaid. An M. An S. A fierce line between them. Margaret had gone down into the caves last March with a conservator and a great deal of spray fixative to bring it up whole.
+A sign on the door that had once said *Blackwood House, est. 1890* now said *Children of the Hollow Shore, Trust Retreat & Archive.* A small copper bell hung beside the door. A handwritten index card was pinned below the bell: *Please ring, we sometimes have sessions.* The handwriting was Emma Washington's.
+
+Inside, the entrance hall had been gutted. The portraits were gone. Maya had handled that personally. The walls were now hung with children's paintings and, at the far end, with a mounted display of a single chalk drawing, preserved under glass.
+
+The drawing was of two small figures beside a mermaid. An M. An S. A fierce line between them. Margaret had gone down into the caves last March with a conservator and a great deal of spray fixative to bring the chalk lines up whole. On the shelf beneath the drawing, under its own small pane of glass, sat the carved wooden bird.
+
+It had gone from Ethan's twelve-year-old hand to her eight-year-old pocket, from her childhood jewelry box to a padded envelope her mother mailed north a year ago, from the padded envelope into a federal evidence box in Portland. The Bureau had released it in April with a chain-of-custody form three pages long. Maya had signed the last page and driven it up herself and given it to the Trust. Its maker's mark was turned up to the light.
 
 Maya stopped in front of it. She looked at the drawing for a long time.
 
@@ -4959,9 +5245,11 @@ Maya put her hand on the glass, once, lightly, and took it away.
 
 Margaret smiled a small Maine smile. "That sounds about right."
 
-They walked through the house. The library, where Eleanor had sat pouring a drink and a year ago had tried to plan a murder, was now a reading room. A young woman Maya did not know was unpacking a box of donated children's books onto a low shelf. She looked up and smiled at Maya and went back to her work. The dining room where Dr. Richard had asked about psychology programs was now an art studio with long tables and spattered dropcloths and a sink with sixteen tins of brushes beside it. Emma Washington was in the studio. She was showing three small girls how to pin a piece of paper to a board so the edges did not curl under the watercolor wash.
+They walked through the house. The library, where Eleanor had sat pouring a drink and a year ago had tried to plan a murder, was now a reading room. A young woman Maya did not know was unpacking a box of donated children's books onto a low shelf. She looked up and smiled at Maya and went back to her work.
 
-Emma looked up. She was fifteen now, serious-eyed, still small for her age. She was in a blue hoodie that said HOLLOW SHORE ART FAIR 2027. Her hair had grown out.
+The dining room where Dr. Richard had asked about psychology programs was now an art studio with long tables and spattered dropcloths and a sink with sixteen tins of brushes beside it. Emma Washington was in the studio. She was showing three small girls how to pin a piece of paper to a board so the edges did not curl under the watercolor wash.
+
+Emma looked up. She was nineteen now, serious-eyed, still small for her age. She was in a blue hoodie that said HOLLOW SHORE ART FAIR 2027. Her hair had grown out.
 
 "Maya."
 
@@ -4993,25 +5281,37 @@ Maya did not say anything. Emma did not need her to.
 
 The ribbon-cutting was on the wraparound porch at eleven.
 
-The porch was crowded but not full. Maya counted, because counting was what she did when she did not know what to do with her hands. Thirty-eight people on the porch and another twenty in the grass below it, folding chairs set out for families who had come too far to stand. She knew most of the faces. Some she did not; those were siblings and grandparents of survivors, people the Trust had added to the guest list at the families' own requests. She had asked Patricia Valdez the night before whether the list was too long. Patricia had looked at her over the rim of her reading glasses and said, *Maya, every name on this list is there because someone specifically asked. That is the rule. That is going to be the rule for this place forever. Are we fighting about this?* They had not fought about it.
+The porch was crowded but not full. Maya counted, because counting was what she did when she did not know what to do with her hands. Thirty-eight people on the porch and another twenty in the grass below it, folding chairs set out for families who had come too far to stand. She knew most of the faces. Some she did not; those were siblings and grandparents of survivors, people the Trust had added to the guest list at the families' own requests.
 
-Danny Morrison was at the front of the porch, holding a small brass plaque wrapped in tissue paper. Linda had his other hand. Mark stood beside them. The Hendricks family was two steps back, Carol and Robert flanking Michael, who had driven six hours from Vermont in the back of the Subaru without asking to stop. Emma Washington stood beside Michael. Their arms did not touch. They were standing the way old friends stand when old friends have decided the standing is enough. Dr. Chen was at the left edge of the porch with the shepherd mix at her knee. Detective Park was three feet to her right. Martinez was off the porch entirely, on the step, leaning against the porch post in civilian clothes with her arms folded, watching the ferry for the families who had not yet arrived.
+She had asked Patricia Valdez the night before whether the list was too long. Patricia had looked at her over the rim of her reading glasses and said, *Maya, every name on this list is there because someone specifically asked. That is the rule. That is going to be the rule for this place forever. Are we fighting about this?* They had not fought about it.
+
+Danny Morrison was at the front of the porch, holding a small brass plaque wrapped in tissue paper. Linda had his other hand. Mark stood beside them.
+
+The Hendricks family was two steps back, Carol and Robert flanking Michael, who had driven six hours from Vermont in the back of the Subaru without asking to stop. Emma Washington stood beside Michael. Their arms did not touch.
+
+They were standing the way old friends stand when old friends have decided the standing is enough. Dr. Chen was at the left edge of the porch with the shepherd mix at her knee. Detective Park was three feet to her right. Martinez was off the porch entirely, on the step, leaning against the porch post in civilian clothes with her arms folded, watching the ferry for the families who had not yet arrived.
 
 Maya was asked to say ten words or ten minutes, her choice. She chose ten.
 
 "This house took," she said, "and today it begins to give back."
 
-She stepped away from the microphone. Danny Morrison came forward with his plaque. He unwrapped the tissue paper with careful twelve-year-old hands and held the brass up so Maya could read it.
+She stepped away from the microphone. Danny Morrison came forward with his plaque. He unwrapped the tissue paper with careful eleven-year-old hands and held the brass up so Maya could read it.
 
 *In memory of Tommy Morrison. / In memory of Sarah Blackwood. / For every child who told, and every child who could not tell, and every child who is beginning to.*
 
 Danny's voice did not shake. He had practiced.
 
-"Thomas was my uncle," he said. "He was ten years old when he was killed. Sarah was my mom's best friend. She was thirty-three. Thomas didn't get to write it down. Sarah wrote some of it down. I am twelve, and I am writing the rest."
+"Thomas was my uncle," he said.
 
-He handed the plaque to Linda. Linda handed it to the Trust director, who passed it to the carpenter waiting on the porch with his drill. The carpenter mounted the plaque beside the front door, under the copper bell. It took him ninety seconds. Nobody moved while he did it. When he was done he nodded at Danny, and Danny nodded back, and Linda Morrison put her face in Mark's shoulder for a moment and then straightened up again.
+"He was ten years old when he was killed. Sarah was my mom's best friend. She was thirty-three. Thomas didn't get to write it down. Sarah wrote some of it down. I am eleven, and I am writing the rest."
 
-Patricia Valdez spoke next. Four minutes: the ongoing prosecutions, the eleven trials still to come, the Trust's intake schedule, the ways survivors could reach them confidentially. She thanked the Morrisons, the Hendricks family, and each of the eighteen cave survivors by name. She thanked Detective Park for reopening Sarah Blackwood's drowning three years earlier than most jurisdictions would have. When she finished nobody clapped. Clapping had not seemed right. People stood in the autumn sun and looked at each other.
+He handed the plaque to Linda. Linda handed it to the Trust director, who passed it to the carpenter waiting on the porch with his drill. The carpenter mounted the plaque beside the front door, under the copper bell.
+
+It took him ninety seconds. Nobody moved while he did it. When he was done he nodded at Danny, and Danny nodded back, and Linda Morrison put her face in Mark's shoulder for a moment and then straightened up again.
+
+Patricia Valdez spoke next. Four minutes: the ongoing prosecutions, the eleven trials still to come, the Trust's intake schedule, the ways survivors could reach them confidentially. She thanked the Morrisons, the Hendricks family, and each of the eighteen cave survivors by name.
+
+She thanked Detective Park for reopening Sarah Blackwood's drowning three years earlier than most jurisdictions would have. When she finished nobody clapped. Clapping had not seemed right. People stood in the autumn sun and looked at each other.
 
 Dr. Sarah Chen came up to Maya afterward, the shepherd mix padding beside her.
 
@@ -5067,6 +5367,8 @@ Her father got off the ferry first. He was carrying Maya's mother's overnight ba
 
 Her mother walked behind him, looking at the path up to the house. She stopped at the bottom of it. She did not cry. She did not say anything. She just stood there and looked up.
 
+Actually, let me locate a valid instance.
+
 Maya walked down the dock and took her mother's small bag without being asked.
 
 "Mom."
@@ -5085,7 +5387,9 @@ They walked up to the bench. Maya sat on one side. Her mother sat on the other. 
 
 Her mother read the brass plate. She read it twice.
 
-"We didn't know his name, Maya. All those years. We couldn't let ourselves know it. Your father and I. We let ourselves know there had been a boy. We let ourselves know something had happened. We did not let ourselves know his name, because knowing his name would have meant." She stopped. "You see."
+"We didn't know his name, Maya. All those years. We couldn't let ourselves know it. Your father and I. We let ourselves know there had been a boy. We let ourselves know something had happened. We did not let ourselves know his name, because knowing his name would have meant."
+
+She stopped. "You see."
 
 "I see."
 
@@ -5165,7 +5469,7 @@ The stone skipped.
 
 ## About the Author
 
-Greg Ratajik is a AI Architect based in the Seattle area. Greg lives with his wife Arika and their three cats—Tigger, Salem, and Cujo. In his spare time, Greg explores new technologies by developing apps and, in recent years, has focused on applying AI to software development.
+Greg Ratajik is an AI Architect based in the Seattle area. Greg lives with his wife Arika and their three cats: Tigger, Salem, and Cujo. In his spare time, Greg explores new technologies by developing apps and, in recent years, has focused on applying AI to software development.
 
 ---
 
@@ -5191,7 +5495,7 @@ Greg Ratajik is a AI Architect based in the Seattle area. Greg lives with his wi
 - The Hollow Shore
 - The Ghost Passenger
 - The Market Murder
-- The Gamecock Kiiller
+- The Gamecock Killer
 
 **Kids**
 

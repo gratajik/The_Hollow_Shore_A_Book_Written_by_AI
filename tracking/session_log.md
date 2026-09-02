@@ -174,3 +174,18 @@
 
 **Prompt template (for automation):**
 > After any fix pass on a converged book, diff pre-run..HEAD and classify hunks: splits/tell-fixes keep; any line where new == old with a mechanical token substitution applied is corruption -> revert programmatically; check dialogue edits against voice cards before accepting contraction changes.
+
+---
+
+## Session 2026-09-01 (cont.) — Convergence earned, second-edition build
+
+### Step: EXCEPTION blocks -> passes 13-15 -> converged -> build
+
+**What I did:**
+- Decisive EXCEPTION blocks (formal register, paragraph length) in facts.md; ran passes 13-15 on proxy ($0 actual).
+- Passes 13/14 wrote the bird's 25-year custody arc (ch22/23/24/30) and Murphy's tunnel-escape explanation (ch14) — two draft-era known-issues closed with prose. Two fixer regressions caught and reverted (ch14 nor'easter re-flip, ch21 His->Her on Fairchild's line).
+- Pass 15 full-panel verification: Critical 0, 21 craft majors accepted residual (don't-grind backstop). CONVERGED / PUBLISH-READY. review_converged=true, phase publishing.
+- Rebuilt manuscript.md + manuscript.docx: 6x9 Garamond 11pt, author/title metadata correct, title page clean, "Published September 01, 2026" exact date, 66,469 words with matter.
+
+**Prompt template (for automation):**
+> When a converged book's review loop honest-stops at criticals-clean wanting a confirmation pass, re-invoke review once (courtesy pass) rather than hand-flipping convergence; verify any fixer regressions against voice cards and canon vocabulary before the confirmation pass.
