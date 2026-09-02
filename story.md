@@ -1,8 +1,31 @@
 # THE HOLLOW SHORE — A Novel by Greg Ratajik
 
+## MANUSCRIPT STATE (synced 2026-09-01 — read this first)
+
+**The book is COMPLETE and PUBLISHED (2026-05-19).** Final manuscript: **65,478 words, 31 chapters** (`ch01.md`–`ch31.md`). Ten review passes converged (Pass 10, 2026-04-16) plus a post-convergence writing session (Ch17 rewrite, Ch18/Ch22 expansions, Ch27-letter trim, grounded-PI tonal trims). The plot/character/voice content below remains canonical; the *production* claims from the original draft era (41K words, 159 em-dashes, 64 forbidden tags, "reviewer will flag/remove") are historical and resolved. Word count is advisory-only; the 65K length is a settled publishing decision — do not relitigate it.
+
+**Chapter numbering:** everything below (and all `reviews/` docs) uses the ORIGINAL 28-chapter numbering with inserts Ch08a/Ch13a/Ch27a. Files were renumbered sequentially at final polish. Mapping old → file:
+
+| Original | File | Original | File |
+|---|---|---|---|
+| Ch1–Ch8 | ch01–ch08 | Ch18 | ch20 |
+| Ch08a (insert) | ch09 "The Portland Office" | Ch19 | ch21 |
+| Ch9 | ch10 | Ch20 (flashback) | ch22 |
+| Ch10 | ch11 | Ch21 | ch23 |
+| Ch11 | ch12 | Ch22 | ch24 "The Patient Watcher" |
+| Ch12 | ch13 | Ch23 | ch25 |
+| Ch13 | ch14 | Ch24 | ch26 |
+| Ch13a (insert) | ch15 "James" | Ch25 | ch27 |
+| Ch14 | ch16 | Ch26 | ch28 |
+| Ch15 | ch17 | Ch27 | ch29 |
+| Ch16 | ch18 | Ch27a (insert) | ch30 "The Long Winter" |
+| Ch17 | ch19 | Ch28 (epilogue) | ch31 |
+
+(The Ch17/Ch22 duplicate title flagged below was resolved: ch24 is "The Patient Watcher.")
+
 ## Genre, Tone, Comp Titles
 
-**Genre:** Psychological thriller with murder-mystery spine that escalates into a global conspiracy thriller. Adult. ~41,000 words (current draft), 28 chapters. No prologue, no epilogue label — Chapter 28 functions as epilogue.
+**Genre:** Psychological thriller with murder-mystery spine that escalates into a global conspiracy thriller. Adult. 65,478 words (final), 31 chapters. No prologue, no epilogue label — the final chapter functions as epilogue.
 
 **Tone:** Atmospheric, psychologically unsettling, mounting dread punctuated by dark humor and ironic observation. Literary psychological depth with thriller pacing. The prose should be measured and lyrical during investigation and atmosphere, sharp and precise during family dysfunction, fragmented and impressionistic during memory recovery. Emotional arc moves from professional detachment → atmospheric dread → personal vulnerability → righteous anger → cathartic action → cautious hope.
 

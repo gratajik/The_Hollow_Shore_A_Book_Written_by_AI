@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 
 This is a novel manuscript project: **"The Hollow Shore,"** a psychological thriller with murder mystery elements. A private investigator (Maya Chen) is drawn to a remote Maine island to investigate an apparent suicide, discovers murder, and is eventually forced to confront her own suppressed childhood trauma that connects her to the victim and a decades-long conspiracy. Author: Greg Ratajik.
 
-The book was originally drafted using an early AI workflow (book-memory-bank system). It is being restructured into the BookForge canonical layout so the `@ReviewerAgent` can pass over it and improve it.
+The book was originally drafted using an early AI workflow (book-memory-bank system), converted to the BookForge canonical layout 2026-04-16, driven through ten review passes to convergence plus a post-convergence writing session, and **published 2026-05-19** (65,478 words, 31 chapters). Any further review work is targeted regression only — see "Writing Workflow" below.
 
 ## Key Files
 
@@ -20,7 +20,7 @@ The book was originally drafted using an early AI workflow (book-memory-bank sys
 
 ### Project Directory Structure
 
-- **chapters/** — Prose only (`ch01.md` through `ch28.md`)
+- **chapters/** — Prose only (`ch01.md` through `ch31.md`; story.md and reviews/ use the original 28+inserts numbering — mapping table at the top of story.md)
 - **matter/** — Front and back matter (`title_page.md`, `copyright.md`, `dedication.md`, `about_author.md`)
 - **tracking/** — All continuity and production tracking (`stats.md`, `timeline.md`, `facts.md`, `threads.md`, `session_log.md`, `review_issues.md`)
 - **reviews/** — Review pass deliverables (`review_pass_1.md`, etc.)
@@ -32,16 +32,16 @@ The book was originally drafted using an early AI workflow (book-memory-bank sys
 - Past tense for present-day narrative. **Present tense for childhood flashback sequences** — this is deliberate; the reviewer should not flag it as a drift.
 - **Maya's Southern drawl is stress-correlated.** It emerges under pressure, excitement, or on the cusp of solving a case. It must not leak into her calm/baseline narration. A calm chapter with drawl is a voice-card violation.
 - **Memory recovery is gradual, triggered, and sensory-first.** Never abrupt, never convenient. Smell → image → voice → scene.
-- Target: ~90,000 words, 28 chapters. **Current manuscript is ~41,000 words** — reviewer should flag the chapter-length disparity (ch01 = 1,834; ch28 = 676). Late chapters carry outsized plot (international raid, Geneva climax, logic bomb, epilogue) on thin word count.
+- Final manuscript is 65,478 words, 31 chapters, **published 2026-05-19**. Word count is advisory-only and the 65K length is a settled decision — never flag, expand, or block on length.
 - Three-author style blend: Tana French (lyricism), Gillian Flynn (sharpness), Kate Atkinson (complex plotting). When these conflict in a scene, Flynn wins on dialogue, French wins on setting, Atkinson wins on reveal mechanics.
-- Em-dashes target zero. Current manuscript has 159 — reviewer will remove.
-- Forbidden dialogue tag budget is near-zero. Current manuscript has 64 — reviewer will replace with action beats.
+- Em-dashes target zero (achieved Pass 8; hold the line on any new edit).
+- Forbidden dialogue tag budget is near-zero (achieved; hold the line on any new edit).
 
 Universal rules (em-dashes, dialogue tags, paragraph limits, AI fingerprint prevention) are enforced by the writing-guide skill and do not need to be repeated here.
 
 ## Writing Workflow
 
-Primary workflow for this project is `@ReviewerAgent` — review/fix loop to improve existing manuscript. Do NOT use `@WriteBookAgent` (the chapters are already drafted).
+The full review/fix loop is DONE (converged Pass 10). Do NOT use `@WriteBookAgent`, and do not restart the full `@ReviewerAgent` loop. Valid remaining work: **targeted regression review** of prose written after Pass 10 — the writing session (rewrite/expansions/letter-trim, now files ch19, ch20, ch24, ch29) plus the tonal-trim and polish commits (ch11, ch13, ch14, ch16, ch17, ch18, ch23, ch31) — checking continuity, setup/payoff, and voice-card compliance only.
 
 For manual single-chapter edits, follow the ReviewerAgent's per-chapter fix workflow: re-read story.md, apply changes, re-run mechanical checklist on touched paragraphs, update tracking/stats.md immediately.
 

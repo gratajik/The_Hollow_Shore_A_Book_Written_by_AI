@@ -104,3 +104,30 @@
 
 **Prompt template (for automation):**
 > Invoke `@LoopReviewerAgent`. Pre-pass: confirm series direction (grounded-PI vs SF) and save as persistent memory. Pass 1: launch 5 parallel review subagents (Ch01-14, Ch15-28, validation matrix, voice report, publisher panel). Write `review_pass_N.md` with all five deliverables inline. Execute fix-plan: manual rewrites for structural changes (memory gradient, tense, genre reframe, arrest continuity), parallel subagents for mechanical sweeps (em-dash/tag/ending/pronoun/naming-collision). Verify with fresh grep. Update `stats.md`, `review_issues.md`, `session_log.md`. Commit and push. Check convergence against story.md's required state table + all reviewer personas. Loop until convergence or pass 10.
+
+---
+
+## Session 2026-09-01 — Update Old Book: reconcile project state with published reality
+
+### Step: Commit publish state, truthful state.yaml, story.md/CLAUDE.md sync
+
+**User prompt (summary):**
+> What do you think of this older-pipeline book? Would a review pass be high value? Go ahead with the suggested updates to start.
+
+**What I did:**
+- Committed the never-committed 2026-05-19 publish state (KDP package, KPF, final matter, new cover, canonical matter/other_books.md); fixed two rule violations in publish-era about_author.md ("a AI" -> "an AI", em-dash -> colon)
+- Replaced stale app-scaffold state.yaml (phase:init/0 chapters) with truthful terminal state: phase complete, 31 committed chapters with real word counts (65,478), review_pass 10, converged, published 2026-05-19; validated it loads via app/state.py
+- Added MANUSCRIPT STATE section to story.md: published status, settled 65K length, and the original->file chapter-number mapping table (inserts Ch08a/Ch13a/Ch27a became ch09/ch15/ch30; everything shifted)
+- Updated CLAUDE.md: resolved draft-era production claims (41K/159 em-dashes/64 tags), scoped future work to targeted regression review of the 12 files edited after Pass 10 convergence (verified via git log 6825c01..3fc748b: ch11, ch13, ch14, ch16, ch17, ch18, ch19, ch20, ch23, ch24, ch29, ch31)
+
+**What worked:**
+- git log --name-only across the renumber boundary caught that the writing-session files (old Ch17/18/22/27) are today's ch19/ch20/ch24/ch29 — the first-guess scope list was wrong and got corrected before commit
+
+**What didn't work / required retry:**
+- `python` not on PATH (Windows Store alias); use `py` in this environment
+
+**Artifacts produced:**
+- state.yaml (rewritten), story.md (state section), CLAUDE.md (4 sections), 2 commits of publish artifacts + state
+
+**Prompt template (for automation):**
+> Given a completed pre-app book project at {project_path}, reconcile recorded state with reality: (1) commit any uncommitted publishing artifacts and matter files, checking new matter text against hard style rules first; (2) rewrite state.yaml to the app schema with phase=complete, per-chapter committed status and word counts, review pass count, convergence flag, and publish date, then validate via app/state.py load; (3) if chapters were renumbered post-outline, derive the outline->file mapping from chapter titles and git history and add it plus a MANUSCRIPT STATE section to story.md; (4) update CLAUDE.md to mark the review loop converged and scope future work to targeted regression review of files changed after the last review pass (derive the exact file list from git log --name-only <last-review-commit>..HEAD, translating any pre-renumber filenames).
