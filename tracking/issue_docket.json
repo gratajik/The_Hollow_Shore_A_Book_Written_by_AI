@@ -204,9 +204,15 @@
    "state": "FIXING",
    "seen_passes": [
     13,
-    14
+    14,
+    15
    ],
-   "adjudication": {},
+   "adjudication": {
+    "verdict": "real",
+    "reason": "Character named 'Sophia Reyes' in prose consistently across ch13/16, but bible presumably names her 'Sophia Martinez' \u2014 a spec/prose name mismatch that persists despite fix attempts.",
+    "fix_directive": "In ch13 (chapter file ch14 per remap), replace all instances of 'Sophia Reyes' with the bible-canonical name 'Sophia Martinez' in the cot-naming scene ('Sophia Reyes, eight, Portland. Five days gone.') and the helipad scene ('Sophia Reyes, eight, five days gone, held the paramedic's thumb...'). Also verify no other chapter reintroduces 'Reyes' for this character; do a global find-replace for this ",
+    "pass": 15
+   },
    "quotes": [
     "sophia reyes",
     "sophia martinez.",
@@ -225,12 +231,19 @@
    "state": "FIXING",
    "seen_passes": [
     13,
-    14
+    14,
+    15
    ],
-   "adjudication": {},
+   "adjudication": {
+    "verdict": "real",
+    "reason": "",
+    "fix_directive": "In ch30, Danny's birthday party is 'held in March' making him turn eleven; in ch31 (set the following October), Margaret says 'He's eleven now,' and Danny states 'I am eleven' at the ribbon-cutting. Since October is ~7 months after his March birthday, he should be stated as still eleven (correct) unless bible timeline requires him to have turned twelve by a subsequent birthday\u2014verify against bible",
+    "pass": 15
+   },
    "quotes": [
     "s eleventh birthday in march; ch31 (october) says",
-    "s eleven now"
+    "s eleven now",
+    "eleventh birthday party"
    ]
   },
   {
@@ -241,7 +254,7 @@
    "chapters": [
     13
    ],
-   "state": "OPEN",
+   "state": "FIXED",
    "seen_passes": [
     14
    ],
@@ -257,15 +270,48 @@
     30,
     31
    ],
-   "state": "OPEN",
+   "state": "FIXING",
    "seen_passes": [
-    14
+    14,
+    15
    ],
    "adjudication": {},
    "quotes": [
     "s eleventh birthday in march; ch31 (following october opening) says",
     "s eleven now."
    ]
+  },
+  {
+   "fp": "358553662856d7d1",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Near-duplicate passage across ch04 and ch06 (unverified)",
+   "chapters": [
+    4,
+    6
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    15
+   ],
+   "adjudication": {},
+   "quotes": []
+  },
+  {
+   "fp": "f0217af2f7e784dd",
+   "category": "Continuity",
+   "severity": "major",
+   "title": "Danny Morrison age inconsistency unresolved",
+   "chapters": [
+    30,
+    31
+   ],
+   "state": "OPEN",
+   "seen_passes": [
+    15
+   ],
+   "adjudication": {},
+   "quotes": []
   }
  ]
 }

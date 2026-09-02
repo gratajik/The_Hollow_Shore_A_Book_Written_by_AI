@@ -312,18 +312,18 @@ chapters:
     cost: 0.0
     compliance_violations: 0
     fix_passes: 0
-review_pass: 14
+review_pass: 15
 review_converged: false
 review_stopped_unconverged: false
-force_full_panel: true
+force_full_panel: false
 review_stop_reason: null
 last_review_critical: 0
-last_review_major: 13
+last_review_major: 21
 last_review_hashes:
   1: 1502c909cb2ccc4e9acddea25c40ab10
-  2: 0effa0fe70394957ab763e6c07d62a3b
+  2: 38c86c0a106ff040b5e5ebdd1aee37d4
   3: 9231c363b4fe98ebfa7872bbd7fb99b3
-  4: dd509b6bd9a092bf8c0992a97458f7f0
+  4: 0e121fb5f5e5d311359eb3ee35c03cac
   5: 52ae487a99f9e8b12ad91d23e7450d7f
   6: 214fbaac77bb1b4c07ae9ad75427d4ef
   7: 16b662b38829a3063fe0efb188cb7c4e
@@ -335,22 +335,22 @@ last_review_hashes:
   13: 83b011dbbdda552ecf7faa7feba59ab0
   14: 38aff21b1f5808a466c205c201fbfeac
   15: 210cda38d19ef02d74526f79a47d4544
-  16: 580755885f78a1c503d59667a9a77973
+  16: 8b984f9b3f98017e0d236386230f4a8e
   17: 2e3353dd7b60ba5e8e7f76cffd27cdf2
   18: 55b1aeb1c15434acd1ebd5d68d638d96
   19: d721285616717aa5873c1f17ace28ce1
-  20: 414a35e107b26f9e957a400616420fb2
-  21: d86cfd580963998b95a7d120e5600e81
+  20: 3f3abc9df6810be7e40a96fc8d911cb2
+  21: bfe4ff8690bf23cd1a94b2fce7f7ac45
   22: 7d8c98e818ddfeb713fba230c1d51c9c
   23: e686d1c1658943d5851924199c9ded03
   24: b130315187750f942322e41d0ad4ea01
   25: b3146df95e773a3e4344c5303bf233d8
-  26: 401fa5e5e14de2b12f6f0429bf4073a5
+  26: 9b34ef99aa526d2226d8c845c36f407b
   27: 42e49dc19fc2ae5664415cba5153deab
   28: 50c50f6f61434a6bf418778cfdb12da2
   29: 5f2db69cbe437cfcf4875497a66e854f
-  30: 43ba234a9228a9726947e10acf72f31b
-  31: b0f97a85d93ad277000888198b61c7ff
+  30: 0cb68df35e8c545d93f206789c971585
+  31: 36c65bf0e81b484f30d92886a4736700
 contract_verified: {}
 timeline_verified: {}
 knowledge_verified: {}
@@ -362,9 +362,9 @@ publishing_status:
   package: publishing/HollowShore_5.19.26.docx
 costs:
   writing: 0.0
-  review: 20.001299999999993
+  review: 20.984599999999993
   publishing: 0.1527
-  total: 20.153999999999993
+  total: 21.137299999999993
 review_log:
 - pass: 11
   agent: mechanical
@@ -1635,9 +1635,90 @@ review_log:
   cache_read_tokens: 0
   cache_write_tokens: 0
   cost: 0.0644
+- pass: 15
+  agent: mechanical
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 56670
+  output_tokens: 9016
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1289
+- pass: 15
+  agent: story
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 88875
+  output_tokens: 2289
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.5197
+- pass: 15
+  agent: publisher
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 87942
+  output_tokens: 2343
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0402
+- pass: 15
+  agent: voice
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 101955
+  output_tokens: 1180
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0796
+- pass: 15
+  agent: matrix
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 69749
+  output_tokens: 7281
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0428
+- pass: 15
+  agent: reader
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 99219
+  output_tokens: 1407
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0327
+- pass: 15
+  agent: critical-verify
+  model: claude-opus-4-8
+  source: ''
+  input_tokens: 0
+  output_tokens: 0
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0834
+- pass: 15
+  agent: docket-adjudicate
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 12530
+  output_tokens: 218
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0272
+- pass: 15
+  agent: docket-adjudicate
+  model: claude-sonnet-5
+  source: proxy
+  input_tokens: 13379
+  output_tokens: 206
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0288
 last_review_depth: ''
 last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-04-17T17:05:00.408323+00:00'
-updated_at: '2026-09-02T04:08:02.511241+00:00'
+updated_at: '2026-09-02T04:14:58.154049+00:00'
