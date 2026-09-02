@@ -1,0 +1,327 @@
+phase: complete
+current_chapter: 31
+total_chapters: 31
+chapters:
+  ch01:
+    status: committed
+    word_count: 2137
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch02:
+    status: committed
+    word_count: 3217
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch03:
+    status: committed
+    word_count: 2400
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch04:
+    status: committed
+    word_count: 2840
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch05:
+    status: committed
+    word_count: 1647
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch06:
+    status: committed
+    word_count: 1682
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch07:
+    status: committed
+    word_count: 1649
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch08:
+    status: committed
+    word_count: 3107
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch09:
+    status: committed
+    word_count: 1791
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch10:
+    status: committed
+    word_count: 2736
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch11:
+    status: committed
+    word_count: 1478
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch12:
+    status: committed
+    word_count: 1589
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch13:
+    status: committed
+    word_count: 2235
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch14:
+    status: committed
+    word_count: 2311
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch15:
+    status: committed
+    word_count: 1589
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch16:
+    status: committed
+    word_count: 3190
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch17:
+    status: committed
+    word_count: 1522
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch18:
+    status: committed
+    word_count: 1532
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch19:
+    status: committed
+    word_count: 1576
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch20:
+    status: committed
+    word_count: 1643
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch21:
+    status: committed
+    word_count: 2346
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch22:
+    status: committed
+    word_count: 1609
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch23:
+    status: committed
+    word_count: 1356
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch24:
+    status: committed
+    word_count: 1298
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch25:
+    status: committed
+    word_count: 1795
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch26:
+    status: committed
+    word_count: 2338
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch27:
+    status: committed
+    word_count: 2363
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch28:
+    status: committed
+    word_count: 1822
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch29:
+    status: committed
+    word_count: 2586
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch30:
+    status: committed
+    word_count: 3445
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+  ch31:
+    status: committed
+    word_count: 2649
+    input_tokens: 0
+    output_tokens: 0
+    cache_read_tokens: 0
+    cache_write_tokens: 0
+    cost: 0.0
+    compliance_violations: 0
+    fix_passes: 0
+review_pass: 10
+review_converged: true
+publishing_status:
+  published: true
+  published_date: '2026-05-19'
+  package: publishing/HollowShore_5.19.26.docx
+costs:
+  writing: 0.0
+  review: 0.0
+  publishing: 0.1527
+  total: 0.1527
+created_at: '2026-04-17T17:05:00.408323+00:00'
+updated_at: '2026-09-01T00:00:00+00:00'
