@@ -72,3 +72,27 @@ Book cover art, 1:1.6 vertical. A stylized vintage cartographic illustration of 
 ```
 Book cover art, 1:1.6 vertical. Close, symbolic composition: two small pale hands reach upward from black water, fingertips just breaching the surface, creating faint ripples. The waterline bisects the cover horizontally at the lower third. Above the waterline, instead of sky, a reflection shows the facade of a looming three-story Victorian mansion at night, windows lit warm amber — the reflection is impossibly mirrored onto the air itself, surreal and dreamlike. Bioluminescent hints of blue-green in the deep water below. Palette: obsidian black water, deep teal, warm amber window-glow, bone-pale hands. Cinematic underwater lighting, painterly surrealism in the style of contemporary literary thriller covers, matte finish. Mood: drowning memory, children calling from beneath, the house that watches. Render the title "THE HOLLOW SHORE" in tall bold sans-serif caps across the upper third in bone-white, slight letter-spacing, clean and modern. Render "A NOVEL" in tiny tracked caps beneath. Render "GREG RATAJIK" at the very bottom center in amber-gold sans-serif caps, echoing the window light. Crisp typography, rendered not placeholder. Designed for Amazon thumbnail legibility.
 ```
+---
+
+## Hardcover Full Wrap — Drowned Mansion (matches the published front, added 2026-09-01)
+
+**Use:** Case-laminate hardcover, 6 x 9 trim. Generate the exact canvas from kdp.amazon.com/cover-calculator using the FINAL page count KDP reports after interior upload (spine width depends on it), then produce/composite art at that pixel size, 300 DPI, single PDF. Wrap extends 0.51" past all outer edges; keep text 0.635" from trim edges and 0.4" clear of the spine hinges; leave a 2" x 1.2" barcode zone on the back, bottom-right, at least 0.76" from the bottom edge and 0.25" from the hinge.
+
+### Full Wrap Prompt
+
+```
+Full wraparound hardcover book jacket art (back cover + spine + front cover as one continuous horizontal image), psychological thriller. THE SCENE CONTINUES ACROSS THE ENTIRE WRAP: a submerged Victorian mansion at night reflected on a black water surface, its windows glowing warm amber, and below the waterline a deep teal underwater darkness full of drifting particles and faint bioluminescent specks.
+
+FRONT COVER (right third), matching the published edition exactly: the mansion's reflection ripples on the dark surface in the upper half; two pale hands reach up from underwater toward the surface in the lower half. Title "THE HOLLOW SHORE" in large cream-white condensed sans-serif caps at the top, "A NOVEL" in small tracked caps beneath it, "GREG RATAJIK" in warm gold caps at the bottom.
+
+SPINE (center strip): continuous black-teal water texture, no imagery that would crop badly. Vertical text reading top to bottom: "THE HOLLOW SHORE" in cream condensed caps, then "RATAJIK" in gold caps near the base.
+
+BACK COVER (left third): the underwater world continues — darker, deeper teal, the faint amber glow of the drowned windows dissolving into the depth, a single small carved wooden bird sinking slowly, trailing tiny bubbles. Upper two-thirds kept dark and even-toned as a legible text zone for the back-cover blurb in cream type. Lower-right corner: a clean solid-dark rectangle zone reserved for the barcode, no art detail there.
+
+Palette: black, deep teal, bone cream, warm amber, single gold accent. Cold cinematic light from the surface. Painterly photorealism, matte finish, no borders, no crop marks. The three panels must read as one continuous body of water.
+```
+
+### Back-cover blurb (typeset into the dark text zone, cream type, ~225 words)
+
+Use the "Back Cover Blurb" from kdp_package.md §1 verbatim, ending with the series line:
+"A psychological thriller about stolen memory, dynastic silence, and the investigators who become, in the end, the witnesses they were always meant to be." Optionally add "MAYA CHEN — BOOK ONE" in small gold caps above the barcode zone.

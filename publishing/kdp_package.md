@@ -89,15 +89,26 @@ A psychological thriller about stolen memory, dynastic silence, and the investig
 - Launch price: **$2.99** (first 14 days, 70% royalty floor, KU-optimized)
 - Regular price: **$4.99** (sustained price post-launch; within comp-range for debut psychological thriller)
 
-**Paperback** (~41,000 words, ~180 pages at 5.25 × 8 trim)
-- KDP printing cost (B&W, 180pp, 5.25×8): ~$3.30
-- Suggested list: **$13.99** (royalty ≈ $4.89/unit at 60%)
+**Paperback** (final manuscript 65,478 words, 6 × 9 trim per manuscript.docx)
+- Estimated ~190–210 pages at this trim; use KDP's previewer page count as truth.
+- KDP printing cost (B&W paperback, US): $1.00 fixed + $0.012/page → ~$3.30–3.52 at 190–210pp.
+- Suggested list: **$14.99** (royalty at 60%: ≈ $5.47–5.69/unit).
 
-**Hardcover** (case laminate, 6 × 9 trim, ~150 pages reflowed)
-- KDP printing cost: ~$6.85
-- Suggested list: **$22.99** (royalty ≈ $6.95/unit)
-
-*Note:* If manuscript is expanded to the recommended 60–80k target, recalculate — paperback will land closer to 260–320 pages and support $15.99.
+**Hardcover** (case laminate, 6 × 9 trim — supported; B&W hardcover range 75–550pp) *(updated 2026-09-01 from live KDP help)*
+- Printing cost (B&W hardcover, US): **$5.65 fixed + $0.012/page** → ~$7.93–8.17 at 190–210pp.
+- Royalty is 60% of list minus printing:
+  - **$24.99** → ≈ $6.82–7.06/unit  ← recommended
+  - $22.99 → ≈ $5.62–5.86/unit
+  - $27.99 → ≈ $8.62–8.86/unit (upper comp bound for indie hardcover)
+- **Cover:** single full-wrap PDF (back + spine + front), 300 DPI, ≤40MB, fonts embedded, no crop marks.
+  Generate the exact template at **kdp.amazon.com/cover-calculator** using the FINAL page count KDP
+  reports after interior upload (spine width depends on it). Known constants: wrap extends 0.51"
+  (15mm) past the cover edges onto the case board; keep text/images 0.635" (16mm) from book edges
+  and 0.4" (10mm) clear of the spine hinge; barcode zone 2" × 1.2" at ≥0.76" from bottom, ≥0.25"
+  from the spine hinge (KDP adds the barcode if the PDF omits it). Spine text needs >120pp — we
+  clear that.
+- ISBN: KDP provides a free ISBN for hardcover (separate from the paperback's — each format needs
+  its own).
 
 **Kindle Unlimited:** Enroll in **KDP Select for the first 90 days**. Psychological-thriller KU read-through is strong, borrow pages compensate for the low launch price, and the exclusivity window aligns with the review-generation push. Re-evaluate at day 90 based on borrow velocity vs. wide retailer demand.
 
