@@ -131,3 +131,32 @@
 
 **Prompt template (for automation):**
 > Given a completed pre-app book project at {project_path}, reconcile recorded state with reality: (1) commit any uncommitted publishing artifacts and matter files, checking new matter text against hard style rules first; (2) rewrite state.yaml to the app schema with phase=complete, per-chapter committed status and word counts, review pass count, convergence flag, and publish date, then validate via app/state.py load; (3) if chapters were renumbered post-outline, derive the outline->file mapping from chapter titles and git history and add it plus a MANUSCRIPT STATE section to story.md; (4) update CLAUDE.md to mark the review loop converged and scope future work to targeted regression review of files changed after the last review pass (derive the exact file list from git log --name-only <last-review-commit>..HEAD, translating any pre-renumber filenames).
+
+---
+
+## Session 2026-09-01 — Targeted regression review (passes 11-12) + damage triage
+
+### Step: Run app review scoped to the 13 post-convergence-edited chapters (proxy), then triage results
+
+**User prompt (summary):**
+> Run the suggested targeted regression pass; use proxy.
+
+**What I did:**
+- Ran `bookforge review` with seeded last_review_hashes so B1 targeted re-review scoped pass 11 to the 13 changed chapters. 86/86 calls on the free proxy ($0 actual; $11.41 notional), 7.28M tokens in.
+- Passes 11+12 ran with fix passes; run honest-stopped "unconverged."
+- Triaged every remaining blocker against prose: ALL phantoms (nor'easter scanner artifact; "witness" list misread; Sarah-journal first person read as POV slip; hallucinated "Marcus Webb (child)" quote driven by a stale bible line; bird-custody and Martinez-pronoun re-flags of resolved draft-era issues).
+- Kept the 4 REAL regression fixes the pass found and fixed: ch20 meta chapter refs ("Ch17's identification"), Emma Washington age contradiction (18 in ch13 vs 15 in ch31 -> 19), Maya pre-naming Fairchild in ch16, facts.md ledger lags (Hale/Reyes).
+- Repaired fixer damage: restored both nor'easters, fixed introduced "her name" pronoun error, corrected story.md Req 14 (Webb/Hale resolved).
+- Filed BookForge backlog: scanner apostrophe allowlist; legacy-book era guard; (earlier) sync-bible mechanization.
+
+**What worked:**
+- Seeded-baseline targeted re-review scoped exactly as designed; the continuity agent's real finds were all in/around the unreviewed post-convergence prose — the regression thesis validated.
+
+**What didn't work / required retry:**
+- Mechanical finders applied current budgets retroactively (96 paragraph, 200+ contraction "violations") and drove churny fixes incl. prose trims; matrix walker treated the HISTORICAL known-issues section as live checks; fixer introduced one new defect and stripped correct vocabulary. Run ended "unconverged" purely on false positives.
+
+**Artifacts produced:**
+- reviews/review_pass_11.md, review_pass_12.md; commits 91484e9..6453482; state at review_pass 12, review_stopped_unconverged (blockers assessed phantom — disposition with Greg).
+
+**Prompt template (for automation):**
+> For a converged/published book with post-convergence edits: seed state.last_review_hashes with current hashes of all chapters EXCEPT those changed since the last review (derive from git log <last-review-commit>..HEAD, translating renames), then run one review pass. Afterward, verify every remaining blocker against the prose before accepting an unconverged verdict; classify real-vs-phantom and repair any fixer-introduced regressions before deciding disposition.
