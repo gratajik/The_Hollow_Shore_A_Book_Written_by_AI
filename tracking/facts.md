@@ -127,18 +127,16 @@ Plus 12 additional "long-term" victims in the chambers (total 18 living rescued 
 | Master key USB | ch26 | Control of conspiracy network | Used for data dump (ch27); transferred to trust (ch28) |
 | Ethan's "ghost's nest" Toronto apt | ch24 | Surveillance schematics of conspiracy | Clue chain (ch24) |
 
-### EXCEPTION: Excessive uncontracted forms in human-POV chapters
-- **Scope:** Ch 3, Ch 5, Ch 6, Ch 11, Ch 12, Ch 16, Ch 17
-- **Pattern:** Budget is max 2 uncontracted forms per chapter. Ch17 has 27 (13.5× budget), Ch3 has 14 (7×), Ch5 has 10 (5×), Ch6 has 9 (4.5×), Ch16 has 6 (3×), Ch12 has 4 (2×), Ch11 has 3 (1.5×). Pattern suggests a deliberate formal register not declared in voice cards, or authorial slip toward formal/legal narration.
-- **Reason:** Determine if uncontracted forms are intentional (Eleanor's POV, procedural sections) and add an EXCEPTION block to facts.md if so. Otherwise, restore contractions throughout: 'did not' → 'didn't', 'was not' → 'wasn't', 'could not' → 'couldn't', etc. Ch17 in particular (27 instances, Maya's POV) should be cut to 2 maximum. Target: all chapters ≤2 uncontracted forms unless an EXCEPTION is declared.
-- **Authority:** Authorial choice per writing-guide §4.3. Auto-promoted by reviewer pass 11 on 2026-09-02 (source issue: M3).
+### EXCEPTION: Formal / uncontracted register is this book's established style
+- **Scope:** Manuscript-wide. Strongest in: Eleanor Blackwood's dialogue and any narration close to her (zero contractions — aristocratic control, scalpel-precision cadence per her voice card); Dr. Richard's most chilling lines (uncontracted per story.md Critical Requirement #11); Sarah's journal entries and Ethan's speech (both deliberately uncontracted registers); interrogation, procedural, and high-formality scenes; and the late-book clipped narration ("He did not resist." / "She did not tap.") that is this book's signature.
+- **Ruling:** The 2-uncontracted-forms-per-chapter budget does NOT apply to this manuscript. The formal register was reviewed and accepted across Passes 6–10 and the book is published (2026-05-19). Do not flag uncontracted forms at any severity, and do NOT contract them in any fix pass. Contraction sweeps against this style are regressions (a Pass-12 sweep contracted Eleanor's dialogue, violating her voice card; it was reverted).
+- **Authority:** Authorial choice per writing-guide §4.3. Confirmed by Greg, 2026-09-01.
 
 
-### EXCEPTION: Uncontracted Eleanor Blackwood (formal register—requires EXCEPTION declaration or correction)
-- **Scope:** All chapters
-- **Pattern:** Eleanor's POV and narration sections use zero contractions (27 instances in Ch17 alone), producing a formally-controlled, non-human register. Clarification needed: Is this intentional character voice (aristocratic control) or authorial slip?
-- **Reason:** If Eleanor's non-contracting speech is intentional, add EXCEPTION block to facts.md: 'Eleanor Blackwood's dialogue and close-third narration use zero contractions to signal formality and emotional control. Scope: Chapters [list]. Exception honored.' If NOT intentional, revert to human contraction (restore 'didn't,' 'wasn't,' 'won't,' etc., to 2-per-chapter rhetorical budget max).
-- **Authority:** Authorial choice per writing-guide §4.3. Auto-promoted by reviewer pass 11 on 2026-09-02 (source issue: M11).
+### EXCEPTION: Paragraph length beyond the 5-sentence cap is accepted settled style
+- **Scope:** Manuscript-wide, particularly interiority, inventory/observation passages, and single-speaker monologue beats.
+- **Ruling:** The 5-sentence paragraph cap is advisory-only for this book. The manuscript converged at Pass 10 and is published; a splitting pass has already been applied where splits improved rhythm. Do not flag remaining long paragraphs at any severity and do not split or trim them further — trims here are regressions, not fixes.
+- **Authority:** Authorial choice per writing-guide §4.3. Confirmed by Greg, 2026-09-01.
 
 ## Chapter 20
 
