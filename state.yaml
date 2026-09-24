@@ -1,4 +1,4 @@
-phase: reviewing
+phase: publishing
 current_chapter: 31
 total_chapters: 31
 chapters:
@@ -313,7 +313,7 @@ chapters:
     compliance_violations: 0
     fix_passes: 0
 review_pass: 15
-review_converged: false
+review_converged: true
 review_stopped_unconverged: false
 force_full_panel: false
 review_stop_reason: null
@@ -1721,4 +1721,4 @@ last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-04-17T17:05:00.408323+00:00'
-updated_at: '2026-09-02T04:14:58.154049+00:00'
+updated_at: '2026-09-02T04:15:32.560624+00:00'
